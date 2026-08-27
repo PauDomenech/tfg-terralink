@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['imprimir_0',['imprimir',['../classAdaptadorImpressoraEscPos.html#a78869d0eb80eb16e3f7aac3fe0d8d31c',1,'AdaptadorImpressoraEscPos']]],
+  ['imprimircapcalera_1',['imprimircapcalera',['../classAdaptadorImpressoraEscPos.html#a23b673221c34af987409231c3b82a3e5',1,'AdaptadorImpressoraEscPos::imprimirCapcalera()'],['../classServeiImpressio.html#a6ba59f339df94bffbe5978d241cc1c1d',1,'ServeiImpressio::imprimirCapcalera()']]],
+  ['imprimirimatge_2',['imprimirImatge',['../classAdaptadorImpressoraEscPos.html#a285d2bc172a77c8d5027e87dd613b999',1,'AdaptadorImpressoraEscPos']]],
+  ['imprimirimatgedesderuta_3',['imprimirImatgeDesDeRuta',['../classAdaptadorImpressoraEscPos.html#a757114838f854ff22601cfad2c88a041',1,'AdaptadorImpressoraEscPos']]],
+  ['imprimirmissatge_4',['imprimirMissatge',['../classServeiImpressio.html#a5e4925d68d5d73b0acb71c58c398e024',1,'ServeiImpressio']]],
+  ['imprimirmissatgeformat_5',['imprimirMissatgeFormat',['../classAdaptadorImpressoraEscPos.html#a19ebb601d873a47c4b50e0c77e570134',1,'AdaptadorImpressoraEscPos']]],
+  ['indicadorcanal_6',['IndicadorCanal',['../classIndicadorCanal.html#ab47121adfefdcf7d60cbf7ba04d4f3d2',1,'IndicadorCanal']]],
+  ['inicialitzar_7',['inicialitzar',['../classControladorAplicacio.html#aff6634af832e263946c844bc93a397db',1,'ControladorAplicacio']]],
+  ['iniciarconnexio_8',['iniciarConnexio',['../classServeiWhatsApp.html#a6f7d6dc983e0f94600ef3762afa4221b',1,'ServeiWhatsApp']]],
+  ['iniciargravacio_9',['iniciargravacio',['../classControladorAplicacio.html#a1dc8dd817862e54d8aa0ec74bf3ec29c',1,'ControladorAplicacio::iniciarGravacio()'],['../classServeiAudio.html#a390160d914cad983ec5f0806eab87419',1,'ServeiAudio::iniciarGravacio()'],['../classAdaptadorDispositiuAudio.html#a1e35eb42d795b9e522baad88d5397338',1,'AdaptadorDispositiuAudio::iniciarGravacio()']]],
+  ['iniciarmonitoratge_10',['iniciarMonitoratge',['../classServeiMonitoratge.html#a2287894b73ebc349b74dc9c13f39b4eb',1,'ServeiMonitoratge']]],
+  ['iniciarpollingsms_11',['iniciarPollingSMS',['../classAdaptadorModem4G.html#ad6abd538540827ba66d16143a470cc2b',1,'AdaptadorModem4G']]],
+  ['iniciarproces_12',['iniciarProces',['../classAdaptadorWhatsApp.html#a9abd698eebea1070bade364ec6f845a0',1,'AdaptadorWhatsApp']]],
+  ['instancia_13',['instancia',['../classControladorAplicacio.html#aae5d88127d44974529743e39c1fb36c0',1,'ControladorAplicacio::instancia()'],['../classRepositoriContactes.html#a1b8a923669626fef832ae7c67dcf3916',1,'RepositoriContactes::instancia()'],['../classRepositoriMissatges.html#a1c40a547b9d5165d6ab29f0ccc0dbee7',1,'RepositoriMissatges::instancia()'],['../classServeiMonitoratge.html#acedc6f8d820695a57cce28a7d545ffa4',1,'ServeiMonitoratge::instancia()']]],
+  ['instancies_14',['instancies',['../classGestorCanals.html#a5d56f62e347516edd831e44cb51a089c',1,'GestorCanals']]],
+  ['iserveimissatgeria_15',['IServeiMissatgeria',['../classIServeiMissatgeria.html#acf46213545babddc9509456a29c2e66d',1,'IServeiMissatgeria']]]
+];

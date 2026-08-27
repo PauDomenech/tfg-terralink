@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['eliminar_0',['eliminar',['../classRepositoriContactes.html#a6b22a91d08c259c82e63cad76bc03810',1,'RepositoriContactes']]],
+  ['encanviarestat_1',['enCanviarEstat',['../classAdaptadorWhatsApp.html#ab407d8980fed467850ffda1b2ae16049',1,'AdaptadorWhatsApp']]],
+  ['enllegirsortida_2',['enLlegirSortida',['../classAdaptadorWhatsApp.html#adc17c3447729e0c37685fabaa560a7cb',1,'AdaptadorWhatsApp']]],
+  ['enviar_3',['enviar',['../classAdaptadorLoRa.html#adefaad4261ab7408ba3b972188e4b6ff',1,'AdaptadorLoRa::enviar()'],['../classIServeiMissatgeria.html#a3012f6d78db561eb4eb07b9ed87fb199',1,'IServeiMissatgeria::enviar()'],['../classServeiLoRa.html#ae94daeb5c1de54ab4e72866528385534',1,'ServeiLoRa::enviar()'],['../classServeiSMS.html#a6d07390fafe18d54d77f7355cd9c7d10',1,'ServeiSMS::enviar()'],['../classServeiWhatsApp.html#a4ab277352b67073bf06fac93e41b5c5f',1,'ServeiWhatsApp::enviar()']]],
+  ['enviaremergencia_4',['enviarEmergencia',['../classGestorEmergencia.html#a47a1ace86091e7602f5d2d57388df968',1,'GestorEmergencia']]],
+  ['enviarmissatge_5',['EnviarMissatge',['../classEnviarMissatge.html#a85cda701a5cac28d94a8dfa9f26c14ac',1,'EnviarMissatge']]],
+  ['enviarmissatgetext_6',['enviarMissatgeText',['../classControladorAplicacio.html#a95deaa5a09b5aa881c5e30ab91e7a57c',1,'ControladorAplicacio']]],
+  ['enviarsms_7',['enviarSMS',['../classAdaptadorModem4G.html#a1310d040435676a96819e22fff49595b',1,'AdaptadorModem4G']]],
+  ['enviartextacontacte_8',['enviarTextAContacte',['../classControladorAplicacio.html#a57e36072011d68952d9b7e986a6a442e',1,'ControladorAplicacio']]],
+  ['enviarwhatsapp_9',['enviarWhatsApp',['../classAdaptadorWhatsApp.html#a933a476956ad50fcae25e99f4ad0df3e',1,'AdaptadorWhatsApp']]],
+  ['escriurealport_10',['escriureAlPort',['../classAdaptadorImpressoraEscPos.html#aa8623f26b8a8411b5f4a3dcde7b5dd50',1,'AdaptadorImpressoraEscPos']]],
+  ['estadisponible_11',['estadisponible',['../classAdaptadorDispositiuAudio.html#a031113ead605b8154a90f9273045e77e',1,'AdaptadorDispositiuAudio::estaDisponible()'],['../classAdaptadorImpressoraEscPos.html#a8e7eee4e79e1cc01948abe633f89d722',1,'AdaptadorImpressoraEscPos::estaDisponible()'],['../classAdaptadorLoRa.html#aee9f3880c2e9661585c85b48b893fcfd',1,'AdaptadorLoRa::estaDisponible()'],['../classAdaptadorWhatsApp.html#adcc098ec583c8a8063236a80ad93657d',1,'AdaptadorWhatsApp::estaDisponible()'],['../classIServeiMissatgeria.html#acea22f91aa5a9902b71e602ada2fd83e',1,'IServeiMissatgeria::estaDisponible()'],['../classServeiLoRa.html#a2fb291b69ce5fbe7368f0013310ee2fb',1,'ServeiLoRa::estaDisponible()'],['../classServeiSMS.html#a4e435c41c030d6a0cd794b6326367df5',1,'ServeiSMS::estaDisponible()'],['../classServeiWhatsApp.html#a8015a6a45b295079c433cbd10a9aeb1c',1,'ServeiWhatsApp::estaDisponible()']]],
+  ['estadisponiblesms_12',['estaDisponibleSMS',['../classAdaptadorModem4G.html#a6099e8e5d9f3d137ce7b5e2d31447478',1,'AdaptadorModem4G']]],
+  ['estatcanviat_13',['estatCanviat',['../classServeiMonitoratge.html#ae0406f679d9f3e405553ec228896fef6',1,'ServeiMonitoratge']]],
+  ['estatsistema_14',['EstatSistema',['../classEstatSistema.html#a4a1f42539ad8057bf0b37fa778a7d9e1',1,'EstatSistema']]],
+  ['eventfilter_15',['eventFilter',['../classMainWindow.html#aeaecedc36266ab4571b7af2a9fcd5b08',1,'MainWindow']]]
+];
