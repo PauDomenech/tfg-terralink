@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ca">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>TerraLink: Fitxer de Codi adaptadorwhatsapp.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">TerraLink<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Dispositiu de comunicació per a persones grans basat en Raspberry Pi</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function() { init_codefold(0); });
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('adaptadorwhatsapp_8h_source.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Carregant...</div>
+<div class="SRStatus" id="Searching">Cercant...</div>
+<div class="SRStatus" id="NoMatches">Cap coincidència</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">adaptadorwhatsapp.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="adaptadorwhatsapp_8h.html">Veure la documentació d'aquest fitxer.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef ADAPTADORWHATSAPP_H</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define ADAPTADORWHATSAPP_H</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;QObject&gt;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;QString&gt;</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &lt;QProcess&gt;</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span> </div>
+<div class="foldopen" id="foldopen00019" data-start="{" data-end="};">
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html">   19</a></span><span class="keyword">class </span><a class="code hl_class" href="classAdaptadorWhatsApp.html">AdaptadorWhatsApp</a> : <span class="keyword">public</span> QObject</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>{</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>    Q_OBJECT</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span> </div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>    <span class="keyword">explicit</span> <a class="code hl_class" href="classAdaptadorWhatsApp.html">AdaptadorWhatsApp</a>(QObject *parent = <span class="keyword">nullptr</span>);</div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <a class="code hl_function" href="classAdaptadorWhatsApp.html#ac79ff1c4838ce1e263b4af0e8888b5c0">~AdaptadorWhatsApp</a>();</div>
+<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classAdaptadorWhatsApp.html#a9abd698eebea1070bade364ec6f845a0">iniciarProces</a>();</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classAdaptadorWhatsApp.html#ac202e03d46fd1b8e76b6fb304687636a">aturarProces</a>();</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span> </div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="classAdaptadorWhatsApp.html#a933a476956ad50fcae25e99f4ad0df3e">enviarWhatsApp</a>(<span class="keyword">const</span> QString &amp;numero, <span class="keyword">const</span> QString &amp;text);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="classAdaptadorWhatsApp.html#adcc098ec583c8a8063236a80ad93657d">estaDisponible</a>();</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classAdaptadorWhatsApp.html#a1270de29ec959d8fd4cb79afc283fe8c">demanarContactes</a>();</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>signals:</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#ac1f4c2e3fe6b331a6b621ba54123ebfa">   53</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="classAdaptadorWhatsApp.html#ac1f4c2e3fe6b331a6b621ba54123ebfa">qrRebut</a>(<span class="keyword">const</span> QString &amp;qr);</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#ac3747230eb8abab7b23df0ef869c3557">   56</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="classAdaptadorWhatsApp.html#ac3747230eb8abab7b23df0ef869c3557">connectat</a>();</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span> </div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#ae21dfc066c1d634f5ee448c5ed4f5a59">   59</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="classAdaptadorWhatsApp.html#ae21dfc066c1d634f5ee448c5ed4f5a59">desconnectat</a>();</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a737638c67d7809d03ef7662f12a3d3d5">   65</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="classAdaptadorWhatsApp.html#a737638c67d7809d03ef7662f12a3d3d5">missatgeRebut</a>(<span class="keyword">const</span> QString &amp;contingut);</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a55abd0da88b3809cc94e73a6f4183f77">   71</a></span>    <span class="keywordtype">void</span> <a class="code hl_signal" href="classAdaptadorWhatsApp.html#a55abd0da88b3809cc94e73a6f4183f77">contactesRebuts</a>(<span class="keyword">const</span> QString &amp;json);</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span><span class="keyword">private</span> slots:</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    <span class="keywordtype">void</span> <a class="code hl_slot" href="classAdaptadorWhatsApp.html#adc17c3447729e0c37685fabaa560a7cb">enLlegirSortida</a>();</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>    <span class="keywordtype">void</span> <a class="code hl_slot" href="classAdaptadorWhatsApp.html#ab407d8980fed467850ffda1b2ae16049">enCanviarEstat</a>(QProcess::ProcessState estat);</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span> </div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#aa8af2c4e9cca8220d860c25c1081dd7b">   81</a></span>    QProcess *<a class="code hl_variable" href="classAdaptadorWhatsApp.html#aa8af2c4e9cca8220d860c25c1081dd7b">m_proces</a>;                     </div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#abfa27158c8185abc0465e706e38860d8">   82</a></span>    <span class="keywordtype">bool</span>      <a class="code hl_variable" href="classAdaptadorWhatsApp.html#abfa27158c8185abc0465e706e38860d8">m_preparat</a> = <span class="keyword">false</span>;           </div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a555d26485b2f0750bde485bcf830cd56">   83</a></span>    <span class="keywordtype">bool</span>      <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a555d26485b2f0750bde485bcf830cd56">m_capturantQr</a> = <span class="keyword">false</span>;        </div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a3f300dd5487f74894132dfaaeff02fa4">   84</a></span>    QString   <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a3f300dd5487f74894132dfaaeff02fa4">m_bufferQr</a>;                   </div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#af43a12632522354a359db0f22bf030f8">   85</a></span>    <span class="keywordtype">bool</span>      <a class="code hl_variable" href="classAdaptadorWhatsApp.html#af43a12632522354a359db0f22bf030f8">m_capturantContactes</a> = <span class="keyword">false</span>; </div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a1f7e2a46fd97ce54c0733248befd8223">   86</a></span>    QString   <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a1f7e2a46fd97ce54c0733248befd8223">m_bufferContactes</a>;            </div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a417819610ee3e5f497fa65ff6b757905">   87</a></span>    <span class="keywordtype">bool</span>      <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a417819610ee3e5f497fa65ff6b757905">m_esperantResposta</a> = <span class="keyword">false</span>;   </div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#ad05c3a653617b7a59295a0bae4a4d696">   88</a></span>    <span class="keywordtype">bool</span>      <a class="code hl_variable" href="classAdaptadorWhatsApp.html#ad05c3a653617b7a59295a0bae4a4d696">m_ultimEnviamentOk</a> = <span class="keyword">false</span>;   </div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a1d7c54cf17c508da65c98acf1f037602">   89</a></span>    QString   <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a1d7c54cf17c508da65c98acf1f037602">m_rutaScript</a> = <span class="stringliteral">&quot;whatsapp.js&quot;</span>; </div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="classAdaptadorWhatsApp.html#a21135fed596bb14bed9572f6c4e3d030">   90</a></span>    QString   <a class="code hl_variable" href="classAdaptadorWhatsApp.html#a21135fed596bb14bed9572f6c4e3d030">m_directoriTreball</a> = <span class="stringliteral">&quot;/home/paudomenech/TerraLink&quot;</span>; </div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>};</div>
+</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span> </div>
+<div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span><span class="preprocessor">#endif </span><span class="comment">// ADAPTADORWHATSAPP_H</span></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html"><div class="ttname"><a href="classAdaptadorWhatsApp.html">AdaptadorWhatsApp</a></div><div class="ttdoc">Adaptador per a la integració amb WhatsApp via Node.js.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:20</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a1270de29ec959d8fd4cb79afc283fe8c"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a1270de29ec959d8fd4cb79afc283fe8c">AdaptadorWhatsApp::demanarContactes</a></div><div class="ttdeci">void demanarContactes()</div><div class="ttdoc">Demana la llista de contactes al procés Node (GET_CONTACTS).</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:114</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a1d7c54cf17c508da65c98acf1f037602"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a1d7c54cf17c508da65c98acf1f037602">AdaptadorWhatsApp::m_rutaScript</a></div><div class="ttdeci">QString m_rutaScript</div><div class="ttdoc">Nom del script Node.js.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:89</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a1f7e2a46fd97ce54c0733248befd8223"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a1f7e2a46fd97ce54c0733248befd8223">AdaptadorWhatsApp::m_bufferContactes</a></div><div class="ttdeci">QString m_bufferContactes</div><div class="ttdoc">Buffer acumulador del JSON de contactes.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:86</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a21135fed596bb14bed9572f6c4e3d030"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a21135fed596bb14bed9572f6c4e3d030">AdaptadorWhatsApp::m_directoriTreball</a></div><div class="ttdeci">QString m_directoriTreball</div><div class="ttdoc">Directori de treball.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:90</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a3f300dd5487f74894132dfaaeff02fa4"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a3f300dd5487f74894132dfaaeff02fa4">AdaptadorWhatsApp::m_bufferQr</a></div><div class="ttdeci">QString m_bufferQr</div><div class="ttdoc">Buffer acumulador del QR ASCII art.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:84</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a417819610ee3e5f497fa65ff6b757905"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a417819610ee3e5f497fa65ff6b757905">AdaptadorWhatsApp::m_esperantResposta</a></div><div class="ttdeci">bool m_esperantResposta</div><div class="ttdoc">true mentre espera SEND_OK/SEND_ERROR</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:87</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a555d26485b2f0750bde485bcf830cd56"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a555d26485b2f0750bde485bcf830cd56">AdaptadorWhatsApp::m_capturantQr</a></div><div class="ttdeci">bool m_capturantQr</div><div class="ttdoc">true mentre captura línies del QR ASCII</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:83</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a55abd0da88b3809cc94e73a6f4183f77"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a55abd0da88b3809cc94e73a6f4183f77">AdaptadorWhatsApp::contactesRebuts</a></div><div class="ttdeci">void contactesRebuts(const QString &amp;json)</div><div class="ttdoc">S'emet quan s'ha rebut la llista de contactes (CONTACTS_END).</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a737638c67d7809d03ef7662f12a3d3d5"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a737638c67d7809d03ef7662f12a3d3d5">AdaptadorWhatsApp::missatgeRebut</a></div><div class="ttdeci">void missatgeRebut(const QString &amp;contingut)</div><div class="ttdoc">S'emet quan arriba un missatge entrant (INCOMING).</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a933a476956ad50fcae25e99f4ad0df3e"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a933a476956ad50fcae25e99f4ad0df3e">AdaptadorWhatsApp::enviarWhatsApp</a></div><div class="ttdeci">bool enviarWhatsApp(const QString &amp;numero, const QString &amp;text)</div><div class="ttdoc">Envia un missatge de WhatsApp via el procés Node.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:121</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_a9abd698eebea1070bade364ec6f845a0"><div class="ttname"><a href="classAdaptadorWhatsApp.html#a9abd698eebea1070bade364ec6f845a0">AdaptadorWhatsApp::iniciarProces</a></div><div class="ttdeci">void iniciarProces()</div><div class="ttdoc">Inicia el procés Node.js de WhatsApp.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:27</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_aa8af2c4e9cca8220d860c25c1081dd7b"><div class="ttname"><a href="classAdaptadorWhatsApp.html#aa8af2c4e9cca8220d860c25c1081dd7b">AdaptadorWhatsApp::m_proces</a></div><div class="ttdeci">QProcess * m_proces</div><div class="ttdoc">Procés Node.js de WhatsApp.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:81</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ab407d8980fed467850ffda1b2ae16049"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ab407d8980fed467850ffda1b2ae16049">AdaptadorWhatsApp::enCanviarEstat</a></div><div class="ttdeci">void enCanviarEstat(QProcess::ProcessState estat)</div><div class="ttdoc">Registra els canvis d'estat del procés Node.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:43</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_abfa27158c8185abc0465e706e38860d8"><div class="ttname"><a href="classAdaptadorWhatsApp.html#abfa27158c8185abc0465e706e38860d8">AdaptadorWhatsApp::m_preparat</a></div><div class="ttdeci">bool m_preparat</div><div class="ttdoc">true quan Node arriba a APP_READY</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:82</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ac1f4c2e3fe6b331a6b621ba54123ebfa"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ac1f4c2e3fe6b331a6b621ba54123ebfa">AdaptadorWhatsApp::qrRebut</a></div><div class="ttdeci">void qrRebut(const QString &amp;qr)</div><div class="ttdoc">S'emet quan Node genera un QR en format ASCII art.</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ac202e03d46fd1b8e76b6fb304687636a"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ac202e03d46fd1b8e76b6fb304687636a">AdaptadorWhatsApp::aturarProces</a></div><div class="ttdeci">void aturarProces()</div><div class="ttdoc">Atura el procés Node.js de WhatsApp de forma segura.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:34</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ac3747230eb8abab7b23df0ef869c3557"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ac3747230eb8abab7b23df0ef869c3557">AdaptadorWhatsApp::connectat</a></div><div class="ttdeci">void connectat()</div><div class="ttdoc">S'emet quan WhatsApp s'ha connectat correctament (APP_READY).</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ac79ff1c4838ce1e263b4af0e8888b5c0"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ac79ff1c4838ce1e263b4af0e8888b5c0">AdaptadorWhatsApp::~AdaptadorWhatsApp</a></div><div class="ttdeci">~AdaptadorWhatsApp()</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:22</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ad05c3a653617b7a59295a0bae4a4d696"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ad05c3a653617b7a59295a0bae4a4d696">AdaptadorWhatsApp::m_ultimEnviamentOk</a></div><div class="ttdeci">bool m_ultimEnviamentOk</div><div class="ttdoc">Resultat de l'últim enviament.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:88</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_adc17c3447729e0c37685fabaa560a7cb"><div class="ttname"><a href="classAdaptadorWhatsApp.html#adc17c3447729e0c37685fabaa560a7cb">AdaptadorWhatsApp::enLlegirSortida</a></div><div class="ttdeci">void enLlegirSortida()</div><div class="ttdoc">Llegeix i processa la sortida del procés Node línia per línia.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:48</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_adcc098ec583c8a8063236a80ad93657d"><div class="ttname"><a href="classAdaptadorWhatsApp.html#adcc098ec583c8a8063236a80ad93657d">AdaptadorWhatsApp::estaDisponible</a></div><div class="ttdeci">bool estaDisponible()</div><div class="ttdoc">Comprova si WhatsApp està connectat i llest.</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.cpp:156</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_ae21dfc066c1d634f5ee448c5ed4f5a59"><div class="ttname"><a href="classAdaptadorWhatsApp.html#ae21dfc066c1d634f5ee448c5ed4f5a59">AdaptadorWhatsApp::desconnectat</a></div><div class="ttdeci">void desconnectat()</div><div class="ttdoc">S'emet quan WhatsApp es desconnecta (APP_DISCONNECTED).</div></div>
+<div class="ttc" id="aclassAdaptadorWhatsApp_html_af43a12632522354a359db0f22bf030f8"><div class="ttname"><a href="classAdaptadorWhatsApp.html#af43a12632522354a359db0f22bf030f8">AdaptadorWhatsApp::m_capturantContactes</a></div><div class="ttdeci">bool m_capturantContactes</div><div class="ttdoc">true mentre captura el JSON de contactes</div><div class="ttdef"><b>Definition</b> adaptadorwhatsapp.h:85</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="adaptadorwhatsapp_8h.html">adaptadorwhatsapp.h</a></li>
+    <li class="footer">Generat a Dj Ago 27 2026 21:17:47 per a TerraLink per <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>
