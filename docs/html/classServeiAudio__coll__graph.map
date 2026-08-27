@@ -1,0 +1,10 @@
+<map id="ServeiAudio" name="ServeiAudio">
+<area shape="rect" id="Node000001" title="Servei de gravació i transcripció d&#39;àudio." alt="" coords="110,168,210,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,44,44,74,54,104,70,124,90,141,133,166,130,170,87,146,67,128,50,107,39,75,37,44"/>
+<area shape="rect" id="Node000004" href="$classAdaptadorDispositiuAudio.html" title="Adaptador per al dispositiu d&#39;àudio (micròfon)." alt="" coords="65,80,255,105"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="75,36,143,78,140,82,72,40"/>
+<area shape="rect" id="Node000003" href="$classServeiTranscripcio.html" title="Servei de transcripció d&#39;àudio a text mitjançant Whisper." alt="" coords="279,80,419,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,115,257,146,196,170,194,165,255,142,317,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,119,163,167,157,167,157,119"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Missatge" name="Missatge">
+<area shape="rect" id="Node000001" title="Classe abstracta base per a tots els tipus de missatge." alt="" coords="157,79,239,104"/>
+<area shape="rect" id="Node000003" href="$classMissatgeLoRa.html" title="Missatge enviat per LoRa (Meshtastic)." alt="" coords="5,152,119,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,113,85,154,83,149,163,108"/>
+<area shape="rect" id="Node000004" href="$classMissatgeSMS.html" title="Missatge enviat per SMS." alt="" coords="143,152,253,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,118,201,152,195,152,195,118"/>
+<area shape="rect" id="Node000005" href="$classMissatgeWhatsApp.html" title="Missatge enviat per WhatsApp." alt="" coords="277,152,423,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,107,326,149,324,154,233,112"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="161,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,201,79,195,79,195,44"/>
+</map>
