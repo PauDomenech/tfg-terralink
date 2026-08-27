@@ -1,0 +1,27 @@
+var classAdaptadorWhatsApp =
+[
+    [ "AdaptadorWhatsApp", "classAdaptadorWhatsApp.html#a21af8f357c7000f47f0cad7437511d0b", null ],
+    [ "~AdaptadorWhatsApp", "classAdaptadorWhatsApp.html#ac79ff1c4838ce1e263b4af0e8888b5c0", null ],
+    [ "aturarProces", "classAdaptadorWhatsApp.html#ac202e03d46fd1b8e76b6fb304687636a", null ],
+    [ "connectat", "classAdaptadorWhatsApp.html#ac3747230eb8abab7b23df0ef869c3557", null ],
+    [ "contactesRebuts", "classAdaptadorWhatsApp.html#a55abd0da88b3809cc94e73a6f4183f77", null ],
+    [ "demanarContactes", "classAdaptadorWhatsApp.html#a1270de29ec959d8fd4cb79afc283fe8c", null ],
+    [ "desconnectat", "classAdaptadorWhatsApp.html#ae21dfc066c1d634f5ee448c5ed4f5a59", null ],
+    [ "enCanviarEstat", "classAdaptadorWhatsApp.html#ab407d8980fed467850ffda1b2ae16049", null ],
+    [ "enLlegirSortida", "classAdaptadorWhatsApp.html#adc17c3447729e0c37685fabaa560a7cb", null ],
+    [ "enviarWhatsApp", "classAdaptadorWhatsApp.html#a933a476956ad50fcae25e99f4ad0df3e", null ],
+    [ "estaDisponible", "classAdaptadorWhatsApp.html#adcc098ec583c8a8063236a80ad93657d", null ],
+    [ "iniciarProces", "classAdaptadorWhatsApp.html#a9abd698eebea1070bade364ec6f845a0", null ],
+    [ "missatgeRebut", "classAdaptadorWhatsApp.html#a737638c67d7809d03ef7662f12a3d3d5", null ],
+    [ "qrRebut", "classAdaptadorWhatsApp.html#ac1f4c2e3fe6b331a6b621ba54123ebfa", null ],
+    [ "m_bufferContactes", "classAdaptadorWhatsApp.html#a1f7e2a46fd97ce54c0733248befd8223", null ],
+    [ "m_bufferQr", "classAdaptadorWhatsApp.html#a3f300dd5487f74894132dfaaeff02fa4", null ],
+    [ "m_capturantContactes", "classAdaptadorWhatsApp.html#af43a12632522354a359db0f22bf030f8", null ],
+    [ "m_capturantQr", "classAdaptadorWhatsApp.html#a555d26485b2f0750bde485bcf830cd56", null ],
+    [ "m_directoriTreball", "classAdaptadorWhatsApp.html#a21135fed596bb14bed9572f6c4e3d030", null ],
+    [ "m_esperantResposta", "classAdaptadorWhatsApp.html#a417819610ee3e5f497fa65ff6b757905", null ],
+    [ "m_preparat", "classAdaptadorWhatsApp.html#abfa27158c8185abc0465e706e38860d8", null ],
+    [ "m_proces", "classAdaptadorWhatsApp.html#aa8af2c4e9cca8220d860c25c1081dd7b", null ],
+    [ "m_rutaScript", "classAdaptadorWhatsApp.html#a1d7c54cf17c508da65c98acf1f037602", null ],
+    [ "m_ultimEnviamentOk", "classAdaptadorWhatsApp.html#ad05c3a653617b7a59295a0bae4a4d696", null ]
+];

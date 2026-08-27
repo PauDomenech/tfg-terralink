@@ -1,0 +1,28 @@
+<map id="ControladorAplicacio" name="ControladorAplicacio">
+<area shape="rect" id="Node000001" title="Controlador principal de l&#39;aplicació." alt="" coords="1035,193,1192,218"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,170,80,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,156,59,126,75,92,98,57,128,29,154,13,177,6,231,3,794,3,847,9,897,26,945,51,988,80,1059,143,1103,191,1099,194,1056,147,985,85,942,55,895,31,846,15,794,8,231,8,178,11,156,18,131,33,102,61,80,94,64,128,53,158"/>
+<area shape="rect" id="Node000003" href="$classGestorEmergencia.html" title="Gestiona el protocol d&#39;emergència." alt="" coords="721,145,864,170"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,175,104,174,278,164,450,159,721,155,721,160,450,164,278,170,104,179,94,180"/>
+<area shape="rect" id="Node000004" href="$classServeiMonitoratge.html" title="Servei de monitoratge de l&#39;estat del sistema." alt="" coords="475,94,617,120"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="66,159,83,147,103,137,151,121,201,110,302,98,397,95,475,98,475,103,397,100,303,103,202,116,153,127,105,142,86,151,69,163"/>
+<area shape="rect" id="Node000005" href="$classEstatSistema.html" title="Representa l&#39;estat actual de tots els components del sistema." alt="" coords="179,44,287,69"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="52,156,71,120,86,102,102,86,139,68,178,58,179,63,141,73,106,91,89,105,76,123,56,158"/>
+<area shape="rect" id="Node000006" href="$classServeiAudio.html" title="Servei de gravació i transcripció d&#39;àudio." alt="" coords="496,232,596,257"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="94,186,451,227,496,234,496,239,450,232,94,191"/>
+<area shape="rect" id="Node000008" href="$classAdaptadorDispositiuAudio.html" title="Adaptador per al dispositiu d&#39;àudio (micròfon)." alt="" coords="137,246,328,272"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="71,203,105,225,161,244,159,249,103,229,68,207"/>
+<area shape="rect" id="Node000009" href="$classServeiImpressio.html" title="Servei d&#39;impressió de missatges." alt="" coords="483,346,609,372"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="53,208,63,238,79,272,102,304,131,330,158,342,195,350,290,359,393,361,482,359,483,365,393,367,289,365,194,355,156,347,128,335,98,308,75,275,58,240,48,210"/>
+<area shape="rect" id="Node000010" href="$classAdaptadorImpressoraEscPos.html" title="Adaptador per a la impressora tèrmica ESC/POS via USB." alt="" coords="129,397,336,422"/>
+<area shape="poly" id="edge16_Node000010_Node000002" title=" " alt="" coords="47,210,51,247,60,292,77,337,90,358,106,376,136,395,133,399,102,380,86,361,73,340,55,293,45,248,42,210"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="878,168,1035,191,1034,197,877,173"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="623,120,731,142,730,148,622,125"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="301,63,451,86,484,92,483,97,450,91,300,68"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="610,237,1034,208,1035,214,610,243"/>
+<area shape="rect" id="Node000007" href="$classServeiTranscripcio.html" title="Servei de transcripció d&#39;àudio a text mitjançant Whisper." alt="" coords="163,296,303,321"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="316,295,450,271,507,255,509,260,451,276,317,301"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="341,251,496,244,496,249,342,257"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="606,340,1065,216,1066,221,608,345"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="349,403,450,390,514,369,516,374,451,395,350,409"/>
+</map>
