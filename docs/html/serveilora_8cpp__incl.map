@@ -1,0 +1,16 @@
+<map id="serveilora.cpp" name="serveilora.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,208,31"/>
+<area shape="rect" id="Node000002" href="$serveilora_8h.html" title=" " alt="" coords="33,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,33,105,70,101,67,138,29"/>
+<area shape="rect" id="Node000006" href="$adaptadorlora_8h.html" title=" " alt="" coords="156,79,281,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,29,200,67,196,70,160,33"/>
+<area shape="rect" id="Node000003" href="$iserveimissatgeria_8h.html" title=" " alt="" coords="5,152,160,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,104,85,138,80,138,80,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,225,221,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="100,175,158,215,155,219,97,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="55,225,110,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="85,178,85,212,80,212,80,178"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="218,105,193,213,187,211,213,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="235,152,306,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="229,103,256,139,252,142,225,106"/>
+</map>
