@@ -1,0 +1,10 @@
+<map id="ServeiSMS" name="ServeiSMS">
+<area shape="rect" id="Node000001" title="Implementació del servei de missatgeria via SMS." alt="" coords="117,168,207,193"/>
+<area shape="rect" id="Node000002" href="$classIServeiMissatgeria.html" title="Interfície per a tots els serveis de missatgeria." alt="" coords="5,80,148,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,113,152,166,148,169,96,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,5,199,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,42,92,82,89,78,136,38"/>
+<area shape="rect" id="Node000004" href="$classAdaptadorModem4G.html" title="Adaptador per al mòdem 4G Huawei E3372 HiLink." alt="" coords="172,80,328,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="188,38,237,77,234,82,185,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,117,176,169,172,166,227,113"/>
+</map>

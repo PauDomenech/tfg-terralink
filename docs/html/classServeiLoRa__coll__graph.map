@@ -1,0 +1,10 @@
+<map id="ServeiLoRa" name="ServeiLoRa">
+<area shape="rect" id="Node000001" title="Implementació del servei de missatgeria via LoRa (Meshtastic)." alt="" coords="107,168,201,193"/>
+<area shape="rect" id="Node000002" href="$classIServeiMissatgeria.html" title="Interfície per a tots els serveis de missatgeria." alt="" coords="5,80,148,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,114,145,166,141,169,94,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,5,191,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,42,91,82,88,78,130,38"/>
+<area shape="rect" id="Node000004" href="$classAdaptadorLoRa.html" title="Adaptador per al mòdul LoRa (Meshtastic)." alt="" coords="172,80,293,105"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="178,38,222,78,218,82,175,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,117,167,169,163,166,211,114"/>
+</map>

@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ca">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>TerraLink: Fitxer de Codi controladoraplicacio.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">TerraLink<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Dispositiu de comunicació per a persones grans basat en Raspberry Pi</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function() { init_codefold(0); });
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('controladoraplicacio_8h_source.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Carregant...</div>
+<div class="SRStatus" id="Searching">Cercant...</div>
+<div class="SRStatus" id="NoMatches">Cap coincidència</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">controladoraplicacio.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="controladoraplicacio_8h.html">Veure la documentació d'aquest fitxer.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef CONTROLADORAPLICACIO_H</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define CONTROLADORAPLICACIO_H</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;QObject&gt;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="keyword">class </span><a class="code hl_class" href="classGestorEmergencia.html">GestorEmergencia</a>;</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">class </span><a class="code hl_class" href="classServeiAudio.html">ServeiAudio</a>;</div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="keyword">class </span><a class="code hl_class" href="classServeiImpressio.html">ServeiImpressio</a>;</div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="keyword">class </span><a class="code hl_class" href="classMissatge.html">Missatge</a>;</div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">class </span><a class="code hl_class" href="classContacte.html">Contacte</a>;</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
+<div class="foldopen" id="foldopen00022" data-start="{" data-end="};">
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html">   22</a></span><span class="keyword">class </span><a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a> : <span class="keyword">public</span> QObject</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>{</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>    Q_OBJECT</div>
+<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>    <span class="keyword">static</span> <a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a>&amp; <a class="code hl_function" href="classControladorAplicacio.html#aae5d88127d44974529743e39c1fb36c0">instancia</a>();</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span> </div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#aff6634af832e263946c844bc93a397db">inicialitzar</a>();</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#a95deaa5a09b5aa881c5e30ab91e7a57c">enviarMissatgeText</a>(<span class="keyword">const</span> QString &amp;text);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span> </div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#a52d32204600626238fcec8483f819f40">transcriureAudio</a>();</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span> </div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#a0c9ff812770edb7f0f532408a0c53980">processarMissatgeEntrant</a>(<a class="code hl_class" href="classMissatge.html">Missatge</a> *m);</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#ad3cc14c91e0feac89938c92d9dfdd44d">activarEmergencia</a>(<a class="code hl_class" href="classContacte.html">Contacte</a> *c);</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    <span class="keywordtype">bool</span> <a class="code hl_function" href="classControladorAplicacio.html#a1dc8dd817862e54d8aa0ec74bf3ec29c">iniciarGravacio</a>();</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span> </div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#a0f701679b218f7e6c4805747765c88b7">transcriureIEnviaA</a>(<a class="code hl_class" href="classContacte.html">Contacte</a> *c);</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    QString <a class="code hl_function" href="classControladorAplicacio.html#a39318fcbde7738263ff2b90d8433d3a5">aturarITranscriure</a>();</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classControladorAplicacio.html#a57e36072011d68952d9b7e986a6a442e">enviarTextAContacte</a>(<span class="keyword">const</span> QString &amp;text, <a class="code hl_class" href="classContacte.html">Contacte</a> *c);</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span> </div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html#a08c0ac233e318cf18164658e6dca1525">   84</a></span>    <a class="code hl_class" href="classGestorEmergencia.html">GestorEmergencia</a> *<a class="code hl_variable" href="classControladorAplicacio.html#a08c0ac233e318cf18164658e6dca1525">gestorEmergencia</a>; </div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span><span class="keyword">private</span> slots:</div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>    <span class="keywordtype">void</span> <a class="code hl_slot" href="classControladorAplicacio.html#a674c73906b18495b88dcce9025855f72">onMissatgeWhatsAppRebut</a>(<span class="keyword">const</span> QString &amp;contingut);</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span> </div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>    <span class="keywordtype">void</span> <a class="code hl_slot" href="classControladorAplicacio.html#ad6b8c953824410864510dbb01f70c851">onSMSRebut</a>(<span class="keyword">const</span> QString &amp;telefon, <span class="keyword">const</span> QString &amp;text, <span class="keyword">const</span> QString &amp;data);</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span> </div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>    <a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a>(QObject *parent = <span class="keyword">nullptr</span>);</div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html#acca9134c8505a6579e3ad41fd1987260">  103</a></span>    <a class="code hl_function" href="classControladorAplicacio.html#acca9134c8505a6579e3ad41fd1987260">ControladorAplicacio</a>(<span class="keyword">const</span> <a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a>&amp;) = <span class="keyword">delete</span>;</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html#a9a0a0dfaaafb14911021f90108ab599d">  104</a></span>    <a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a>&amp; <a class="code hl_function" href="classControladorAplicacio.html#a9a0a0dfaaafb14911021f90108ab599d">operator=</a>(<span class="keyword">const</span> <a class="code hl_class" href="classControladorAplicacio.html">ControladorAplicacio</a>&amp;) = <span class="keyword">delete</span>;</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span> </div>
+<div class="line"><a id="l00106" name="l00106"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html#ae72e86dfa12101e7814a0ed9fbad561e">  106</a></span>    <a class="code hl_class" href="classServeiAudio.html">ServeiAudio</a>     *<a class="code hl_variable" href="classControladorAplicacio.html#ae72e86dfa12101e7814a0ed9fbad561e">m_serveiAudio</a>;     </div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno"><a class="line" href="classControladorAplicacio.html#ae8a53451874f0950e1ac740bab8bde3a">  107</a></span>    <a class="code hl_class" href="classServeiImpressio.html">ServeiImpressio</a> *<a class="code hl_variable" href="classControladorAplicacio.html#ae8a53451874f0950e1ac740bab8bde3a">m_serveiImpressio</a>; </div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>};</div>
+</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span> </div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span><span class="preprocessor">#endif </span><span class="comment">// CONTROLADORAPLICACIO_H</span></div>
+<div class="ttc" id="aclassContacte_html"><div class="ttname"><a href="classContacte.html">Contacte</a></div><div class="ttdoc">Representa un contacte del sistema.</div><div class="ttdef"><b>Definition</b> contacte.h:15</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html"><div class="ttname"><a href="classControladorAplicacio.html">ControladorAplicacio</a></div><div class="ttdoc">Controlador principal de l'aplicació.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.h:23</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a08c0ac233e318cf18164658e6dca1525"><div class="ttname"><a href="classControladorAplicacio.html#a08c0ac233e318cf18164658e6dca1525">ControladorAplicacio::gestorEmergencia</a></div><div class="ttdeci">GestorEmergencia * gestorEmergencia</div><div class="ttdoc">Gestor del protocol d'emergència (broadcast multicanal)</div><div class="ttdef"><b>Definition</b> controladoraplicacio.h:84</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a0c9ff812770edb7f0f532408a0c53980"><div class="ttname"><a href="classControladorAplicacio.html#a0c9ff812770edb7f0f532408a0c53980">ControladorAplicacio::processarMissatgeEntrant</a></div><div class="ttdeci">void processarMissatgeEntrant(Missatge *m)</div><div class="ttdoc">Processa un missatge entrant: el desa al repositori i l'imprimeix.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:90</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a0f701679b218f7e6c4805747765c88b7"><div class="ttname"><a href="classControladorAplicacio.html#a0f701679b218f7e6c4805747765c88b7">ControladorAplicacio::transcriureIEnviaA</a></div><div class="ttdeci">void transcriureIEnviaA(Contacte *c)</div><div class="ttdoc">Atura la gravació, transcriu i envia el missatge a un contacte específic.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:135</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a1dc8dd817862e54d8aa0ec74bf3ec29c"><div class="ttname"><a href="classControladorAplicacio.html#a1dc8dd817862e54d8aa0ec74bf3ec29c">ControladorAplicacio::iniciarGravacio</a></div><div class="ttdeci">bool iniciarGravacio()</div><div class="ttdoc">Inicia la gravació de veu via ServeiAudio.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:130</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a39318fcbde7738263ff2b90d8433d3a5"><div class="ttname"><a href="classControladorAplicacio.html#a39318fcbde7738263ff2b90d8433d3a5">ControladorAplicacio::aturarITranscriure</a></div><div class="ttdeci">QString aturarITranscriure()</div><div class="ttdoc">Atura la gravació i retorna la ruta al fitxer d'àudio (per transcripció asíncrona).</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:151</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a52d32204600626238fcec8483f819f40"><div class="ttname"><a href="classControladorAplicacio.html#a52d32204600626238fcec8483f819f40">ControladorAplicacio::transcriureAudio</a></div><div class="ttdeci">void transcriureAudio()</div><div class="ttdoc">Atura la gravació d'àudio, el transcriu i l'envia al primer contacte.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:83</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a57e36072011d68952d9b7e986a6a442e"><div class="ttname"><a href="classControladorAplicacio.html#a57e36072011d68952d9b7e986a6a442e">ControladorAplicacio::enviarTextAContacte</a></div><div class="ttdeci">void enviarTextAContacte(const QString &amp;text, Contacte *c)</div><div class="ttdoc">Envia un text a un contacte específic per WhatsApp.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:156</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a674c73906b18495b88dcce9025855f72"><div class="ttname"><a href="classControladorAplicacio.html#a674c73906b18495b88dcce9025855f72">ControladorAplicacio::onMissatgeWhatsAppRebut</a></div><div class="ttdeci">void onMissatgeWhatsAppRebut(const QString &amp;contingut)</div><div class="ttdoc">S'executa quan arriba un missatge de WhatsApp via AdaptadorWhatsApp.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:113</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a95deaa5a09b5aa881c5e30ab91e7a57c"><div class="ttname"><a href="classControladorAplicacio.html#a95deaa5a09b5aa881c5e30ab91e7a57c">ControladorAplicacio::enviarMissatgeText</a></div><div class="ttdeci">void enviarMissatgeText(const QString &amp;text)</div><div class="ttdoc">Envia un missatge de text per tots els canals disponibles.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:64</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_a9a0a0dfaaafb14911021f90108ab599d"><div class="ttname"><a href="classControladorAplicacio.html#a9a0a0dfaaafb14911021f90108ab599d">ControladorAplicacio::operator=</a></div><div class="ttdeci">ControladorAplicacio &amp; operator=(const ControladorAplicacio &amp;)=delete</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_aae5d88127d44974529743e39c1fb36c0"><div class="ttname"><a href="classControladorAplicacio.html#aae5d88127d44974529743e39c1fb36c0">ControladorAplicacio::instancia</a></div><div class="ttdeci">static ControladorAplicacio &amp; instancia()</div><div class="ttdoc">Retorna la instància única del controlador (Singleton).</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:28</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_acca9134c8505a6579e3ad41fd1987260"><div class="ttname"><a href="classControladorAplicacio.html#acca9134c8505a6579e3ad41fd1987260">ControladorAplicacio::ControladorAplicacio</a></div><div class="ttdeci">ControladorAplicacio(const ControladorAplicacio &amp;)=delete</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_ad3cc14c91e0feac89938c92d9dfdd44d"><div class="ttname"><a href="classControladorAplicacio.html#ad3cc14c91e0feac89938c92d9dfdd44d">ControladorAplicacio::activarEmergencia</a></div><div class="ttdeci">void activarEmergencia(Contacte *c)</div><div class="ttdoc">Activa el protocol d'emergència per a tots els contactes marcats.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:97</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_ad6b8c953824410864510dbb01f70c851"><div class="ttname"><a href="classControladorAplicacio.html#ad6b8c953824410864510dbb01f70c851">ControladorAplicacio::onSMSRebut</a></div><div class="ttdeci">void onSMSRebut(const QString &amp;telefon, const QString &amp;text, const QString &amp;data)</div><div class="ttdoc">S'executa quan el polling detecta un SMS nou via AdaptadorModem4G.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:170</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_ae72e86dfa12101e7814a0ed9fbad561e"><div class="ttname"><a href="classControladorAplicacio.html#ae72e86dfa12101e7814a0ed9fbad561e">ControladorAplicacio::m_serveiAudio</a></div><div class="ttdeci">ServeiAudio * m_serveiAudio</div><div class="ttdoc">Servei de gravació i transcripció d'àudio.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.h:106</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_ae8a53451874f0950e1ac740bab8bde3a"><div class="ttname"><a href="classControladorAplicacio.html#ae8a53451874f0950e1ac740bab8bde3a">ControladorAplicacio::m_serveiImpressio</a></div><div class="ttdeci">ServeiImpressio * m_serveiImpressio</div><div class="ttdoc">Servei d'impressió tèrmica ESC/POS.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.h:107</div></div>
+<div class="ttc" id="aclassControladorAplicacio_html_aff6634af832e263946c844bc93a397db"><div class="ttname"><a href="classControladorAplicacio.html#aff6634af832e263946c844bc93a397db">ControladorAplicacio::inicialitzar</a></div><div class="ttdeci">void inicialitzar()</div><div class="ttdoc">Inicialitza el sistema: canals, monitor, impressora i contactes de prova.</div><div class="ttdef"><b>Definition</b> controladoraplicacio.cpp:34</div></div>
+<div class="ttc" id="aclassGestorEmergencia_html"><div class="ttname"><a href="classGestorEmergencia.html">GestorEmergencia</a></div><div class="ttdoc">Gestiona el protocol d'emergència.</div><div class="ttdef"><b>Definition</b> gestoremergencia.h:23</div></div>
+<div class="ttc" id="aclassMissatge_html"><div class="ttname"><a href="classMissatge.html">Missatge</a></div><div class="ttdoc">Classe abstracta base per a tots els tipus de missatge.</div><div class="ttdef"><b>Definition</b> missatge.h:29</div></div>
+<div class="ttc" id="aclassServeiAudio_html"><div class="ttname"><a href="classServeiAudio.html">ServeiAudio</a></div><div class="ttdoc">Servei de gravació i transcripció d'àudio.</div><div class="ttdef"><b>Definition</b> serveiaudio.h:19</div></div>
+<div class="ttc" id="aclassServeiImpressio_html"><div class="ttname"><a href="classServeiImpressio.html">ServeiImpressio</a></div><div class="ttdoc">Servei d'impressió de missatges.</div><div class="ttdef"><b>Definition</b> serveiimpressio.h:20</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="controladoraplicacio_8h.html">controladoraplicacio.h</a></li>
+    <li class="footer">Generat a Dj Ago 27 2026 21:17:47 per a TerraLink per <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>

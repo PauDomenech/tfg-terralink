@@ -1,0 +1,35 @@
+<map id="configuracio.cpp" name="configuracio.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="410,5,538,31"/>
+<area shape="rect" id="Node000002" href="$configuracio_8h.html" title=" " alt="" coords="417,79,531,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,31,477,65,471,65,471,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="140,79,272,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="432,33,263,78,262,73,430,28"/>
+<area shape="rect" id="Node000005" href="$qrwhatsapp_8h.html" title=" " alt="" coords="5,79,116,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="410,33,130,81,129,76,409,28"/>
+<area shape="rect" id="Node000006" href="$contactes_8h.html" title=" " alt="" coords="296,79,393,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="454,33,379,74,377,69,452,28"/>
+<area shape="rect" id="Node000007" href="$gestorcanals_8h.html" title=" " alt="" coords="717,79,834,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="523,28,714,73,713,78,522,33"/>
+<area shape="rect" id="Node000010" href="$serveiwhatsapp_8h.html" title=" " alt="" coords="555,79,692,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="499,28,588,70,585,75,497,33"/>
+<area shape="rect" id="Node000014" href="$adaptadorwhatsapp_8h.html" title=" " alt="" coords="858,79,1021,104"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="539,26,851,74,851,79,538,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="307,152,382,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,106,379,147,377,143,452,102"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="107,101,295,148,293,153,106,107"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="347,104,347,138,342,138,342,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="740,152,800,177"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="777,105,775,139,769,138,772,104"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="824,152,895,177"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="791,102,837,141,833,145,787,106"/>
+<area shape="rect" id="Node000011" href="$iserveimissatgeria_8h.html" title=" " alt="" coords="551,152,706,177"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="627,104,629,138,624,139,622,105"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="783,225,858,251"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="660,175,777,218,775,223,659,180"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="601,225,656,251"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="631,178,631,212,626,212,626,178"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="928,106,884,145,881,141,925,102"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="940,105,930,140,909,179,885,203,858,221,856,216,882,198,905,176,925,138,935,103"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="970,152,1053,177"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="953,102,992,140,988,144,949,106"/>
+</map>

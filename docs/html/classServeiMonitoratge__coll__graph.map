@@ -1,0 +1,8 @@
+<map id="ServeiMonitoratge" name="ServeiMonitoratge">
+<area shape="rect" id="Node000001" title="Servei de monitoratge de l&#39;estat del sistema." alt="" coords="5,168,148,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,5,109,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,44,79,168,74,168,70,45"/>
+<area shape="rect" id="Node000003" href="$classEstatSistema.html" title="Representa l&#39;estat actual de tots els components del sistema." alt="" coords="93,80,201,105"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="95,38,137,78,133,81,92,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,118,89,169,84,166,127,114"/>
+</map>
