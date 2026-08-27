@@ -1,0 +1,13 @@
+<map id="Jerarquia Gràfica de la Classe" name="Jerarquia Gràfica de la Classe">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,104,80,129"/>
+<area shape="rect" id="Node000001" href="$classConfiguracio.html" title="Diàleg de configuració del sistema." alt="" coords="143,5,246,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="63,92,92,65,127,40,150,28,153,33,129,44,95,69,67,96"/>
+<area shape="rect" id="Node000002" href="$classContactes.html" title="Diàleg de gestió de contactes." alt="" coords="151,55,238,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="92,98,154,77,156,83,94,103"/>
+<area shape="rect" id="Node000003" href="$classEnviarMissatge.html" title="Diàleg per gravar, transcriure i enviar missatges de veu." alt="" coords="133,104,256,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="94,114,133,114,133,119,94,119"/>
+<area shape="rect" id="Node000004" href="$classMissatgesRebuts.html" title="Diàleg per visualitzar i imprimir els missatges rebuts." alt="" coords="128,153,261,179"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="94,130,156,151,154,156,92,135"/>
+<area shape="rect" id="Node000005" href="$classQRWhatsapp.html" title="Diàleg per mostrar el codi QR d&#39;autenticació de WhatsApp." alt="" coords="141,203,248,228"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="67,137,96,163,129,188,155,200,153,205,127,192,92,167,64,141"/>
+</map>

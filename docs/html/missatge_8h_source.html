@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ca">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>TerraLink: Fitxer de Codi missatge.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">TerraLink<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Dispositiu de comunicació per a persones grans basat en Raspberry Pi</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.9.8 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function() { init_codefold(0); });
+/* @license-end */
+</script>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('missatge_8h_source.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Carregant...</div>
+<div class="SRStatus" id="Searching">Cercant...</div>
+<div class="SRStatus" id="NoMatches">Cap coincidència</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">missatge.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="missatge_8h.html">Veure la documentació d'aquest fitxer.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="preprocessor">#ifndef MISSATGE_H</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define MISSATGE_H</span></div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
+<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;QObject&gt;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;QDateTime&gt;</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
+<div class="foldopen" id="foldopen00010" data-start="{" data-end="};">
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno"><a class="line" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734b">   10</a></span><span class="keyword">enum class</span> <a class="code hl_enumeration" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734b">EstatMissatge</a> {</div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734bac4b8b29d8acdeee26903507ef98e9882">Esborrany</a>,  </div>
+<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba3279c6ee83525b9946c0a564d85f9613">Enviant</a>,    </div>
+<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba1900355981785dbf5e7bbd7a478498a7">Enviat</a>,     </div>
+<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734baddf9d79ea9ccb5288610b5e69a907ebf">Rebut</a>,      </div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba095e6b17a2d7326c29da8973e29776a5">Fallit</a>,     </div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>    <a class="code hl_enumvalue" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734baf4e0a60c8e93a1be33203c09593268f9">Impres</a>      </div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>};</div>
+</div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span> </div>
+<div class="foldopen" id="foldopen00028" data-start="{" data-end="};">
+<div class="line"><a id="l00028" name="l00028"></a><span class="lineno"><a class="line" href="classMissatge.html">   28</a></span><span class="keyword">class </span><a class="code hl_class" href="classMissatge.html">Missatge</a> : <span class="keyword">public</span> QObject</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>{</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    Q_OBJECT</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span> </div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    <span class="keyword">explicit</span> <a class="code hl_class" href="classMissatge.html">Missatge</a>(QObject *parent = <span class="keyword">nullptr</span>);</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="classMissatge.html#a806259cdeb8ed1f6f378b76442a17aed">   36</a></span>    QString       <a class="code hl_variable" href="classMissatge.html#a806259cdeb8ed1f6f378b76442a17aed">id</a>;           </div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno"><a class="line" href="classMissatge.html#a29e5bf20bd9dfa068db789582e2bd51b">   37</a></span>    QDateTime     <a class="code hl_variable" href="classMissatge.html#a29e5bf20bd9dfa068db789582e2bd51b">dataCreacio</a>;  </div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno"><a class="line" href="classMissatge.html#ae746217357651dca42ee1dea89173073">   38</a></span>    QString       <a class="code hl_variable" href="classMissatge.html#ae746217357651dca42ee1dea89173073">text</a>;         </div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno"><a class="line" href="classMissatge.html#a384994900f46723b189d682ba339b95a">   39</a></span>    QString       <a class="code hl_variable" href="classMissatge.html#a384994900f46723b189d682ba339b95a">rutaAudio</a>;    </div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno"><a class="line" href="classMissatge.html#afdd6eb07bed5cfe5ffeb86603ec016a3">   40</a></span>    <a class="code hl_enumeration" href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734b">EstatMissatge</a> <a class="code hl_variable" href="classMissatge.html#afdd6eb07bed5cfe5ffeb86603ec016a3">estat</a>;        </div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno"><a class="line" href="classMissatge.html#a363e66c3b4e9426a588693935cda86e4">   41</a></span>    QString       <a class="code hl_variable" href="classMissatge.html#a363e66c3b4e9426a588693935cda86e4">canal</a>;        </div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span> </div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno"><a class="line" href="classMissatge.html#add0bfecec14ae812bbc54d758a1fa270">   44</a></span>    <span class="keyword">virtual</span> QString <a class="code hl_function" href="classMissatge.html#add0bfecec14ae812bbc54d758a1fa270">serialitzar</a>() <span class="keyword">const</span> = 0;</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span> </div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno"><a class="line" href="classMissatge.html#a6570bbdef5eade3eea9886ffc7cc823b">   47</a></span>    <span class="keyword">virtual</span> QString <a class="code hl_function" href="classMissatge.html#a6570bbdef5eade3eea9886ffc7cc823b">canal_</a>() <span class="keyword">const</span> = 0;</div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMissatge.html#abb406fac5b6750fbe6e8661fd5dee0b2">marcarEnviat</a>();</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span> </div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMissatge.html#ac9233383789996b1e56b160b6086565c">marcarRebut</a>();</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classMissatge.html#a5c11515b929d22340b48631f2ae05fb3">marcarFallit</a>();</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>};</div>
+</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span><span class="preprocessor">#endif </span><span class="comment">// MISSATGE_H</span></div>
+<div class="ttc" id="aclassMissatge_html"><div class="ttname"><a href="classMissatge.html">Missatge</a></div><div class="ttdoc">Classe abstracta base per a tots els tipus de missatge.</div><div class="ttdef"><b>Definition</b> missatge.h:29</div></div>
+<div class="ttc" id="aclassMissatge_html_a29e5bf20bd9dfa068db789582e2bd51b"><div class="ttname"><a href="classMissatge.html#a29e5bf20bd9dfa068db789582e2bd51b">Missatge::dataCreacio</a></div><div class="ttdeci">QDateTime dataCreacio</div><div class="ttdoc">Data i hora de creació</div><div class="ttdef"><b>Definition</b> missatge.h:37</div></div>
+<div class="ttc" id="aclassMissatge_html_a363e66c3b4e9426a588693935cda86e4"><div class="ttname"><a href="classMissatge.html#a363e66c3b4e9426a588693935cda86e4">Missatge::canal</a></div><div class="ttdeci">QString canal</div><div class="ttdoc">Canal d'enviament (&quot;whatsapp&quot;, &quot;sms&quot;, &quot;lora&quot;)</div><div class="ttdef"><b>Definition</b> missatge.h:41</div></div>
+<div class="ttc" id="aclassMissatge_html_a384994900f46723b189d682ba339b95a"><div class="ttname"><a href="classMissatge.html#a384994900f46723b189d682ba339b95a">Missatge::rutaAudio</a></div><div class="ttdeci">QString rutaAudio</div><div class="ttdoc">Ruta al fitxer d'àudio (si escau)</div><div class="ttdef"><b>Definition</b> missatge.h:39</div></div>
+<div class="ttc" id="aclassMissatge_html_a5c11515b929d22340b48631f2ae05fb3"><div class="ttname"><a href="classMissatge.html#a5c11515b929d22340b48631f2ae05fb3">Missatge::marcarFallit</a></div><div class="ttdeci">void marcarFallit()</div><div class="ttdoc">Marca el missatge com a fallit.</div><div class="ttdef"><b>Definition</b> missatge.cpp:22</div></div>
+<div class="ttc" id="aclassMissatge_html_a6570bbdef5eade3eea9886ffc7cc823b"><div class="ttname"><a href="classMissatge.html#a6570bbdef5eade3eea9886ffc7cc823b">Missatge::canal_</a></div><div class="ttdeci">virtual QString canal_() const =0</div><div class="ttdoc">Retorna el nom del canal d'aquest missatge.</div></div>
+<div class="ttc" id="aclassMissatge_html_a806259cdeb8ed1f6f378b76442a17aed"><div class="ttname"><a href="classMissatge.html#a806259cdeb8ed1f6f378b76442a17aed">Missatge::id</a></div><div class="ttdeci">QString id</div><div class="ttdoc">Identificador únic del missatge (UUID)</div><div class="ttdef"><b>Definition</b> missatge.h:36</div></div>
+<div class="ttc" id="aclassMissatge_html_abb406fac5b6750fbe6e8661fd5dee0b2"><div class="ttname"><a href="classMissatge.html#abb406fac5b6750fbe6e8661fd5dee0b2">Missatge::marcarEnviat</a></div><div class="ttdeci">void marcarEnviat()</div><div class="ttdoc">Marca el missatge com a enviat.</div><div class="ttdef"><b>Definition</b> missatge.cpp:12</div></div>
+<div class="ttc" id="aclassMissatge_html_ac9233383789996b1e56b160b6086565c"><div class="ttname"><a href="classMissatge.html#ac9233383789996b1e56b160b6086565c">Missatge::marcarRebut</a></div><div class="ttdeci">void marcarRebut()</div><div class="ttdoc">Marca el missatge com a rebut.</div><div class="ttdef"><b>Definition</b> missatge.cpp:17</div></div>
+<div class="ttc" id="aclassMissatge_html_add0bfecec14ae812bbc54d758a1fa270"><div class="ttname"><a href="classMissatge.html#add0bfecec14ae812bbc54d758a1fa270">Missatge::serialitzar</a></div><div class="ttdeci">virtual QString serialitzar() const =0</div><div class="ttdoc">Serialitza el missatge a text per enviar-lo.</div></div>
+<div class="ttc" id="aclassMissatge_html_ae746217357651dca42ee1dea89173073"><div class="ttname"><a href="classMissatge.html#ae746217357651dca42ee1dea89173073">Missatge::text</a></div><div class="ttdeci">QString text</div><div class="ttdoc">Contingut del missatge.</div><div class="ttdef"><b>Definition</b> missatge.h:38</div></div>
+<div class="ttc" id="aclassMissatge_html_afdd6eb07bed5cfe5ffeb86603ec016a3"><div class="ttname"><a href="classMissatge.html#afdd6eb07bed5cfe5ffeb86603ec016a3">Missatge::estat</a></div><div class="ttdeci">EstatMissatge estat</div><div class="ttdoc">Estat actual del missatge.</div><div class="ttdef"><b>Definition</b> missatge.h:40</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734b"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734b">EstatMissatge</a></div><div class="ttdeci">EstatMissatge</div><div class="ttdoc">Estats possibles d'un missatge.</div><div class="ttdef"><b>Definition</b> missatge.h:10</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734ba095e6b17a2d7326c29da8973e29776a5"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba095e6b17a2d7326c29da8973e29776a5">EstatMissatge::Fallit</a></div><div class="ttdeci">@ Fallit</div><div class="ttdoc">Enviament fallit.</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734ba1900355981785dbf5e7bbd7a478498a7"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba1900355981785dbf5e7bbd7a478498a7">EstatMissatge::Enviat</a></div><div class="ttdeci">@ Enviat</div><div class="ttdoc">Missatge enviat correctament.</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734ba3279c6ee83525b9946c0a564d85f9613"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734ba3279c6ee83525b9946c0a564d85f9613">EstatMissatge::Enviant</a></div><div class="ttdeci">@ Enviant</div><div class="ttdoc">Missatge en procés d'enviament.</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734bac4b8b29d8acdeee26903507ef98e9882"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734bac4b8b29d8acdeee26903507ef98e9882">EstatMissatge::Esborrany</a></div><div class="ttdeci">@ Esborrany</div><div class="ttdoc">Missatge creat però no enviat.</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734baddf9d79ea9ccb5288610b5e69a907ebf"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734baddf9d79ea9ccb5288610b5e69a907ebf">EstatMissatge::Rebut</a></div><div class="ttdeci">@ Rebut</div><div class="ttdoc">Missatge rebut pel destinatari.</div></div>
+<div class="ttc" id="amissatge_8h_html_a0f0a8556320c10b7e99eaa831900734baf4e0a60c8e93a1be33203c09593268f9"><div class="ttname"><a href="missatge_8h.html#a0f0a8556320c10b7e99eaa831900734baf4e0a60c8e93a1be33203c09593268f9">EstatMissatge::Impres</a></div><div class="ttdeci">@ Impres</div><div class="ttdoc">Missatge imprès per la impressora.</div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="missatge_8h.html">missatge.h</a></li>
+    <li class="footer">Generat a Dj Ago 27 2026 21:17:47 per a TerraLink per <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+  </ul>
+</div>
+</body>
+</html>

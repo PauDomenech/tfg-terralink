@@ -1,0 +1,47 @@
+<map id="Jerarquia Gràfica de la Classe" name="Jerarquia Gràfica de la Classe">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,376,80,401"/>
+<area shape="rect" id="Node000001" href="$classAdaptadorDispositiuAudio.html" title="Adaptador per al dispositiu d&#39;àudio (micròfon)." alt="" coords="136,5,327,31"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="44,362,54,287,71,191,95,100,109,65,126,40,142,29,145,33,130,44,114,67,100,102,76,192,59,288,49,363"/>
+<area shape="rect" id="Node000002" href="$classAdaptadorImpressoraEscPos.html" title="Adaptador per a la impressora tèrmica ESC/POS via USB." alt="" coords="128,55,335,80"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="41,362,43,305,54,232,65,193,80,155,100,120,126,89,142,78,146,82,130,93,104,123,85,158,70,195,59,233,48,306,46,362"/>
+<area shape="rect" id="Node000003" href="$classAdaptadorLoRa.html" title="Adaptador per al mòdul LoRa (Meshtastic)." alt="" coords="171,104,292,129"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="42,361,48,314,61,253,86,192,104,163,126,139,147,125,170,118,171,123,149,130,130,143,108,167,90,194,66,255,53,314,48,362"/>
+<area shape="rect" id="Node000004" href="$classAdaptadorModem4G.html" title="Adaptador per al mòdem 4G Huawei E3372 HiLink." alt="" coords="153,153,309,179"/>
+<area shape="poly" id="edge10_Node000000_Node000004" title=" " alt="" coords="45,362,53,323,68,276,92,228,108,207,126,188,152,173,155,178,130,192,112,210,96,231,73,278,58,324,50,363"/>
+<area shape="rect" id="Node000005" href="$classAdaptadorWhatsApp.html" title="Adaptador per a la integració amb WhatsApp via Node.js." alt="" coords="154,203,309,228"/>
+<area shape="poly" id="edge11_Node000000_Node000005" title=" " alt="" coords="49,362,76,299,98,265,126,237,153,223,155,228,130,241,102,269,81,301,54,364"/>
+<area shape="rect" id="Node000006" href="$classContacte.html" title="Representa un contacte del sistema." alt="" coords="191,252,271,277"/>
+<area shape="poly" id="edge12_Node000000_Node000006" title=" " alt="" coords="56,363,85,323,104,303,127,286,158,273,190,265,192,271,160,278,129,291,108,307,89,327,60,366"/>
+<area shape="rect" id="Node000007" href="$classControladorAplicacio.html" title="Controlador principal de l&#39;aplicació." alt="" coords="153,301,310,327"/>
+<area shape="poly" id="edge13_Node000000_Node000007" title=" " alt="" coords="72,366,127,336,162,324,164,329,129,340,74,371"/>
+<area shape="rect" id="Node000008" href="$classEstatSistema.html" title="Representa l&#39;estat actual de tots els components del sistema." alt="" coords="177,351,285,376"/>
+<area shape="poly" id="edge14_Node000000_Node000008" title=" " alt="" coords="93,379,177,368,178,373,94,385"/>
+<area shape="rect" id="Node000009" href="$classGestorEmergencia.html" title="Gestiona el protocol d&#39;emergència." alt="" coords="160,400,303,425"/>
+<area shape="poly" id="edge15_Node000000_Node000009" title=" " alt="" coords="94,392,160,401,160,406,93,398"/>
+<area shape="rect" id="Node000010" href="$classIServeiMissatgeria.html" title="Interfície per a tots els serveis de missatgeria." alt="" coords="160,449,303,475"/>
+<area shape="poly" id="edge16_Node000000_Node000010" title=" " alt="" coords="76,407,129,434,168,447,166,452,127,439,74,411"/>
+<area shape="rect" id="Node000014" href="$classMissatge.html" title="Classe abstracta base per a tots els tipus de missatge." alt="" coords="191,499,272,524"/>
+<area shape="poly" id="edge20_Node000000_Node000014" title=" " alt="" coords="61,412,90,450,109,468,129,484,160,497,191,505,190,510,158,502,127,488,105,472,86,453,57,415"/>
+<area shape="rect" id="Node000018" href="$classRepositoriContactes.html" title="Repositori de contactes." alt="" coords="155,548,308,573"/>
+<area shape="poly" id="edge24_Node000000_Node000018" title=" " alt="" coords="54,413,81,475,103,506,130,533,156,547,153,552,126,537,98,510,76,477,49,416"/>
+<area shape="rect" id="Node000019" href="$classRepositoriMissatges.html" title="Repositori de missatges en memòria." alt="" coords="154,597,309,623"/>
+<area shape="poly" id="edge25_Node000000_Node000019" title=" " alt="" coords="50,415,59,453,74,498,97,544,112,565,130,583,155,597,152,602,126,587,108,568,92,547,69,500,53,454,45,416"/>
+<area shape="rect" id="Node000020" href="$classServeiAudio.html" title="Servei de gravació i transcripció d&#39;àudio." alt="" coords="181,647,281,672"/>
+<area shape="poly" id="edge26_Node000000_Node000020" title=" " alt="" coords="48,415,53,462,66,521,91,581,108,608,130,632,154,647,182,654,180,660,152,652,126,636,104,611,86,583,61,522,48,463,42,416"/>
+<area shape="rect" id="Node000021" href="$classServeiImpressio.html" title="Servei d&#39;impressió de missatges." alt="" coords="168,696,295,721"/>
+<area shape="poly" id="edge27_Node000000_Node000021" title=" " alt="" coords="46,415,48,471,59,543,70,581,85,618,104,653,130,683,148,695,169,702,167,707,145,700,126,687,100,656,80,621,65,583,54,545,43,471,41,415"/>
+<area shape="rect" id="Node000022" href="$classServeiMonitoratge.html" title="Servei de monitoratge de l&#39;estat del sistema." alt="" coords="160,745,303,771"/>
+<area shape="poly" id="edge28_Node000000_Node000022" title=" " alt="" coords="50,415,59,489,76,584,100,674,114,709,130,732,144,743,161,750,159,755,141,747,126,736,109,712,95,676,71,585,54,490,44,415"/>
+<area shape="rect" id="Node000011" href="$classServeiLoRa.html" title="Implementació del servei de missatgeria via LoRa (Meshtastic)." alt="" coords="409,351,503,376"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="314,443,333,434,348,423,357,411,366,398,381,385,407,373,410,377,384,390,370,402,361,414,352,427,336,439,317,448"/>
+<area shape="rect" id="Node000012" href="$classServeiSMS.html" title="Implementació del servei de missatgeria via SMS." alt="" coords="411,400,501,425"/>
+<area shape="poly" id="edge18_Node000010_Node000012" title=" " alt="" coords="302,444,410,420,411,425,304,449"/>
+<area shape="rect" id="Node000013" href="$classServeiWhatsApp.html" title="Implementació del servei de missatgeria via WhatsApp." alt="" coords="391,449,521,475"/>
+<area shape="poly" id="edge19_Node000010_Node000013" title=" " alt="" coords="316,459,391,459,391,465,316,465"/>
+<area shape="rect" id="Node000015" href="$classMissatgeLoRa.html" title="Missatge enviat per LoRa (Meshtastic)." alt="" coords="399,499,513,524"/>
+<area shape="poly" id="edge21_Node000014_Node000015" title=" " alt="" coords="286,509,399,509,399,514,286,514"/>
+<area shape="rect" id="Node000016" href="$classMissatgeSMS.html" title="Missatge enviat per SMS." alt="" coords="401,548,511,573"/>
+<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="286,521,402,546,401,551,285,526"/>
+<area shape="rect" id="Node000017" href="$classMissatgeWhatsApp.html" title="Missatge enviat per WhatsApp." alt="" coords="383,597,529,623"/>
+<area shape="poly" id="edge23_Node000014_Node000017" title=" " alt="" coords="286,515,312,522,336,533,352,545,361,558,370,570,384,582,409,595,407,600,381,587,366,574,357,561,348,549,333,538,310,527,285,520"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="missatgelora.cpp" name="missatgelora.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,5,165,31"/>
+<area shape="rect" id="Node000002" href="$missatgelora_8h.html" title=" " alt="" coords="38,79,157,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,31,100,65,95,65,95,31"/>
+<area shape="rect" id="Node000003" href="$missatge_8h.html" title=" " alt="" coords="50,152,145,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,104,100,138,95,138,95,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,80,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,179,62,216,58,213,86,176"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="104,225,200,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="108,176,137,213,133,216,104,179"/>
+</map>
