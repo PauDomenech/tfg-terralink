@@ -1,0 +1,11 @@
+<map id="indicadorcanal.h" name="indicadorcanal.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,219,31"/>
+<area shape="rect" id="Node000002" href="$indicadorcanal_8cpp.html" title=" " alt="" coords="5,79,149,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,42,92,80,88,76,130,38"/>
+<area shape="rect" id="Node000003" href="$mainwindow_8h.html" title=" " alt="" coords="174,79,290,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,38,221,76,218,80,175,42"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title=" " alt="" coords="125,152,208,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,116,179,154,175,150,210,113"/>
+<area shape="rect" id="Node000005" href="$mainwindow_8cpp.html" title=" " alt="" coords="232,152,363,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="254,113,289,150,285,154,250,116"/>
+</map>

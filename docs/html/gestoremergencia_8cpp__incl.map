@@ -1,0 +1,17 @@
+<map id="gestoremergencia.cpp" name="gestoremergencia.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,5,343,31"/>
+<area shape="rect" id="Node000002" href="$gestoremergencia_8h.html" title=" " alt="" coords="184,79,336,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,31,263,65,257,65,257,31"/>
+<area shape="rect" id="Node000006" href="$iserveimissatgeria_8h.html" title=" " alt="" coords="5,79,160,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="232,33,125,76,123,71,231,28"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="360,79,435,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="283,28,364,70,362,75,281,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,152,209,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,106,199,145,195,141,244,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="234,152,305,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,104,269,138,263,139,259,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="55,152,110,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="232,106,124,150,122,145,231,102"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="99,102,148,141,145,145,95,106"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="85,104,85,138,80,138,80,104"/>
+</map>

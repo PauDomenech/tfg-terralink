@@ -1,0 +1,15 @@
+<map id="indicadorcanal.cpp" name="indicadorcanal.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,5,358,31"/>
+<area shape="rect" id="Node000002" href="$indicadorcanal_8h.html" title=" " alt="" coords="77,79,207,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,33,179,75,177,70,262,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="231,79,341,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,31,289,65,283,65,283,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="365,79,425,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="305,28,367,69,364,73,302,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,106,73,146,70,141,125,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="109,152,175,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="145,104,145,138,139,138,139,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="200,152,271,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="159,102,211,141,208,146,155,106"/>
+</map>
