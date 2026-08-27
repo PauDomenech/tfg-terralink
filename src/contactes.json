@@ -1,0 +1,7380 @@
+[
+    {
+        "emergencia": true,
+        "id": "{fcc3eccd-211a-4da3-bcd4-ba7b3f471967}",
+        "lora": "",
+        "nom": "Meritxell",
+        "numero": "34654777350"
+    },
+    {
+        "emergencia": true,
+        "id": "{63567e6a-dcc9-40cc-9be1-f2b445f02fc0}",
+        "lora": "",
+        "nom": "Pau",
+        "numero": "34659794561"
+    },
+    {
+        "emergencia": false,
+        "id": "{198a1829-a17f-478a-b30f-2d89b6fe8d01}",
+        "lora": "",
+        "nom": "spaiinplus",
+        "numero": "34678568538"
+    },
+    {
+        "emergencia": false,
+        "id": "{1245e226-b6f0-4b55-aa3b-f32066ec3909}",
+        "lora": "",
+        "nom": "Pixu😎🔥",
+        "numero": "34628753359"
+    },
+    {
+        "emergencia": false,
+        "id": "{3bf6a44c-a832-4fa0-a438-a1a9d56d35ef}",
+        "lora": "",
+        "nom": "Ilias",
+        "numero": "34612427163"
+    },
+    {
+        "emergencia": false,
+        "id": "{55163e6e-76c6-4427-a526-aa7ecfb2bf4b}",
+        "lora": "",
+        "nom": "Cristuko",
+        "numero": "34691215017"
+    },
+    {
+        "emergencia": false,
+        "id": "{cc4efea1-f301-4628-be49-9574b7c49bd0}",
+        "lora": "",
+        "nom": "Empresa Informàtica",
+        "numero": "34627749561"
+    },
+    {
+        "emergencia": false,
+        "id": "{9e9b6df5-e816-440d-b259-c61fb546bd90}",
+        "lora": "",
+        "nom": "Tieta Silvia",
+        "numero": "34679223147"
+    },
+    {
+        "emergencia": false,
+        "id": "{960bdcb5-4670-40db-bd4b-6307694a034e}",
+        "lora": "",
+        "nom": "male :)",
+        "numero": "34648136281"
+    },
+    {
+        "emergencia": false,
+        "id": "{4e43ad92-dd60-47b1-8b58-67917a37d6b2}",
+        "lora": "",
+        "nom": "Maxime Pol Marcet",
+        "numero": "34633880995"
+    },
+    {
+        "emergencia": false,
+        "id": "{a6a34c8a-0bda-4219-92a2-fbc8c2d89d30}",
+        "lora": "",
+        "nom": "Rutxi",
+        "numero": "34690695326"
+    },
+    {
+        "emergencia": false,
+        "id": "{d7c0acf6-543d-4cf7-9bba-202ebc0b7081}",
+        "lora": "",
+        "nom": "Assumpta",
+        "numero": "34630073119"
+    },
+    {
+        "emergencia": false,
+        "id": "{223957a2-6a74-48c8-90ab-e512ae5d7b42}",
+        "lora": "",
+        "nom": "Alex",
+        "numero": "34633557177"
+    },
+    {
+        "emergencia": false,
+        "id": "{fc98f35f-6248-4874-a56f-cea98e91d462}",
+        "lora": "",
+        "nom": "Albert Urraca",
+        "numero": "34666241542"
+    },
+    {
+        "emergencia": false,
+        "id": "{ae6d7f0e-ec83-408f-b230-e7ad29150493}",
+        "lora": "",
+        "nom": "Virna",
+        "numero": "34675207870"
+    },
+    {
+        "emergencia": false,
+        "id": "{8762ade6-9fbb-4c7a-8235-349da035bcb7}",
+        "lora": "",
+        "nom": "🪶",
+        "numero": "34684221556"
+    },
+    {
+        "emergencia": false,
+        "id": "{b5037d33-6786-4443-9266-b461a5e832ed}",
+        "lora": "",
+        "nom": "Puuiig",
+        "numero": "34654898795"
+    },
+    {
+        "emergencia": false,
+        "id": "{05ce2315-b346-465b-80a2-86de2f60bf9f}",
+        "lora": "",
+        "nom": "Laura Iglésias",
+        "numero": "34622217599"
+    },
+    {
+        "emergencia": false,
+        "id": "{e833415f-7835-4eca-b6fd-fcc6f2c722f0}",
+        "lora": "",
+        "nom": "🐝",
+        "numero": "34631142073"
+    },
+    {
+        "emergencia": false,
+        "id": "{49f691d9-05fc-46db-9f1f-a081a51fa04d}",
+        "lora": "",
+        "nom": "Iris Lluís",
+        "numero": "34646588295"
+    },
+    {
+        "emergencia": false,
+        "id": "{3edd7e2f-f4c6-40ba-9692-2f08c506f7a0}",
+        "lora": "",
+        "nom": "Ian Kaplan",
+        "numero": "34640959533"
+    },
+    {
+        "emergencia": false,
+        "id": "{133a42cd-5668-480a-9cac-1eb16c0e86ad}",
+        "lora": "",
+        "nom": "Laura",
+        "numero": "34678654889"
+    },
+    {
+        "emergencia": false,
+        "id": "{139c4ec9-0fef-490b-ab43-85494537db95}",
+        "lora": "",
+        "nom": "Dri",
+        "numero": "34627954192"
+    },
+    {
+        "emergencia": false,
+        "id": "{c51986ed-5e7a-4c2e-b9fd-69632bc7f060}",
+        "lora": "",
+        "nom": "Paula",
+        "numero": "34647428452"
+    },
+    {
+        "emergencia": false,
+        "id": "{8a130ae1-2222-4c2e-9cdb-2c048df2c2d9}",
+        "lora": "",
+        "nom": "Adrián",
+        "numero": "34682175780"
+    },
+    {
+        "emergencia": false,
+        "id": "{cc2a6513-7b06-473b-8d93-e725dc1148cf}",
+        "lora": "",
+        "nom": "Robert Sanchis",
+        "numero": "34658186857"
+    },
+    {
+        "emergencia": false,
+        "id": "{3ff363d7-fdd2-4bf4-a0f8-690d6a9a68d8}",
+        "lora": "",
+        "nom": "adriana",
+        "numero": "34605234804"
+    },
+    {
+        "emergencia": false,
+        "id": "{4c0787b2-3bd0-414c-8c41-cf009193f6b9}",
+        "lora": "",
+        "nom": "Aina Portbou",
+        "numero": "34675839194"
+    },
+    {
+        "emergencia": false,
+        "id": "{65cc3d34-87f3-4257-b71d-262dd1a4cbb0}",
+        "lora": "",
+        "nom": "Sergi Cortada",
+        "numero": "34691605916"
+    },
+    {
+        "emergencia": false,
+        "id": "{d4af9be2-08e4-4c54-9a05-36c7c57d0ddd}",
+        "lora": "",
+        "nom": "manchado",
+        "numero": "34656935425"
+    },
+    {
+        "emergencia": false,
+        "id": "{6d2b0611-fb5a-45a2-bfb4-451f4749ee8a}",
+        "lora": "",
+        "nom": "Alex Server",
+        "numero": "34684091060"
+    },
+    {
+        "emergencia": false,
+        "id": "{bd846db3-fc7c-4b79-a03c-5715b56d5c8a}",
+        "lora": "",
+        "nom": "Ivan",
+        "numero": "34616364213"
+    },
+    {
+        "emergencia": false,
+        "id": "{58a66fc5-e388-41b3-9303-2de0917c8b14}",
+        "lora": "",
+        "nom": "@lluucgenee",
+        "numero": "34629185530"
+    },
+    {
+        "emergencia": false,
+        "id": "{4f064464-3e02-461b-b33d-1060b0a40c27}",
+        "lora": "",
+        "nom": "Carlos Esparraga",
+        "numero": "34684719789"
+    },
+    {
+        "emergencia": false,
+        "id": "{8b427f80-1611-462f-8f0e-f55b7209e7ff}",
+        "lora": "",
+        "nom": "Elisabet Cot",
+        "numero": "34609318723"
+    },
+    {
+        "emergencia": false,
+        "id": "{12ff127e-9c41-4e09-8e01-88433b167766}",
+        "lora": "",
+        "nom": "cristian",
+        "numero": "34698484066"
+    },
+    {
+        "emergencia": false,
+        "id": "{6fa5f1e9-abea-4cfc-81d7-387652f27f8c}",
+        "lora": "",
+        "nom": "Papa Alex",
+        "numero": "34635574934"
+    },
+    {
+        "emergencia": false,
+        "id": "{1c7601fb-1859-462a-935d-0a4ae17976e6}",
+        "lora": "",
+        "nom": "Nil Isern",
+        "numero": "34650415548"
+    },
+    {
+        "emergencia": false,
+        "id": "{c24fbdc3-a686-46ee-8f14-630693f7603d}",
+        "lora": "",
+        "nom": "aina💕",
+        "numero": "34688934665"
+    },
+    {
+        "emergencia": false,
+        "id": "{4664c60f-e3f0-475b-b86f-07979e7fca24}",
+        "lora": "",
+        "nom": "Pau Gasull",
+        "numero": "34648410349"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ed58427-9a74-4d94-a00e-6b7acf1917fd}",
+        "lora": "",
+        "nom": "Elisenda Subirà",
+        "numero": "34609625994"
+    },
+    {
+        "emergencia": false,
+        "id": "{15e3f02c-f045-4c54-920a-5fb162adc18a}",
+        "lora": "",
+        "nom": "Dávid",
+        "numero": "34657591388"
+    },
+    {
+        "emergencia": false,
+        "id": "{29865884-c4f5-45b9-8f38-74e7ef8df354}",
+        "lora": "",
+        "nom": "JBG🦅🎻🔭🌌🌒🪐☄️",
+        "numero": "34644379979"
+    },
+    {
+        "emergencia": false,
+        "id": "{871cb803-4f6b-43ea-beca-cf85fc9227b1}",
+        "lora": "",
+        "nom": "Anson",
+        "numero": "34699510599"
+    },
+    {
+        "emergencia": false,
+        "id": "{dd8e5be4-9c8d-4b36-8da6-b38b8f68e219}",
+        "lora": "",
+        "nom": "carlos",
+        "numero": "34672573129"
+    },
+    {
+        "emergencia": false,
+        "id": "{aa38be22-45ff-4781-80fc-55ef6a4777a0}",
+        "lora": "",
+        "nom": "Merche",
+        "numero": "34691402810"
+    },
+    {
+        "emergencia": false,
+        "id": "{dd36c632-c106-480c-9e81-12df88aae0f5}",
+        "lora": "",
+        "nom": "Oriol Pare",
+        "numero": "34658810226"
+    },
+    {
+        "emergencia": false,
+        "id": "{885c204f-71dc-4bfd-aa86-9cacb569d60d}",
+        "lora": "",
+        "nom": "Lider Del Clan",
+        "numero": "34654735198"
+    },
+    {
+        "emergencia": false,
+        "id": "{2991f53a-d674-41a3-aa1b-f48d36ddae5b}",
+        "lora": "",
+        "nom": "Aleix Amic Lluis",
+        "numero": "34625894186"
+    },
+    {
+        "emergencia": false,
+        "id": "{6cc99288-95bd-49ee-a49b-922534ac6d8f}",
+        "lora": "",
+        "nom": "Acebsa Iker",
+        "numero": "34607524555"
+    },
+    {
+        "emergencia": false,
+        "id": "{c57543c0-d218-47d1-855d-66d52a54ac10}",
+        "lora": "",
+        "nom": "Lau",
+        "numero": "34682483143"
+    },
+    {
+        "emergencia": false,
+        "id": "{435ee89d-9872-4110-8b6a-93ee3898c393}",
+        "lora": "",
+        "nom": "🥰💜IndaraAngela251020💜🥰",
+        "numero": "34634800586"
+    },
+    {
+        "emergencia": false,
+        "id": "{840f6dec-84a0-4635-94f0-02a868acf5d4}",
+        "lora": "",
+        "nom": "Francisco Cuenca  JB Capital Markets",
+        "numero": "34639415542"
+    },
+    {
+        "emergencia": false,
+        "id": "{a1dd17b8-f6c5-4e03-a4bc-6444ab78d587}",
+        "lora": "",
+        "nom": "Coderch",
+        "numero": "34644475948"
+    },
+    {
+        "emergencia": false,
+        "id": "{37cd537d-e3ce-4277-98c2-db5e6ea49bd5}",
+        "lora": "",
+        "nom": "Ana",
+        "numero": "34601316680"
+    },
+    {
+        "emergencia": false,
+        "id": "{d8d9ccf2-666c-441c-90e2-c77cbf60541a}",
+        "lora": "",
+        "nom": "Noelia",
+        "numero": "34640259406"
+    },
+    {
+        "emergencia": false,
+        "id": "{f3472fda-44bb-4a5e-bf8d-afc4730d30d2}",
+        "lora": "",
+        "nom": "Alex",
+        "numero": "34646882489"
+    },
+    {
+        "emergencia": false,
+        "id": "{3596cc67-a401-4931-8d0b-23d04ad2e450}",
+        "lora": "",
+        "nom": "Ivan",
+        "numero": "34644604866"
+    },
+    {
+        "emergencia": false,
+        "id": "{44cd9f8b-b9e0-4b2d-942e-f9e670ef3382}",
+        "lora": "",
+        "nom": "Harsh",
+        "numero": "34632154331"
+    },
+    {
+        "emergencia": false,
+        "id": "{2d8f9bca-6955-4bab-89cf-dc3ebe61070c}",
+        "lora": "",
+        "nom": "Pau Arqueros 💫",
+        "numero": "34644322738"
+    },
+    {
+        "emergencia": false,
+        "id": "{ccfba005-76bc-4978-970d-f42c295994e9}",
+        "lora": "",
+        "nom": "Julia such",
+        "numero": "34688719796"
+    },
+    {
+        "emergencia": false,
+        "id": "{17f082d3-e860-4445-9ba0-80968a789b66}",
+        "lora": "",
+        "nom": "Hamza Essami",
+        "numero": "34631846705"
+    },
+    {
+        "emergencia": false,
+        "id": "{be4f9161-b4bd-4f72-9b0f-02586a0c8271}",
+        "lora": "",
+        "nom": "Marta Racc",
+        "numero": "34680525888"
+    },
+    {
+        "emergencia": false,
+        "id": "{b805f0c1-786d-4735-8f6a-fd7efb7141fd}",
+        "lora": "",
+        "nom": "Jordi Barnola",
+        "numero": "34679212984"
+    },
+    {
+        "emergencia": false,
+        "id": "{8769f254-2e3e-44ca-9f41-8319fcbde19f}",
+        "lora": "",
+        "nom": "Marcos García",
+        "numero": "34643452945"
+    },
+    {
+        "emergencia": false,
+        "id": "{f494bf1d-27b1-4226-8920-a697a0864105}",
+        "lora": "",
+        "nom": "Marc Cassanmagnago",
+        "numero": "34639035718"
+    },
+    {
+        "emergencia": false,
+        "id": "{5be99fa5-9db3-418e-80c8-66d54a87dea2}",
+        "lora": "",
+        "nom": "𝙔𝙤𝙖𝙣",
+        "numero": "18298671303"
+    },
+    {
+        "emergencia": false,
+        "id": "{0ea3e973-b3a9-4078-9f43-0569db06b757}",
+        "lora": "",
+        "nom": "Pare Gise",
+        "numero": "34670600825"
+    },
+    {
+        "emergencia": false,
+        "id": "{0b003d67-308c-4616-b193-e67298c56462}",
+        "lora": "",
+        "nom": "Pau Font",
+        "numero": "34636263483"
+    },
+    {
+        "emergencia": false,
+        "id": "{18e82d5a-60df-4654-8722-1499bd23c8b7}",
+        "lora": "",
+        "nom": "7_daviid_7 ♈",
+        "numero": "34683590858"
+    },
+    {
+        "emergencia": false,
+        "id": "{906a1206-e999-4b64-90ee-272281771cd6}",
+        "lora": "",
+        "nom": "Roger",
+        "numero": "34646882877"
+    },
+    {
+        "emergencia": false,
+        "id": "{c4332662-f64d-4cc8-93fa-a04b0444a8d3}",
+        "lora": "",
+        "nom": "Dídac",
+        "numero": "34680738336"
+    },
+    {
+        "emergencia": false,
+        "id": "{0e8c779e-b9cf-40e4-bfff-b6f3f6c24997}",
+        "lora": "",
+        "nom": "Èlia",
+        "numero": "34608967684"
+    },
+    {
+        "emergencia": false,
+        "id": "{ef04f477-befa-4db5-a78e-e7240d690364}",
+        "lora": "",
+        "nom": "Xènia Amiga Mar",
+        "numero": "34653865931"
+    },
+    {
+        "emergencia": false,
+        "id": "{f8577e6d-7dd7-4fb3-9c6c-2201600eeb9a}",
+        "lora": "",
+        "nom": "Roger Uni",
+        "numero": "34638936892"
+    },
+    {
+        "emergencia": false,
+        "id": "{6d333b4e-4983-4441-8652-6f7e8088542a}",
+        "lora": "",
+        "nom": "Ángel",
+        "numero": "34661858664"
+    },
+    {
+        "emergencia": false,
+        "id": "{bb5c18ad-7dcf-4946-a083-a0f11e95b501}",
+        "lora": "",
+        "nom": "Carmen",
+        "numero": "34629588043"
+    },
+    {
+        "emergencia": false,
+        "id": "{4694e344-cdbf-432e-869e-3a64f30bda99}",
+        "lora": "",
+        "nom": "Paula Atienza",
+        "numero": "34640864121"
+    },
+    {
+        "emergencia": false,
+        "id": "{ecaeae40-67d6-4ef8-87de-b26d8eb4f168}",
+        "lora": "",
+        "nom": "Carlos AR",
+        "numero": "34695626363"
+    },
+    {
+        "emergencia": false,
+        "id": "{04ab1e5d-66f3-41e7-b8ed-30438e55e9cd}",
+        "lora": "",
+        "nom": "Salma Treball Software",
+        "numero": "34623583523"
+    },
+    {
+        "emergencia": false,
+        "id": "{0acd5fdc-52f4-4bf5-bf8d-6a27c8a1cbc4}",
+        "lora": "",
+        "nom": "Palace Sport Urban Fitness",
+        "numero": "34654808260"
+    },
+    {
+        "emergencia": false,
+        "id": "{62d3f262-04c2-42e1-93d1-416239a9159d}",
+        "lora": "",
+        "nom": "M",
+        "numero": "34654151738"
+    },
+    {
+        "emergencia": false,
+        "id": "{45426bfc-f56c-4411-af14-aae679b60d2a}",
+        "lora": "",
+        "nom": "Roberto Caballero",
+        "numero": "34673477307"
+    },
+    {
+        "emergencia": false,
+        "id": "{50524951-55a1-4074-962c-74d5532a6035}",
+        "lora": "",
+        "nom": "Beth Argerich",
+        "numero": "34684414975"
+    },
+    {
+        "emergencia": false,
+        "id": "{aec25444-171a-427d-ad9d-2a41cfbfdf71}",
+        "lora": "",
+        "nom": "Claudia Amiga Nora",
+        "numero": "34634999747"
+    },
+    {
+        "emergencia": false,
+        "id": "{3b672b37-30c7-4b4b-9f63-cfd4b42a80a4}",
+        "lora": "",
+        "nom": "Fisio FRANCINA",
+        "numero": "34658512722"
+    },
+    {
+        "emergencia": false,
+        "id": "{13502c1f-3b94-423c-be82-88f7ab57b674}",
+        "lora": "",
+        "nom": "Karen",
+        "numero": "34642321186"
+    },
+    {
+        "emergencia": false,
+        "id": "{cfc5ed48-3cab-4ac6-8bd4-37fcbff0d223}",
+        "lora": "",
+        "nom": "Mateo",
+        "numero": "34673809367"
+    },
+    {
+        "emergencia": false,
+        "id": "{6aa14b7d-9106-41b8-828a-3853090c2807}",
+        "lora": "",
+        "nom": "maria pujadas",
+        "numero": "34606886979"
+    },
+    {
+        "emergencia": false,
+        "id": "{65ed4791-943b-45dc-9964-cacce42c4952}",
+        "lora": "",
+        "nom": "Joan G",
+        "numero": "34689735452"
+    },
+    {
+        "emergencia": false,
+        "id": "{1d222925-52d2-4966-bc7c-08b650ee341c}",
+        "lora": "",
+        "nom": "Alvaro Boza",
+        "numero": "34619719209"
+    },
+    {
+        "emergencia": false,
+        "id": "{6da580ed-a0d1-4868-bbd9-f8814140ab13}",
+        "lora": "",
+        "nom": "Alex5674321",
+        "numero": "34689969369"
+    },
+    {
+        "emergencia": false,
+        "id": "{d23142e7-728a-4e70-bec2-ea71b25266f2}",
+        "lora": "",
+        "nom": "David Caballero",
+        "numero": "34651522606"
+    },
+    {
+        "emergencia": false,
+        "id": "{27fd4af8-4a28-418e-bf43-46ce50b7703b}",
+        "lora": "",
+        "nom": "Elia",
+        "numero": "34653760895"
+    },
+    {
+        "emergencia": false,
+        "id": "{610a6142-d7d5-4b40-acc4-bd010e98a9fe}",
+        "lora": "",
+        "nom": "MaksymPlashkin",
+        "numero": "34622441870"
+    },
+    {
+        "emergencia": false,
+        "id": "{4feea752-ef85-4476-8901-2d1467ee502c}",
+        "lora": "",
+        "nom": "Jorge Monterde",
+        "numero": "34644501645"
+    },
+    {
+        "emergencia": false,
+        "id": "{44d37593-d79e-4b23-91f4-7066884fce1f}",
+        "lora": "",
+        "nom": "Sr.Murometz08🗿🤖🚀",
+        "numero": "34648261780"
+    },
+    {
+        "emergencia": false,
+        "id": "{0069a3bc-c645-43ae-ba34-8975fd0a9528}",
+        "lora": "",
+        "nom": "Rogera Ferrer",
+        "numero": "34615038097"
+    },
+    {
+        "emergencia": false,
+        "id": "{0b4540fc-dcf8-4feb-b7a7-f4927da08565}",
+        "lora": "",
+        "nom": "Leo",
+        "numero": "34722230157"
+    },
+    {
+        "emergencia": false,
+        "id": "{9c0f43b9-400d-42d4-a47b-3224bd723c22}",
+        "lora": "",
+        "nom": "Danifr",
+        "numero": "34628349228"
+    },
+    {
+        "emergencia": false,
+        "id": "{35759dc6-7c15-41be-bcb0-96c0ad52856c}",
+        "lora": "",
+        "nom": "❤️",
+        "numero": "34663120995"
+    },
+    {
+        "emergencia": false,
+        "id": "{d1c0a452-45c7-4a17-bb5c-321850a67a4a}",
+        "lora": "",
+        "nom": "Lucas",
+        "numero": "34674058159"
+    },
+    {
+        "emergencia": false,
+        "id": "{f6972f5c-bb89-44e4-8ff7-1fc295f490ac}",
+        "lora": "",
+        "nom": "Aleix UdG",
+        "numero": "34692602386"
+    },
+    {
+        "emergencia": false,
+        "id": "{8204753b-e141-47cb-90c4-f640b6168b83}",
+        "lora": "",
+        "nom": "Papa Móvil Normal",
+        "numero": "34640588410"
+    },
+    {
+        "emergencia": false,
+        "id": "{3cf190d7-20c5-48b0-aedc-3dc73ce7b3f0}",
+        "lora": "",
+        "nom": "Nora A Secas",
+        "numero": "34664898087"
+    },
+    {
+        "emergencia": false,
+        "id": "{3435fca6-dc75-48f9-b951-d6b4909bf788}",
+        "lora": "",
+        "nom": "Marta Ponce",
+        "numero": "34660243732"
+    },
+    {
+        "emergencia": false,
+        "id": "{9808683f-7171-4eed-9100-cdeaf9a0755b}",
+        "lora": "",
+        "nom": "ida",
+        "numero": "34693726637"
+    },
+    {
+        "emergencia": false,
+        "id": "{43937963-8ac7-4370-be39-74d35e3c4966}",
+        "lora": "",
+        "nom": "Mariona SK Kayak",
+        "numero": "34627433332"
+    },
+    {
+        "emergencia": false,
+        "id": "{6f7a7905-3848-4bc2-8bdb-d8f7dbd193d9}",
+        "lora": "",
+        "nom": "Judith",
+        "numero": "34639946272"
+    },
+    {
+        "emergencia": false,
+        "id": "{33da3d12-8729-455e-9b5d-444edc2a4b79}",
+        "lora": "",
+        "nom": "Antoni🍋❄️",
+        "numero": "34667695158"
+    },
+    {
+        "emergencia": false,
+        "id": "{e5611cc2-980f-4239-930a-d4d092968043}",
+        "lora": "",
+        "nom": "Andreaa",
+        "numero": "34622357549"
+    },
+    {
+        "emergencia": false,
+        "id": "{06f19f40-abae-42e0-b6cb-91778a00b778}",
+        "lora": "",
+        "nom": "Olga",
+        "numero": "34639539154"
+    },
+    {
+        "emergencia": false,
+        "id": "{7b5ce0b1-252a-4bdd-ac70-cca0dfd3e439}",
+        "lora": "",
+        "nom": "Álex Cardona",
+        "numero": "34667599150"
+    },
+    {
+        "emergencia": false,
+        "id": "{3969d0b3-d76a-44f3-9e05-f647cb1776bf}",
+        "lora": "",
+        "nom": "Joel R",
+        "numero": "34659009485"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ed9f284-cc5e-4ceb-9e51-3f1601889ca4}",
+        "lora": "",
+        "nom": "xaavii",
+        "numero": "34680953220"
+    },
+    {
+        "emergencia": false,
+        "id": "{7ca53ae3-bee8-4daa-9a44-48197a7e4a23}",
+        "lora": "",
+        "nom": "flak",
+        "numero": "34611429941"
+    },
+    {
+        "emergencia": false,
+        "id": "{ea2fb306-b2fd-4ec6-920c-0dfa9dd87c5e}",
+        "lora": "",
+        "nom": "aina",
+        "numero": "34640671376"
+    },
+    {
+        "emergencia": false,
+        "id": "{1896d428-dfbf-44fa-903b-60601421b657}",
+        "lora": "",
+        "nom": "Albert Perruqueria",
+        "numero": "34698639902"
+    },
+    {
+        "emergencia": false,
+        "id": "{bbaa30a8-62fd-48c7-9003-51c70f66c8fd}",
+        "lora": "",
+        "nom": "Mare Gisela",
+        "numero": "34670659047"
+    },
+    {
+        "emergencia": false,
+        "id": "{7ef95721-27e7-4deb-9006-5396cba8ab49}",
+        "lora": "",
+        "nom": "Karim",
+        "numero": "34634223084"
+    },
+    {
+        "emergencia": false,
+        "id": "{67b0c670-4fdd-4fc7-972d-0d2c66a4fc11}",
+        "lora": "",
+        "nom": "Carme Cararach",
+        "numero": "34696053808"
+    },
+    {
+        "emergencia": false,
+        "id": "{7e626803-0ae7-4afa-9c56-92003fb473b6}",
+        "lora": "",
+        "nom": "Arnau Yanes",
+        "numero": "34611371845"
+    },
+    {
+        "emergencia": false,
+        "id": "{91b2d5e7-ca8b-4867-a24e-9fc6e60abc86}",
+        "lora": "",
+        "nom": "Nil Gascons",
+        "numero": "34629954600"
+    },
+    {
+        "emergencia": false,
+        "id": "{2c82935c-2114-42c5-8e6e-2a23b86f5454}",
+        "lora": "",
+        "nom": "Marcos Ruiz",
+        "numero": "34622423844"
+    },
+    {
+        "emergencia": false,
+        "id": "{8bfa4163-f776-4aae-a574-f667f10c37f3}",
+        "lora": "",
+        "nom": "Marta B",
+        "numero": "34620048792"
+    },
+    {
+        "emergencia": false,
+        "id": "{0e2a7f9f-56d1-405c-8ddd-27be86558a74}",
+        "lora": "",
+        "nom": "Lídia UdG",
+        "numero": "34640501976"
+    },
+    {
+        "emergencia": false,
+        "id": "{88e2ae7d-970e-461a-b1c0-ddd072f183c0}",
+        "lora": "",
+        "nom": "Pierre",
+        "numero": "33633478897"
+    },
+    {
+        "emergencia": false,
+        "id": "{f1f41e5c-9985-43dc-bf2d-b29a8633cbd6}",
+        "lora": "",
+        "nom": "Glasgow3",
+        "numero": "34629812478"
+    },
+    {
+        "emergencia": false,
+        "id": "{e7983cab-6386-4cee-9f42-5e78ee0f5f04}",
+        "lora": "",
+        "nom": "Paula",
+        "numero": "34616390429"
+    },
+    {
+        "emergencia": false,
+        "id": "{3a415ddc-a0b4-4264-a5dc-887f2ecd8026}",
+        "lora": "",
+        "nom": "biel fedz",
+        "numero": "34684254326"
+    },
+    {
+        "emergencia": false,
+        "id": "{e615f34a-0d88-4e53-bafb-13c07d80b3f6}",
+        "lora": "",
+        "nom": "Clara Aguilar Serra",
+        "numero": "34666881472"
+    },
+    {
+        "emergencia": false,
+        "id": "{65d09e2f-a660-4fe3-8faa-e24f22db4acd}",
+        "lora": "",
+        "nom": "María Pb",
+        "numero": "34644852600"
+    },
+    {
+        "emergencia": false,
+        "id": "{b9d33b69-ba2a-45fe-b31f-cac532c767a4}",
+        "lora": "",
+        "nom": "Hugo",
+        "numero": "34688694705"
+    },
+    {
+        "emergencia": false,
+        "id": "{66da934a-98b0-425a-a341-4f650faf9ad1}",
+        "lora": "",
+        "nom": "Vivian",
+        "numero": "34685684305"
+    },
+    {
+        "emergencia": false,
+        "id": "{7c7505dc-3ddf-4a35-a1b0-eae76aeaa9ee}",
+        "lora": "",
+        "nom": "Celia",
+        "numero": "34693000463"
+    },
+    {
+        "emergencia": false,
+        "id": "{f34e3b58-2673-4b69-8fd5-4d64c84fba17}",
+        "lora": "",
+        "nom": "DHH🐲ᱬ",
+        "numero": "34658915038"
+    },
+    {
+        "emergencia": false,
+        "id": "{37691b5a-ea26-4a24-a1e2-20456c750543}",
+        "lora": "",
+        "nom": "yuan",
+        "numero": "34606223242"
+    },
+    {
+        "emergencia": false,
+        "id": "{cbf9f0bd-a1c6-46ba-a515-8513e5524863}",
+        "lora": "",
+        "nom": "Nico 3r",
+        "numero": "34622577473"
+    },
+    {
+        "emergencia": false,
+        "id": "{70f352f3-bec3-4702-9b9b-b650e8c7c79d}",
+        "lora": "",
+        "nom": "Laura Sk",
+        "numero": "34617150568"
+    },
+    {
+        "emergencia": false,
+        "id": "{cdd005cd-bf71-4468-a3ed-d38b5d05ba6b}",
+        "lora": "",
+        "nom": "Marcos",
+        "numero": "34633609454"
+    },
+    {
+        "emergencia": false,
+        "id": "{c7f5ad8a-ef6f-47b6-a23f-5cfae53582fb}",
+        "lora": "",
+        "nom": "ㅤㅤ",
+        "numero": "34656235668"
+    },
+    {
+        "emergencia": false,
+        "id": "{6035af82-89ea-42e0-801a-e2132286f5ff}",
+        "lora": "",
+        "nom": "Alex MS ⛲",
+        "numero": "34646474934"
+    },
+    {
+        "emergencia": false,
+        "id": "{e13f6d9d-52ad-462b-a7f6-3345adab0dd6}",
+        "lora": "",
+        "nom": "Xisco",
+        "numero": "34611017936"
+    },
+    {
+        "emergencia": false,
+        "id": "{c3ffb2d9-838a-4938-b050-3d3595d65daf}",
+        "lora": "",
+        "nom": "Marta Besa",
+        "numero": "34693725995"
+    },
+    {
+        "emergencia": false,
+        "id": "{302c9ed1-5abc-435b-a76a-913ddf0feb9b}",
+        "lora": "",
+        "nom": "David🔱",
+        "numero": "34722101148"
+    },
+    {
+        "emergencia": false,
+        "id": "{212f19f0-c9f7-49bc-a039-3beb973a65cf}",
+        "lora": "",
+        "nom": "Bruna",
+        "numero": "34684128344"
+    },
+    {
+        "emergencia": false,
+        "id": "{6fd57ddd-694d-41cc-9fd7-ac89ba202056}",
+        "lora": "",
+        "nom": "polete",
+        "numero": "34642237498"
+    },
+    {
+        "emergencia": false,
+        "id": "{d10f8d40-d526-4dad-b72f-f9790980d519}",
+        "lora": "",
+        "nom": "àlex",
+        "numero": "34673944370"
+    },
+    {
+        "emergencia": false,
+        "id": "{e1fe230c-9ec7-4ed2-87ad-5bca9bd6985b}",
+        "lora": "",
+        "nom": "Jordi Arquitecte",
+        "numero": "34633554665"
+    },
+    {
+        "emergencia": false,
+        "id": "{f51a0fe2-97cb-43d3-91ca-f48aded5bf94}",
+        "lora": "",
+        "nom": "ayman",
+        "numero": "34632291147"
+    },
+    {
+        "emergencia": false,
+        "id": "{fc0bebcb-ccfd-4188-80af-d1d0a5694f82}",
+        "lora": "",
+        "nom": "Anas Shop tangerino",
+        "numero": "34612466565"
+    },
+    {
+        "emergencia": false,
+        "id": "{87169151-4168-4b9e-b493-4481e3daa616}",
+        "lora": "",
+        "nom": "Quim Triola",
+        "numero": "34674583750"
+    },
+    {
+        "emergencia": false,
+        "id": "{c0a8bf82-43e5-4a0c-8550-4a0f33dcb578}",
+        "lora": "",
+        "nom": "EstefY",
+        "numero": "34637919366"
+    },
+    {
+        "emergencia": false,
+        "id": "{2574583a-6e8a-45c3-9202-cc99159d30e8}",
+        "lora": "",
+        "nom": "Pep Saguer",
+        "numero": "34646886069"
+    },
+    {
+        "emergencia": false,
+        "id": "{6bb1272c-5ee7-40af-98a7-26f5e146e56b}",
+        "lora": "",
+        "nom": "Pol C.",
+        "numero": "34603838534"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a3be173-a5ed-4d8e-ab83-060e0dc26542}",
+        "lora": "",
+        "nom": "carlaa",
+        "numero": "34605249198"
+    },
+    {
+        "emergencia": false,
+        "id": "{25212454-61e2-4b55-959f-a0dcf7da478d}",
+        "lora": "",
+        "nom": "Alai",
+        "numero": "34600654948"
+    },
+    {
+        "emergencia": false,
+        "id": "{7dc52e7c-a4c9-431d-825e-193752122695}",
+        "lora": "",
+        "nom": "Clases 3ESO",
+        "numero": "34673616888"
+    },
+    {
+        "emergencia": false,
+        "id": "{53158eb2-d845-4ff6-a7e5-d55bd3bc0f7f}",
+        "lora": "",
+        "nom": "Pau P",
+        "numero": "34640263043"
+    },
+    {
+        "emergencia": false,
+        "id": "{038fad1b-2bfc-4ee8-a1b3-33f4ea740f1c}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34633429422"
+    },
+    {
+        "emergencia": false,
+        "id": "{723cb653-e4bc-4b17-af64-2bfad324519a}",
+        "lora": "",
+        "nom": "Pau Nierga",
+        "numero": "34608517138"
+    },
+    {
+        "emergencia": false,
+        "id": "{92dfacca-3e07-466e-8b55-6391d2104fd5}",
+        "lora": "",
+        "nom": "Pedro Ursua",
+        "numero": "34615297731"
+    },
+    {
+        "emergencia": false,
+        "id": "{f420f06e-0a77-48dc-b094-2fcf61a67ed8}",
+        "lora": "",
+        "nom": "Érik Resina",
+        "numero": "34678034273"
+    },
+    {
+        "emergencia": false,
+        "id": "{a6b66bf5-2530-4afb-abe0-46b1b7164509}",
+        "lora": "",
+        "nom": "Júlia Xaudiera",
+        "numero": "34682546304"
+    },
+    {
+        "emergencia": false,
+        "id": "{7e80c5a8-8419-475c-bc77-32d5040a6575}",
+        "lora": "",
+        "nom": "Fran Uni",
+        "numero": "34693672343"
+    },
+    {
+        "emergencia": false,
+        "id": "{4169c61f-d557-450f-9c48-1e3bfdb10385}",
+        "lora": "",
+        "nom": "MCL",
+        "numero": "34653323452"
+    },
+    {
+        "emergencia": false,
+        "id": "{0dbd4de7-66eb-4c15-80ef-3cb19550d9e5}",
+        "lora": "",
+        "nom": "oscar aguarod",
+        "numero": "34646337942"
+    },
+    {
+        "emergencia": false,
+        "id": "{b321877b-f794-4f96-9a80-df8a3421f1ed}",
+        "lora": "",
+        "nom": "Laura Desplans",
+        "numero": "34644749232"
+    },
+    {
+        "emergencia": false,
+        "id": "{73e8f993-0e92-4d1b-bece-20f1692cb9bc}",
+        "lora": "",
+        "nom": "Andry",
+        "numero": "34604907286"
+    },
+    {
+        "emergencia": false,
+        "id": "{f9299bb7-b19b-4070-bc67-00193a0056d2}",
+        "lora": "",
+        "nom": "Ucles😍",
+        "numero": "34643060851"
+    },
+    {
+        "emergencia": false,
+        "id": "{1777b7f2-3532-4cce-81b3-18beeb19a833}",
+        "lora": "",
+        "nom": "Mar F3",
+        "numero": "34644946494"
+    },
+    {
+        "emergencia": false,
+        "id": "{c2fcb144-3e78-44a4-a297-83143e724103}",
+        "lora": "",
+        "nom": "Ana",
+        "numero": "34627954193"
+    },
+    {
+        "emergencia": false,
+        "id": "{4a30f713-a18a-4c28-bdd9-a120e28cece2}",
+        "lora": "",
+        "nom": "Pablo Ramos⚽",
+        "numero": "34645567064"
+    },
+    {
+        "emergencia": false,
+        "id": "{9c9d29f3-07e9-4e94-aa75-fe002ba31825}",
+        "lora": "",
+        "nom": "Abi",
+        "numero": "34633416467"
+    },
+    {
+        "emergencia": false,
+        "id": "{0baf7fbe-369b-46e9-9512-93f93028c07f}",
+        "lora": "",
+        "nom": "xenia perpinya",
+        "numero": "34629736292"
+    },
+    {
+        "emergencia": false,
+        "id": "{711152c1-390b-4555-8082-413c697c75c2}",
+        "lora": "",
+        "nom": "Aroa Moreno",
+        "numero": "34640761905"
+    },
+    {
+        "emergencia": false,
+        "id": "{785c3f94-4340-488b-b8a0-4225a2ab0c55}",
+        "lora": "",
+        "nom": "Gorooo",
+        "numero": "34644468758"
+    },
+    {
+        "emergencia": false,
+        "id": "{cb54eb49-5013-4578-aabe-28abf3042ee4}",
+        "lora": "",
+        "nom": "Adrià Chorizo",
+        "numero": "34611170411"
+    },
+    {
+        "emergencia": false,
+        "id": "{2c1831bd-5f05-4502-825a-885ebe61ed5f}",
+        "lora": "",
+        "nom": "Miquel",
+        "numero": "34648472599"
+    },
+    {
+        "emergencia": false,
+        "id": "{082586cb-be3d-445f-adce-1c7d7a62c363}",
+        "lora": "",
+        "nom": "Ivan",
+        "numero": "34601077652"
+    },
+    {
+        "emergencia": false,
+        "id": "{5cc3c70d-1041-4d3a-b97f-179dae6438e4}",
+        "lora": "",
+        "nom": "KVS🇧🇷",
+        "numero": "34689582774"
+    },
+    {
+        "emergencia": false,
+        "id": "{63ff9f29-6046-4d07-a26f-8adce64fc6f3}",
+        "lora": "",
+        "nom": "Judith Rodríguez",
+        "numero": "34652053116"
+    },
+    {
+        "emergencia": false,
+        "id": "{4855a894-2bcd-4141-baab-ceed772e8d89}",
+        "lora": "",
+        "nom": "Berta Curros",
+        "numero": "34680435172"
+    },
+    {
+        "emergencia": false,
+        "id": "{73272247-f1d4-4c3a-9fa3-058373b924a5}",
+        "lora": "",
+        "nom": "Eber Escobar",
+        "numero": "34633549089"
+    },
+    {
+        "emergencia": false,
+        "id": "{bcad98d1-75bf-4181-b5eb-ca6b53c20f5c}",
+        "lora": "",
+        "nom": "Pat",
+        "numero": "34609047283"
+    },
+    {
+        "emergencia": false,
+        "id": "{1b191c05-b85d-4e45-880e-65dc8c33c143}",
+        "lora": "",
+        "nom": "Luna",
+        "numero": "85246717948"
+    },
+    {
+        "emergencia": false,
+        "id": "{0e8f9e2b-9674-4f10-a9b3-4652f602c81e}",
+        "lora": "",
+        "nom": "Lorena Piñar",
+        "numero": "34603288785"
+    },
+    {
+        "emergencia": false,
+        "id": "{306b7eeb-f39f-42aa-9668-aaa997c0dcf2}",
+        "lora": "",
+        "nom": "Viktor",
+        "numero": "34644959078"
+    },
+    {
+        "emergencia": false,
+        "id": "{84b41329-b145-48a0-8604-d2884dfd90eb}",
+        "lora": "",
+        "nom": "Maria Rosa Tieta",
+        "numero": "34655974989"
+    },
+    {
+        "emergencia": false,
+        "id": "{f7504152-6f6b-4a7c-a26f-9df714214f59}",
+        "lora": "",
+        "nom": "Andrea Portbou",
+        "numero": "34669753073"
+    },
+    {
+        "emergencia": false,
+        "id": "{996ef444-fca6-4ba8-ae17-2015fdab87dd}",
+        "lora": "",
+        "nom": "Arcadi",
+        "numero": "34645045551"
+    },
+    {
+        "emergencia": false,
+        "id": "{f720499d-9e5d-4c61-9d61-02851271bd20}",
+        "lora": "",
+        "nom": "David",
+        "numero": "34670092313"
+    },
+    {
+        "emergencia": false,
+        "id": "{ebbccfa1-55da-4494-b908-29edc346c59a}",
+        "lora": "",
+        "nom": "Pol Berenguer",
+        "numero": "34688887273"
+    },
+    {
+        "emergencia": false,
+        "id": "{ea007052-7068-459b-951b-2b40cb5db297}",
+        "lora": "",
+        "nom": "Berta Batlle",
+        "numero": "34644465148"
+    },
+    {
+        "emergencia": false,
+        "id": "{bb632d9f-20ee-46a4-b3ad-9dd150c4811d}",
+        "lora": "",
+        "nom": "Èric Cases",
+        "numero": "34605595450"
+    },
+    {
+        "emergencia": false,
+        "id": "{5774ff69-489a-4338-bc09-d7c0567babe6}",
+        "lora": "",
+        "nom": "Eloi",
+        "numero": "34630705809"
+    },
+    {
+        "emergencia": false,
+        "id": "{11b2b839-be1b-4059-995d-93c920a36b94}",
+        "lora": "",
+        "nom": "Oriol Camp",
+        "numero": "34644223054"
+    },
+    {
+        "emergencia": false,
+        "id": "{073cf908-b0bf-416a-b9d6-c8ad626cb753}",
+        "lora": "",
+        "nom": "Daria",
+        "numero": "34637365474"
+    },
+    {
+        "emergencia": false,
+        "id": "{4f6e5fbf-3f3f-4030-b289-1925c31273d2}",
+        "lora": "",
+        "nom": "Unai",
+        "numero": "34722224007"
+    },
+    {
+        "emergencia": false,
+        "id": "{3a399380-7adb-47c2-8f67-ee21b22cc308}",
+        "lora": "",
+        "nom": "Youssef",
+        "numero": "34632007687"
+    },
+    {
+        "emergencia": false,
+        "id": "{cbe4146d-1814-412d-aa8c-d5aeb7c9185d}",
+        "lora": "",
+        "nom": "Estafador",
+        "numero": "34632914929"
+    },
+    {
+        "emergencia": false,
+        "id": "{207b5a76-a6c0-4344-99b6-6d7251e8b4fb}",
+        "lora": "",
+        "nom": "Fati🧘‍♀️",
+        "numero": "34620700889"
+    },
+    {
+        "emergencia": false,
+        "id": "{841836bd-ef5c-45cb-8dee-096186226fd3}",
+        "lora": "",
+        "nom": "Tomas",
+        "numero": "34628222429"
+    },
+    {
+        "emergencia": false,
+        "id": "{95be3958-77ed-41a7-bf7d-ecf84bc59534}",
+        "lora": "",
+        "nom": "Lucía Carrefour",
+        "numero": "34695583974"
+    },
+    {
+        "emergencia": false,
+        "id": "{b28b2cfa-8863-42f6-abff-f5082e6e35b5}",
+        "lora": "",
+        "nom": "Amadeu Palacios",
+        "numero": "34604182070"
+    },
+    {
+        "emergencia": false,
+        "id": "{d00823df-b9e9-4809-bf3b-bbbf58831d51}",
+        "lora": "",
+        "nom": "Rosa Magre",
+        "numero": "34679717661"
+    },
+    {
+        "emergencia": false,
+        "id": "{914a1f63-f0eb-45b8-94a5-82bcadf68155}",
+        "lora": "",
+        "nom": "Cristina Martin",
+        "numero": "34608628820"
+    },
+    {
+        "emergencia": false,
+        "id": "{9a78eb0a-cd63-49ab-adfe-feac2d9854f7}",
+        "lora": "",
+        "nom": "Cuñi Brian",
+        "numero": "34694442268"
+    },
+    {
+        "emergencia": false,
+        "id": "{43231747-fb1b-46eb-9741-048063bc42be}",
+        "lora": "",
+        "nom": "Alejandro",
+        "numero": "34603650655"
+    },
+    {
+        "emergencia": false,
+        "id": "{10553cd5-0d09-4d91-89ea-43c3d111e263}",
+        "lora": "",
+        "nom": "Claudia",
+        "numero": "34693774714"
+    },
+    {
+        "emergencia": false,
+        "id": "{05adb7d0-8e1d-442d-bf3a-15e1ce23bb51}",
+        "lora": "",
+        "nom": "Jesus",
+        "numero": "34697146790"
+    },
+    {
+        "emergencia": false,
+        "id": "{55f586c5-4c88-4b58-b3c6-1c6f09f51bb1}",
+        "lora": "",
+        "nom": "Daniela💙",
+        "numero": "584146234005"
+    },
+    {
+        "emergencia": false,
+        "id": "{cbc55ce4-2ae6-4fb5-b479-b1a669d2a4ac}",
+        "lora": "",
+        "nom": "guillem",
+        "numero": "34637667237"
+    },
+    {
+        "emergencia": false,
+        "id": "{c037ec31-8ed7-4c45-96bf-b041b133f25b}",
+        "lora": "",
+        "nom": "Jose Hierro",
+        "numero": "34633763884"
+    },
+    {
+        "emergencia": false,
+        "id": "{d00a77c2-4d9b-4370-a44c-a7dceb649343}",
+        "lora": "",
+        "nom": "Moralesss",
+        "numero": "34652173455"
+    },
+    {
+        "emergencia": false,
+        "id": "{1fafcaf2-818a-420a-ae80-2b38e5eb0648}",
+        "lora": "",
+        "nom": "Marc Cases",
+        "numero": "34648560854"
+    },
+    {
+        "emergencia": false,
+        "id": "{d25b64a2-27f7-4020-b17e-fd97922aafd6}",
+        "lora": "",
+        "nom": "gabino",
+        "numero": "34651337224"
+    },
+    {
+        "emergencia": false,
+        "id": "{f0bb0662-6fd6-4735-8091-a3da66b03ac7}",
+        "lora": "",
+        "nom": "Ona Parada",
+        "numero": "34640230673"
+    },
+    {
+        "emergencia": false,
+        "id": "{2794e953-cf55-412a-a743-6f99508070fe}",
+        "lora": "",
+        "nom": "Lydia",
+        "numero": "34633495411"
+    },
+    {
+        "emergencia": false,
+        "id": "{87e63adf-1d64-42b0-867d-2cc2446a863b}",
+        "lora": "",
+        "nom": "Huguitooohg",
+        "numero": "34644783086"
+    },
+    {
+        "emergencia": false,
+        "id": "{e074710f-cfb4-4c06-bd49-ca4bc55e9cb6}",
+        "lora": "",
+        "nom": "🥷🐉",
+        "numero": "34691398039"
+    },
+    {
+        "emergencia": false,
+        "id": "{4078e1da-7045-4858-85e8-1f45e61783e6}",
+        "lora": "",
+        "nom": "Hugo Pérez",
+        "numero": "34619363149"
+    },
+    {
+        "emergencia": false,
+        "id": "{0f86c211-0df8-42ba-98d7-1900cb3d292c}",
+        "lora": "",
+        "nom": "Luis",
+        "numero": "56968304736"
+    },
+    {
+        "emergencia": false,
+        "id": "{0a72ea2a-b101-4f8b-b001-333754eb5437}",
+        "lora": "",
+        "nom": "Marta N",
+        "numero": "34644613240"
+    },
+    {
+        "emergencia": false,
+        "id": "{f01087af-7016-4fd6-a7b5-ce0e324f1c94}",
+        "lora": "",
+        "nom": "Nil Roig",
+        "numero": "34690851681"
+    },
+    {
+        "emergencia": false,
+        "id": "{d3db9578-b13d-495c-8dfb-c9cb20c18b7d}",
+        "lora": "",
+        "nom": "Àlex",
+        "numero": "34652242383"
+    },
+    {
+        "emergencia": false,
+        "id": "{cb8435ef-fb68-411a-85d1-98252d2d0f8d}",
+        "lora": "",
+        "nom": "Pau Calero SKKayak",
+        "numero": "34639008684"
+    },
+    {
+        "emergencia": false,
+        "id": "{0d0bec7c-471e-4055-a193-94a857118230}",
+        "lora": "",
+        "nom": "Baby Sobri💸",
+        "numero": "34663494277"
+    },
+    {
+        "emergencia": false,
+        "id": "{78d3875e-8624-472f-9fa0-9860b50ddb5a}",
+        "lora": "",
+        "nom": "Jordi Bolance",
+        "numero": "34644761615"
+    },
+    {
+        "emergencia": false,
+        "id": "{86e1f7cc-03aa-4081-a0d4-02b47fe349e4}",
+        "lora": "",
+        "nom": "Aleix Ortiz",
+        "numero": "34616221718"
+    },
+    {
+        "emergencia": false,
+        "id": "{51e7f8ec-5b19-42f9-be53-6c0aa085f221}",
+        "lora": "",
+        "nom": "Joan Costal",
+        "numero": "34647640803"
+    },
+    {
+        "emergencia": false,
+        "id": "{b1e35bd5-fac8-464a-a66e-9af51e3ec43a}",
+        "lora": "",
+        "nom": "Arnau Lopez",
+        "numero": "34665917881"
+    },
+    {
+        "emergencia": false,
+        "id": "{897788ce-93af-4072-b5a9-f37e773833e5}",
+        "lora": "",
+        "nom": "Diana",
+        "numero": "34692475843"
+    },
+    {
+        "emergencia": false,
+        "id": "{802a8575-5ea5-48b4-bfbe-d1fc7bd722af}",
+        "lora": "",
+        "nom": "nico",
+        "numero": "34634202916"
+    },
+    {
+        "emergencia": false,
+        "id": "{07823324-1438-46ea-80ab-ef7578bf437b}",
+        "lora": "",
+        "nom": "Yasmina",
+        "numero": "34631630864"
+    },
+    {
+        "emergencia": false,
+        "id": "{6c7a2ee2-2dea-4c41-affd-a4ac7dcc6d27}",
+        "lora": "",
+        "nom": "Jhon",
+        "numero": "34692204099"
+    },
+    {
+        "emergencia": false,
+        "id": "{37ff3d5b-5533-4c9c-90e5-9f77d62fe3d9}",
+        "lora": "",
+        "nom": "Juanma",
+        "numero": "34633671392"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c662a9c-0aec-4c64-bfac-c917076a8908}",
+        "lora": "",
+        "nom": "Gilipollas Num1",
+        "numero": "34623492962"
+    },
+    {
+        "emergencia": false,
+        "id": "{b6a2f808-0ad7-4317-aedf-047c87bd5a90}",
+        "lora": "",
+        "nom": "Isabel",
+        "numero": "34619120309"
+    },
+    {
+        "emergencia": false,
+        "id": "{4a32c4cf-c98a-4517-9cc1-d16e8c82a2cc}",
+        "lora": "",
+        "nom": "Ferran A.",
+        "numero": "34633423383"
+    },
+    {
+        "emergencia": false,
+        "id": "{48b45b44-4b6d-4006-b5f6-a48fde7681fb}",
+        "lora": "",
+        "nom": "Ivan Aguirre",
+        "numero": "34639188767"
+    },
+    {
+        "emergencia": false,
+        "id": "{0f73bab1-836f-4459-b2e6-ad442636005e}",
+        "lora": "",
+        "nom": "Fabio",
+        "numero": "34640329948"
+    },
+    {
+        "emergencia": false,
+        "id": "{75c0e4b7-0c82-49dd-ba47-8d960265ba7f}",
+        "lora": "",
+        "nom": "JCAT",
+        "numero": "34633543379"
+    },
+    {
+        "emergencia": false,
+        "id": "{7a7204d8-5dd7-47cb-86f1-faa83605cbc2}",
+        "lora": "",
+        "nom": "Edu",
+        "numero": "34611469260"
+    },
+    {
+        "emergencia": false,
+        "id": "{6469da83-a5aa-460c-9dfb-196884f9ea8d}",
+        "lora": "",
+        "nom": "Júlia",
+        "numero": "34640291453"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c9eced1-f353-401f-8fdc-abf24f9a2bed}",
+        "lora": "",
+        "nom": "Didac",
+        "numero": "34651708530"
+    },
+    {
+        "emergencia": false,
+        "id": "{b997bebd-febe-4af2-8d78-2078663e91f2}",
+        "lora": "",
+        "nom": "Eva",
+        "numero": "34638074011"
+    },
+    {
+        "emergencia": false,
+        "id": "{8774186f-a9bc-46ef-8ee9-db25f4ff2999}",
+        "lora": "",
+        "nom": "Christian",
+        "numero": "34626100770"
+    },
+    {
+        "emergencia": false,
+        "id": "{fbb91919-dbed-4f8f-a4b0-2628de3712f7}",
+        "lora": "",
+        "nom": "Yeray",
+        "numero": "34619859469"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a94f01c-80d3-4c92-99c7-893eae084ff3}",
+        "lora": "",
+        "nom": "Joan",
+        "numero": "34689194499"
+    },
+    {
+        "emergencia": false,
+        "id": "{6893c719-8b97-4ba0-a715-9478cb5d8fa6}",
+        "lora": "",
+        "nom": "Cecotec",
+        "numero": "34663217905"
+    },
+    {
+        "emergencia": false,
+        "id": "{c9d64f34-328f-48fc-9f29-86c43d88fb73}",
+        "lora": "",
+        "nom": "Badr",
+        "numero": "34632046045"
+    },
+    {
+        "emergencia": false,
+        "id": "{a9c2d33d-a011-437f-a580-9c645df2cfc9}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34632701825"
+    },
+    {
+        "emergencia": false,
+        "id": "{e5bd110d-da68-4d38-bf70-da4cf3a7959d}",
+        "lora": "",
+        "nom": "Laia Cuñi Alex",
+        "numero": "34688812707"
+    },
+    {
+        "emergencia": false,
+        "id": "{9a587ee6-f18d-4c07-93a5-78e293338760}",
+        "lora": "",
+        "nom": "Maria Jose Oficina Jove",
+        "numero": "34608903954"
+    },
+    {
+        "emergencia": false,
+        "id": "{707ec2fd-0c9a-4436-8f80-e3aaf7a28be7}",
+        "lora": "",
+        "nom": "Carlos",
+        "numero": "34640344955"
+    },
+    {
+        "emergencia": false,
+        "id": "{fd9d42de-9249-49a9-becf-852692854942}",
+        "lora": "",
+        "nom": "Adria Seguretat",
+        "numero": "34650044251"
+    },
+    {
+        "emergencia": false,
+        "id": "{51b83efd-6bef-419b-bc27-d3ce47818167}",
+        "lora": "",
+        "nom": "Jan Trèmols",
+        "numero": "34623032442"
+    },
+    {
+        "emergencia": false,
+        "id": "{e660ed68-9553-4147-a3b3-cf967c37ceef}",
+        "lora": "",
+        "nom": "JoanPau Rahola",
+        "numero": "34629587102"
+    },
+    {
+        "emergencia": false,
+        "id": "{df818cd2-78b7-4b96-852e-3969e7ead90c}",
+        "lora": "",
+        "nom": "Mateo Insti",
+        "numero": "34673428082"
+    },
+    {
+        "emergencia": false,
+        "id": "{4dc315bd-20b6-4fb0-b7a1-e19886a4f733}",
+        "lora": "",
+        "nom": "Nasser Juma",
+        "numero": "34672239760"
+    },
+    {
+        "emergencia": false,
+        "id": "{eedc5cf7-fa73-4c61-ab61-d3a763a22669}",
+        "lora": "",
+        "nom": "Núria Costa",
+        "numero": "34653638438"
+    },
+    {
+        "emergencia": false,
+        "id": "{0b59b64e-c47d-4b73-abc2-5f64ce28aeb9}",
+        "lora": "",
+        "nom": "Òscar Mafugaaa",
+        "numero": "34656523641"
+    },
+    {
+        "emergencia": false,
+        "id": "{5236c8a2-d902-4cb9-beeb-0361b96eaca2}",
+        "lora": "",
+        "nom": "urii",
+        "numero": "34676399723"
+    },
+    {
+        "emergencia": false,
+        "id": "{d126aca1-bc60-41a4-bedd-f66b81c7ce74}",
+        "lora": "",
+        "nom": "Pere (Ventas)",
+        "numero": "34610120312"
+    },
+    {
+        "emergencia": false,
+        "id": "{6bf70d57-250e-49aa-a528-abdb8d07eca7}",
+        "lora": "",
+        "nom": "T1Chon",
+        "numero": "34633036443"
+    },
+    {
+        "emergencia": false,
+        "id": "{c2c9037a-21c8-42a2-bf73-bd6001d451ce}",
+        "lora": "",
+        "nom": "Alex UdG",
+        "numero": "34640795159"
+    },
+    {
+        "emergencia": false,
+        "id": "{38183017-a08a-45b9-a8f1-b765d92dadb4}",
+        "lora": "",
+        "nom": "Bernat Li",
+        "numero": "34603041797"
+    },
+    {
+        "emergencia": false,
+        "id": "{1c27a3d3-dd94-4c00-bbfd-3b21aedbee7a}",
+        "lora": "",
+        "nom": "Miquel Anguissa",
+        "numero": "34722614779"
+    },
+    {
+        "emergencia": false,
+        "id": "{542eb7c8-0e70-4733-8748-53433c27fcf3}",
+        "lora": "",
+        "nom": "J",
+        "numero": "34639545723"
+    },
+    {
+        "emergencia": false,
+        "id": "{4fc53623-5f01-4809-b9e0-1973199ad568}",
+        "lora": "",
+        "nom": "Juan",
+        "numero": "34633254838"
+    },
+    {
+        "emergencia": false,
+        "id": "{81166ff2-ff3e-409f-8163-939e77635460}",
+        "lora": "",
+        "nom": "Jaume",
+        "numero": "34679349123"
+    },
+    {
+        "emergencia": false,
+        "id": "{8d224f36-1a5f-4a3c-bd21-00e2d977dc92}",
+        "lora": "",
+        "nom": "Ma Àngels Ventura",
+        "numero": "34659302491"
+    },
+    {
+        "emergencia": false,
+        "id": "{2bcd8014-b94f-4af0-a22b-29bbe95021b4}",
+        "lora": "",
+        "nom": "Sergio Alpera😇",
+        "numero": "34644889175"
+    },
+    {
+        "emergencia": false,
+        "id": "{199ba8e1-2b65-43fe-868e-ebc810025d7b}",
+        "lora": "",
+        "nom": "Beep Figueres",
+        "numero": "34972678014"
+    },
+    {
+        "emergencia": false,
+        "id": "{03c41237-bb65-4d79-9359-efafcc334e42}",
+        "lora": "",
+        "nom": "Agustín García Martínez",
+        "numero": "34633953954"
+    },
+    {
+        "emergencia": false,
+        "id": "{6fabbfea-8cc9-4cdd-83ba-0e1f27cc4959}",
+        "lora": "",
+        "nom": "Edu",
+        "numero": "34616375045"
+    },
+    {
+        "emergencia": false,
+        "id": "{d5e26f16-1a95-4a5a-b47c-5f149da2b5e4}",
+        "lora": "",
+        "nom": "Arnau Ramírez",
+        "numero": "34685747110"
+    },
+    {
+        "emergencia": false,
+        "id": "{05dccc9f-f901-485c-b940-53645950ddfa}",
+        "lora": "",
+        "nom": "Laura Hernández",
+        "numero": "34648134132"
+    },
+    {
+        "emergencia": false,
+        "id": "{d3cc2cbe-abf8-4dfc-958b-ee9fd894ade3}",
+        "lora": "",
+        "nom": "Sara",
+        "numero": "34676284068"
+    },
+    {
+        "emergencia": false,
+        "id": "{765cc184-1f15-42fd-b2aa-ed4e3182bc7b}",
+        "lora": "",
+        "nom": "Dani Candelera",
+        "numero": "34603123402"
+    },
+    {
+        "emergencia": false,
+        "id": "{b94ba5af-dcee-4aea-9171-24fb9f154e12}",
+        "lora": "",
+        "nom": "Alex",
+        "numero": "34747740469"
+    },
+    {
+        "emergencia": false,
+        "id": "{7777d520-b8d5-4adb-936e-40b87d5c09e3}",
+        "lora": "",
+        "nom": "💕🌀",
+        "numero": "34666612088"
+    },
+    {
+        "emergencia": false,
+        "id": "{b2cb504d-6a3e-4723-a978-a75f8943a21f}",
+        "lora": "",
+        "nom": "Josikoh",
+        "numero": "34623361151"
+    },
+    {
+        "emergencia": false,
+        "id": "{e95a98c1-8689-4653-8363-31e8236e686f}",
+        "lora": "",
+        "nom": "Pol Martorell",
+        "numero": "34626846735"
+    },
+    {
+        "emergencia": false,
+        "id": "{b32f6271-9aee-4925-aa1f-e1cc0dc21d17}",
+        "lora": "",
+        "nom": "Manu Portbou",
+        "numero": "34652566612"
+    },
+    {
+        "emergencia": false,
+        "id": "{6d613116-3a2a-4fdc-9e44-3c8d131dd8f3}",
+        "lora": "",
+        "nom": "anita🌻",
+        "numero": "34625104266"
+    },
+    {
+        "emergencia": false,
+        "id": "{d8b76cf9-dd7b-4d72-b055-546f27b23534}",
+        "lora": "",
+        "nom": "E",
+        "numero": "34640609197"
+    },
+    {
+        "emergencia": false,
+        "id": "{53729325-4029-46b3-a8d8-6daa64022c7a}",
+        "lora": "",
+        "nom": "Alexandre",
+        "numero": "34686063478"
+    },
+    {
+        "emergencia": false,
+        "id": "{6c99bcf3-06d7-401f-8154-2d35373037e0}",
+        "lora": "",
+        "nom": "Isaac",
+        "numero": "34650629105"
+    },
+    {
+        "emergencia": false,
+        "id": "{734a3508-9582-4c24-ab0b-b01fad24c4c9}",
+        "lora": "",
+        "nom": "Gentleman",
+        "numero": "34640737833"
+    },
+    {
+        "emergencia": false,
+        "id": "{6f068f02-4935-4c25-83dd-14ea44941e7a}",
+        "lora": "",
+        "nom": "Carlos Rodriguez",
+        "numero": "34666164446"
+    },
+    {
+        "emergencia": false,
+        "id": "{d8bb4b1e-dd60-441b-91e5-b24703b265b0}",
+        "lora": "",
+        "nom": "Guillem",
+        "numero": "34608550024"
+    },
+    {
+        "emergencia": false,
+        "id": "{0ae0d056-3a63-4e16-94b3-651aa6269b69}",
+        "lora": "",
+        "nom": "Kirito",
+        "numero": "34626014190"
+    },
+    {
+        "emergencia": false,
+        "id": "{f1fd88b2-12e6-4d83-9163-dcce1e7f1cd4}",
+        "lora": "",
+        "nom": "Leo",
+        "numero": "34685695721"
+    },
+    {
+        "emergencia": false,
+        "id": "{afe1b07f-e048-45d7-bb54-a339cc27d124}",
+        "lora": "",
+        "nom": "Elena Ruiz",
+        "numero": "34659283784"
+    },
+    {
+        "emergencia": false,
+        "id": "{eafa60f6-f3eb-4820-8d2c-62be0a623cdc}",
+        "lora": "",
+        "nom": "lucía espinosa",
+        "numero": "34632081802"
+    },
+    {
+        "emergencia": false,
+        "id": "{7648adad-2be3-4732-bc3f-3ecef1dd6066}",
+        "lora": "",
+        "nom": "Antonio Araujo",
+        "numero": "34625264093"
+    },
+    {
+        "emergencia": false,
+        "id": "{1a8286c6-1ad7-443d-9c7f-cb12f9ebb6ab}",
+        "lora": "",
+        "nom": "Biel",
+        "numero": "34645058584"
+    },
+    {
+        "emergencia": false,
+        "id": "{0f10547b-fc38-4c68-82fb-0cfd7d177928}",
+        "lora": "",
+        "nom": "Yang",
+        "numero": "34692268757"
+    },
+    {
+        "emergencia": false,
+        "id": "{fce9f9ba-242b-4a96-b31f-3808bfeb6e5a}",
+        "lora": "",
+        "nom": "Javier Cano",
+        "numero": "34697372626"
+    },
+    {
+        "emergencia": false,
+        "id": "{3116826f-dfd4-4e46-810d-7e51d8dd34e9}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34648529653"
+    },
+    {
+        "emergencia": false,
+        "id": "{eaba3f23-cb3e-4450-b148-b5a64cf74eec}",
+        "lora": "",
+        "nom": "Sorin Chiperi",
+        "numero": "34643160167"
+    },
+    {
+        "emergencia": false,
+        "id": "{2aa3caa2-d6bd-45e7-8024-c0f17c51b046}",
+        "lora": "",
+        "nom": "neuss",
+        "numero": "34660731023"
+    },
+    {
+        "emergencia": false,
+        "id": "{04d95faf-3f2e-4f4b-93df-859ea624350e}",
+        "lora": "",
+        "nom": "Figue",
+        "numero": "34671673944"
+    },
+    {
+        "emergencia": false,
+        "id": "{e4d02a74-c5c4-4e07-93c0-e2b1ab6eff93}",
+        "lora": "",
+        "nom": "Silvia Garcia",
+        "numero": "34657540299"
+    },
+    {
+        "emergencia": false,
+        "id": "{5c9ebceb-50fd-4b2e-864b-048e3ba52f3e}",
+        "lora": "",
+        "nom": "Ricard Heras",
+        "numero": "34663903482"
+    },
+    {
+        "emergencia": false,
+        "id": "{e61d6591-de88-405e-ab9d-bb980d6796a6}",
+        "lora": "",
+        "nom": "Bundalini",
+        "numero": "34624413031"
+    },
+    {
+        "emergencia": false,
+        "id": "{8ca502d6-db9b-43bb-a07f-2f418ac5c805}",
+        "lora": "",
+        "nom": "Autoescola Racc L'Estel",
+        "numero": "34655473250"
+    },
+    {
+        "emergencia": false,
+        "id": "{ac04debc-5b36-497c-be3d-d7f4a81a1146}",
+        "lora": "",
+        "nom": "Carlota",
+        "numero": "34656580450"
+    },
+    {
+        "emergencia": false,
+        "id": "{12cd35e0-9503-46c4-a11a-97999845f453}",
+        "lora": "",
+        "nom": "✝️",
+        "numero": "34624128499"
+    },
+    {
+        "emergencia": false,
+        "id": "{b79a5444-e292-431c-beb4-65e16558be47}",
+        "lora": "",
+        "nom": "Sílvia Sánchez",
+        "numero": "34687349911"
+    },
+    {
+        "emergencia": false,
+        "id": "{97cd5833-89ec-401b-92a2-e07911639523}",
+        "lora": "",
+        "nom": "Toses Recollir Bombers",
+        "numero": "34630564476"
+    },
+    {
+        "emergencia": false,
+        "id": "{fadf9cea-ff03-44b4-8ffd-d9e1001986c6}",
+        "lora": "",
+        "nom": "Laia Mascort",
+        "numero": "34688719514"
+    },
+    {
+        "emergencia": false,
+        "id": "{84dd8581-3967-4459-93dc-c76eae8eedb8}",
+        "lora": "",
+        "nom": "Marc ツ",
+        "numero": "34616473282"
+    },
+    {
+        "emergencia": false,
+        "id": "{9dc973cb-40b4-4214-b0ef-f2165619df89}",
+        "lora": "",
+        "nom": "Aniol",
+        "numero": "34605610528"
+    },
+    {
+        "emergencia": false,
+        "id": "{b4964748-3e92-4374-a5d0-236135c6d9e7}",
+        "lora": "",
+        "nom": "Nbié😎",
+        "numero": "34676664119"
+    },
+    {
+        "emergencia": false,
+        "id": "{37a6fe66-9733-4adc-bc69-944e259f6a8b}",
+        "lora": "",
+        "nom": "JzJ",
+        "numero": "34658534961"
+    },
+    {
+        "emergencia": false,
+        "id": "{74c54973-30ac-4bb9-941d-bc79d4a6216d}",
+        "lora": "",
+        "nom": "Álvaro Martín Codina",
+        "numero": "34601135833"
+    },
+    {
+        "emergencia": false,
+        "id": "{06fdf2ca-66b8-4073-991d-a125b307a4f7}",
+        "lora": "",
+        "nom": "iker",
+        "numero": "34672167989"
+    },
+    {
+        "emergencia": false,
+        "id": "{6e749737-d739-4603-acfa-1f531d2c8c77}",
+        "lora": "",
+        "nom": "Lluís Carrefour",
+        "numero": "34608667187"
+    },
+    {
+        "emergencia": false,
+        "id": "{5ff89c60-22cc-4671-8741-1caf7f3f5a62}",
+        "lora": "",
+        "nom": "Emi",
+        "numero": "34642459367"
+    },
+    {
+        "emergencia": false,
+        "id": "{ecf50ff9-4501-478c-9544-ff03d2ddeb0e}",
+        "lora": "",
+        "nom": "josep maria penya",
+        "numero": "34639274918"
+    },
+    {
+        "emergencia": false,
+        "id": "{9eb8b16e-c009-4023-8090-3993f1efdb2c}",
+        "lora": "",
+        "nom": "Aleix",
+        "numero": "34618621538"
+    },
+    {
+        "emergencia": false,
+        "id": "{c3b1e6f8-d274-4937-9b54-5f89873c9672}",
+        "lora": "",
+        "nom": "Natalia Urbano",
+        "numero": "34653202899"
+    },
+    {
+        "emergencia": false,
+        "id": "{cddf312f-1be4-4275-a745-406827e4087a}",
+        "lora": "",
+        "nom": "Anna Germaneta",
+        "numero": "34622731305"
+    },
+    {
+        "emergencia": false,
+        "id": "{f895f1b4-878d-4785-a513-9681dfd2c19a}",
+        "lora": "",
+        "nom": "Felipe",
+        "numero": "34662144584"
+    },
+    {
+        "emergencia": false,
+        "id": "{58a78b6f-e027-4cb9-9ce4-a25a1ab71188}",
+        "lora": "",
+        "nom": "Iker",
+        "numero": "34607449161"
+    },
+    {
+        "emergencia": false,
+        "id": "{6a10c8be-f88c-40ab-a89d-7c272e2b781c}",
+        "lora": "",
+        "nom": "Jordi Güell",
+        "numero": "34611422870"
+    },
+    {
+        "emergencia": false,
+        "id": "{839307d1-3acc-4636-91cd-691b28af3536}",
+        "lora": "",
+        "nom": "S",
+        "numero": "34693566375"
+    },
+    {
+        "emergencia": false,
+        "id": "{a835f6f0-acfb-4fe7-b690-ba7e4311e489}",
+        "lora": "",
+        "nom": "Carol Porcuna",
+        "numero": "34620719857"
+    },
+    {
+        "emergencia": false,
+        "id": "{32af8557-5b3f-4850-894b-d9835311199f}",
+        "lora": "",
+        "nom": "Aleix Suri",
+        "numero": "34640637425"
+    },
+    {
+        "emergencia": false,
+        "id": "{effd41dd-4301-49b4-8637-b150645f10de}",
+        "lora": "",
+        "nom": "Marta Cruset ",
+        "numero": "34628886256"
+    },
+    {
+        "emergencia": false,
+        "id": "{acbf9e50-152b-4df4-a427-383fded2a7f8}",
+        "lora": "",
+        "nom": "Kiko",
+        "numero": "34642877078"
+    },
+    {
+        "emergencia": false,
+        "id": "{3c9be517-a0c8-4d0e-933c-19d529206fb2}",
+        "lora": "",
+        "nom": "Alba Cuñi",
+        "numero": "34674539810"
+    },
+    {
+        "emergencia": false,
+        "id": "{1a242308-59ca-46a9-8262-c9b520d9bc14}",
+        "lora": "",
+        "nom": "Lluís Capó",
+        "numero": "34644882502"
+    },
+    {
+        "emergencia": false,
+        "id": "{5d54aadf-6fe8-4732-90e2-2a00df6dedde}",
+        "lora": "",
+        "nom": "Arnau Carnicero",
+        "numero": "34666665256"
+    },
+    {
+        "emergencia": false,
+        "id": "{61436159-07f1-4b05-835e-05cc7beed29a}",
+        "lora": "",
+        "nom": "Marc Urquizu",
+        "numero": "34669459027"
+    },
+    {
+        "emergencia": false,
+        "id": "{d8488fcc-08d0-48f7-be4f-82d276c08bf7}",
+        "lora": "",
+        "nom": "Quim Sk",
+        "numero": "34618478137"
+    },
+    {
+        "emergencia": false,
+        "id": "{3df2f98d-fa67-4e99-80d7-50670991abf4}",
+        "lora": "",
+        "nom": "Gerard",
+        "numero": "34621203837"
+    },
+    {
+        "emergencia": false,
+        "id": "{ea7c1466-c520-469f-90e7-bdd0a71a586a}",
+        "lora": "",
+        "nom": "®️",
+        "numero": "34633572944"
+    },
+    {
+        "emergencia": false,
+        "id": "{756dba2d-67dd-4c9d-b9ed-88b359729271}",
+        "lora": "",
+        "nom": "Joel F",
+        "numero": "34673660550"
+    },
+    {
+        "emergencia": false,
+        "id": "{e16dbe9a-c015-4724-9963-9dd811f18074}",
+        "lora": "",
+        "nom": "Pol Vilà",
+        "numero": "34672311983"
+    },
+    {
+        "emergencia": false,
+        "id": "{1fd951d2-8d6c-4956-b522-3abf97af81de}",
+        "lora": "",
+        "nom": "Gallardo",
+        "numero": "34616161671"
+    },
+    {
+        "emergencia": false,
+        "id": "{fe407328-28dc-4026-bfd3-baf2a7393706}",
+        "lora": "",
+        "nom": "Ammy Portbou",
+        "numero": "34631749544"
+    },
+    {
+        "emergencia": false,
+        "id": "{a90fccc7-3ebf-4f70-a703-721be465b107}",
+        "lora": "",
+        "nom": "~Ioan🥶",
+        "numero": "34603535788"
+    },
+    {
+        "emergencia": false,
+        "id": "{3d1bebf6-7e83-46cd-b4bf-5fa73b6fe15e}",
+        "lora": "",
+        "nom": "Àlex Ruiz",
+        "numero": "34662212615"
+    },
+    {
+        "emergencia": false,
+        "id": "{527ba687-4af4-419c-8295-d15ff1c889eb}",
+        "lora": "",
+        "nom": "Juan",
+        "numero": "34643491339"
+    },
+    {
+        "emergencia": false,
+        "id": "{4c208f18-08fe-47c5-85ee-04fe356d50e1}",
+        "lora": "",
+        "nom": "Júlia Portbou",
+        "numero": "34688711379"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ca17162-4f42-402d-97ca-a15a09c46c96}",
+        "lora": "",
+        "nom": "Marco Antonio",
+        "numero": "34643338979"
+    },
+    {
+        "emergencia": false,
+        "id": "{74c5f1b7-88fd-476d-a130-11b858a1e4d2}",
+        "lora": "",
+        "nom": "Nil Turon",
+        "numero": "34603405722"
+    },
+    {
+        "emergencia": false,
+        "id": "{98c73108-ce45-4984-ac1a-f5cfef562e49}",
+        "lora": "",
+        "nom": "🐉",
+        "numero": "34625501111"
+    },
+    {
+        "emergencia": false,
+        "id": "{0d8e45f1-60b0-4b4a-9e33-38094469bb4d}",
+        "lora": "",
+        "nom": "marc",
+        "numero": "34611422180"
+    },
+    {
+        "emergencia": false,
+        "id": "{bcbefd18-794e-4a6c-b501-9ab4b7b0b92c}",
+        "lora": "",
+        "nom": "Roger",
+        "numero": "34640791091"
+    },
+    {
+        "emergencia": false,
+        "id": "{25c74614-1f88-41af-ba08-711f2e131a38}",
+        "lora": "",
+        "nom": "Conde",
+        "numero": "34685848726"
+    },
+    {
+        "emergencia": false,
+        "id": "{543ee417-e42c-4e2b-85a0-89c0a6105bd3}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34688874549"
+    },
+    {
+        "emergencia": false,
+        "id": "{17b7669b-db13-42de-ab8b-14932e8647d7}",
+        "lora": "",
+        "nom": "San🌸",
+        "numero": "34689711173"
+    },
+    {
+        "emergencia": false,
+        "id": "{c6e62bbb-e999-4a84-aada-72e48caa111f}",
+        "lora": "",
+        "nom": "Oriol ERAM",
+        "numero": "34658720918"
+    },
+    {
+        "emergencia": false,
+        "id": "{fc68e539-6354-4055-b937-37527d8c01d2}",
+        "lora": "",
+        "nom": "Bernat",
+        "numero": "34640702713"
+    },
+    {
+        "emergencia": false,
+        "id": "{f2dad1f7-637b-4b2a-97e8-a99d2107c861}",
+        "lora": "",
+        "nom": "Quim",
+        "numero": "34664319559"
+    },
+    {
+        "emergencia": false,
+        "id": "{eba91f6e-5fc1-4426-a44e-4d00180d087a}",
+        "lora": "",
+        "nom": "Sandra Carrefour",
+        "numero": "34608610963"
+    },
+    {
+        "emergencia": false,
+        "id": "{6888b562-4094-42d0-b244-170c2d4d4874}",
+        "lora": "",
+        "nom": "string nom = \"Eloi\";",
+        "numero": "34689562862"
+    },
+    {
+        "emergencia": false,
+        "id": "{0938e2f2-dddb-4735-8a0b-dc943ef922e2}",
+        "lora": "",
+        "nom": "Lila Landa",
+        "numero": "34663139632"
+    },
+    {
+        "emergencia": false,
+        "id": "{e715960d-21cf-4f5d-afd5-8401498befc9}",
+        "lora": "",
+        "nom": "Gaspar Pablo Pérez",
+        "numero": "34695577202"
+    },
+    {
+        "emergencia": false,
+        "id": "{0f3e4a3d-05f4-404e-90cc-955b418e5846}",
+        "lora": "",
+        "nom": "isaac triola",
+        "numero": "34622029751"
+    },
+    {
+        "emergencia": false,
+        "id": "{06dde33e-df34-4e2e-b97d-0d99e7d5b0b7}",
+        "lora": "",
+        "nom": "Carles",
+        "numero": "34696613808"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ba79b7e-d3e3-4e0c-bda8-64e49192fb6f}",
+        "lora": "",
+        "nom": "Albert",
+        "numero": "34685538576"
+    },
+    {
+        "emergencia": false,
+        "id": "{4d361cf5-eae4-402f-88c6-a757db1896be}",
+        "lora": "",
+        "nom": "Ona Carol",
+        "numero": "34668698277"
+    },
+    {
+        "emergencia": false,
+        "id": "{82c85290-ff61-423c-a6dc-f85ae96ebba8}",
+        "lora": "",
+        "nom": "Jordi Reverter",
+        "numero": "34609478414"
+    },
+    {
+        "emergencia": false,
+        "id": "{f78ab012-06ac-4dc7-ac3e-0a073d54c63b}",
+        "lora": "",
+        "nom": "José Mezquita Benlloch",
+        "numero": "34630627679"
+    },
+    {
+        "emergencia": false,
+        "id": "{59ff8b83-8b28-420f-963e-de2946bb2ae6}",
+        "lora": "",
+        "nom": "Carla Amiga Marti",
+        "numero": "34644978214"
+    },
+    {
+        "emergencia": false,
+        "id": "{e4f8f081-12bc-45ec-8a79-53503926e679}",
+        "lora": "",
+        "nom": "Victor Vilà",
+        "numero": "34636101669"
+    },
+    {
+        "emergencia": false,
+        "id": "{209e2ace-5c33-4a75-b088-7f9ab49b7efa}",
+        "lora": "",
+        "nom": "Maria Insti",
+        "numero": "34678012473"
+    },
+    {
+        "emergencia": false,
+        "id": "{405d24e9-e7a8-413d-b1ac-a7b43769aba4}",
+        "lora": "",
+        "nom": "Alexis",
+        "numero": "34626947840"
+    },
+    {
+        "emergencia": false,
+        "id": "{754926f0-14eb-4f63-a819-563c047df3d1}",
+        "lora": "",
+        "nom": "Silvia Gym Portbou",
+        "numero": "34637523610"
+    },
+    {
+        "emergencia": false,
+        "id": "{fbb0140f-999c-45c1-b0a1-764660337ac2}",
+        "lora": "",
+        "nom": "Jaaaan",
+        "numero": "34603011727"
+    },
+    {
+        "emergencia": false,
+        "id": "{c5ff16ab-c009-4ef6-99c3-636b6f4b5f57}",
+        "lora": "",
+        "nom": "Nico",
+        "numero": "34658054232"
+    },
+    {
+        "emergencia": false,
+        "id": "{85f796b8-5689-4369-8187-a488b6214793}",
+        "lora": "",
+        "nom": "Marçal",
+        "numero": "34637384425"
+    },
+    {
+        "emergencia": false,
+        "id": "{32b7a704-1a2e-46f8-bf40-b4e328d21b57}",
+        "lora": "",
+        "nom": "Alex",
+        "numero": "34633851508"
+    },
+    {
+        "emergencia": false,
+        "id": "{cfbc35df-8b95-4802-af1f-8f111b41216d}",
+        "lora": "",
+        "nom": "Arnau Piñol Regàs",
+        "numero": "34688789822"
+    },
+    {
+        "emergencia": false,
+        "id": "{26a90273-3d0a-4ebf-8d96-ac87df88cabc}",
+        "lora": "",
+        "nom": "Izan",
+        "numero": "34664136822"
+    },
+    {
+        "emergencia": false,
+        "id": "{ffc40671-6f8b-494f-8968-c3f95233492d}",
+        "lora": "",
+        "nom": "Flou",
+        "numero": "34687521099"
+    },
+    {
+        "emergencia": false,
+        "id": "{86543b76-2450-44ad-bf10-35f5cd936c23}",
+        "lora": "",
+        "nom": "Sergi",
+        "numero": "34633140212"
+    },
+    {
+        "emergencia": false,
+        "id": "{3da881fa-e792-4280-a860-32334e8f2eeb}",
+        "lora": "",
+        "nom": "jj",
+        "numero": "34600011926"
+    },
+    {
+        "emergencia": false,
+        "id": "{7d606709-9b24-449d-a1cc-b2fdff1766ea}",
+        "lora": "",
+        "nom": "David Escobar",
+        "numero": "34638157911"
+    },
+    {
+        "emergencia": false,
+        "id": "{f3e67e1d-6e98-429a-bc5a-a91a1a081a8b}",
+        "lora": "",
+        "nom": "Marc Ramjee",
+        "numero": "34637783454"
+    },
+    {
+        "emergencia": false,
+        "id": "{4339bd23-3411-4b13-bb3a-52e4c371e50a}",
+        "lora": "",
+        "nom": "Cristian",
+        "numero": "34633799587"
+    },
+    {
+        "emergencia": false,
+        "id": "{a4e5049c-9f56-42a7-8006-4e297b519574}",
+        "lora": "",
+        "nom": "Jules Damon",
+        "numero": "33749654789"
+    },
+    {
+        "emergencia": false,
+        "id": "{bddcb664-0a8d-4d8a-8799-43305f8df902}",
+        "lora": "",
+        "nom": "Gemma",
+        "numero": "34680293104"
+    },
+    {
+        "emergencia": false,
+        "id": "{7fe603ca-4d60-4891-9416-320c9c0d8b9d}",
+        "lora": "",
+        "nom": "Aleix",
+        "numero": "34635927594"
+    },
+    {
+        "emergencia": false,
+        "id": "{75255170-8c2d-4b2a-9b84-07eaa6ab401e}",
+        "lora": "",
+        "nom": "Jaumee⚡️",
+        "numero": "34672788215"
+    },
+    {
+        "emergencia": false,
+        "id": "{1b00a2fb-c426-411d-a5bc-539e180b7733}",
+        "lora": "",
+        "nom": "Lluis Vilanova",
+        "numero": "34609367388"
+    },
+    {
+        "emergencia": false,
+        "id": "{e8114736-530f-4104-812c-3d27097823bb}",
+        "lora": "",
+        "nom": "Dellun",
+        "numero": "34626716399"
+    },
+    {
+        "emergencia": false,
+        "id": "{f36e4cc3-ad63-41a1-8180-fc50efa09642}",
+        "lora": "",
+        "nom": "Mi Browski 😎",
+        "numero": "34677067664"
+    },
+    {
+        "emergencia": false,
+        "id": "{d4da2e5f-3926-4d8e-9638-ef81656aee66}",
+        "lora": "",
+        "nom": "Nil Toyota",
+        "numero": "34619025933"
+    },
+    {
+        "emergencia": false,
+        "id": "{bdf3d721-5f2e-4eb0-a417-00125e0271a3}",
+        "lora": "",
+        "nom": "Tx",
+        "numero": "34699851739"
+    },
+    {
+        "emergencia": false,
+        "id": "{6cb0955d-25ec-4f70-b3d7-b18c4031a855}",
+        "lora": "",
+        "nom": "Cande",
+        "numero": "34697337356"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a57e6f2-a9c4-4d12-9643-1a9dddf12eb3}",
+        "lora": "",
+        "nom": "Tomeu",
+        "numero": "34619719199"
+    },
+    {
+        "emergencia": false,
+        "id": "{f2677da9-259c-4d98-bd70-75f48579cb4d}",
+        "lora": "",
+        "nom": "Padre Daniela",
+        "numero": "584146508150"
+    },
+    {
+        "emergencia": false,
+        "id": "{0b1e3f38-486b-42b8-8c05-25a486e9ffce}",
+        "lora": "",
+        "nom": "Mayola",
+        "numero": "34606071118"
+    },
+    {
+        "emergencia": false,
+        "id": "{56136943-a5ad-4905-bc13-83c6f6a47073}",
+        "lora": "",
+        "nom": "Sónia Güell Montull",
+        "numero": "34626416658"
+    },
+    {
+        "emergencia": false,
+        "id": "{32eb198e-6bbf-4105-a94f-2b5c428607f5}",
+        "lora": "",
+        "nom": "Xavi",
+        "numero": "34628256269"
+    },
+    {
+        "emergencia": false,
+        "id": "{32c923ec-7a1b-4dfd-8913-1c72155753c9}",
+        "lora": "",
+        "nom": "Nuria",
+        "numero": "34646633217"
+    },
+    {
+        "emergencia": false,
+        "id": "{77f33844-72c4-4032-b059-6e90b3a368b0}",
+        "lora": "",
+        "nom": "Nelson",
+        "numero": "34699798337"
+    },
+    {
+        "emergencia": false,
+        "id": "{c6dbf486-bec5-4255-b948-366396234b8e}",
+        "lora": "",
+        "nom": "Joaco😴",
+        "numero": "56976645341"
+    },
+    {
+        "emergencia": false,
+        "id": "{e58bac3c-7a9a-4f70-993b-b6143907fa4c}",
+        "lora": "",
+        "nom": "Daniel Vilamala",
+        "numero": "34617510289"
+    },
+    {
+        "emergencia": false,
+        "id": "{c668a945-c9cc-43ad-9256-f3085ba1707c}",
+        "lora": "",
+        "nom": "Quim Syteco",
+        "numero": "34722442523"
+    },
+    {
+        "emergencia": false,
+        "id": "{ef4d5676-cb8b-425a-b98f-311bf41623e4}",
+        "lora": "",
+        "nom": "Pau Germa Alba",
+        "numero": "34656347747"
+    },
+    {
+        "emergencia": false,
+        "id": "{c4efd087-a69c-470b-a4c9-3b0ee2bbb56d}",
+        "lora": "",
+        "nom": "Iván Morata ⚽",
+        "numero": "34602609432"
+    },
+    {
+        "emergencia": false,
+        "id": "{5e2946ca-047b-4526-a587-77f682dc3551}",
+        "lora": "",
+        "nom": "Pol",
+        "numero": "34608803634"
+    },
+    {
+        "emergencia": false,
+        "id": "{e2599fbb-ab6a-49d3-98a9-1e069c247e28}",
+        "lora": "",
+        "nom": "Mikel G.",
+        "numero": "34688612718"
+    },
+    {
+        "emergencia": false,
+        "id": "{047ebcdd-eb21-4c68-9027-84b8eb5cd7ba}",
+        "lora": "",
+        "nom": "Lluis Colomé",
+        "numero": "34611467987"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a1173d3-7975-4c14-8f1d-4132577fb418}",
+        "lora": "",
+        "nom": "Iliyan",
+        "numero": "31626892756"
+    },
+    {
+        "emergencia": false,
+        "id": "{057b175b-1a3a-4aa8-b907-f37722ce2e48}",
+        "lora": "",
+        "nom": "Zupe ☁️",
+        "numero": "34654903795"
+    },
+    {
+        "emergencia": false,
+        "id": "{4cd04c52-ea45-470b-9051-d920ddca271c}",
+        "lora": "",
+        "nom": "Janitus",
+        "numero": "34684118532"
+    },
+    {
+        "emergencia": false,
+        "id": "{095c12a0-7519-4a7e-91e7-7d0f3c34843b}",
+        "lora": "",
+        "nom": "Lluc",
+        "numero": "34654385540"
+    },
+    {
+        "emergencia": false,
+        "id": "{7732e70c-988b-4b75-bdc6-281ce0b9419b}",
+        "lora": "",
+        "nom": "Mireia Cumple Jan",
+        "numero": "34698449054"
+    },
+    {
+        "emergencia": false,
+        "id": "{e0fa6685-974b-4189-85a4-391bf0b6fef8}",
+        "lora": "",
+        "nom": "Client SK Francès",
+        "numero": "33680848674"
+    },
+    {
+        "emergencia": false,
+        "id": "{00b6ee43-0984-4b1b-81b9-77409b7be8c6}",
+        "lora": "",
+        "nom": "Mario",
+        "numero": "34653734297"
+    },
+    {
+        "emergencia": false,
+        "id": "{1f544a5a-8a45-4372-9acc-693fad9060c0}",
+        "lora": "",
+        "nom": "Raquel Amiga Papa",
+        "numero": "34671295207"
+    },
+    {
+        "emergencia": false,
+        "id": "{a746da8f-ed40-4951-be8b-c2972045cf21}",
+        "lora": "",
+        "nom": "Albert V ~",
+        "numero": "34625631854"
+    },
+    {
+        "emergencia": false,
+        "id": "{2301e4d6-c0ea-496d-b30c-953fc0d0f8af}",
+        "lora": "",
+        "nom": "Jordi Saló",
+        "numero": "34670012966"
+    },
+    {
+        "emergencia": false,
+        "id": "{b7d4753e-e344-4e32-8005-dc547aa6ea36}",
+        "lora": "",
+        "nom": "Walla",
+        "numero": "34692380983"
+    },
+    {
+        "emergencia": false,
+        "id": "{16e4b5b1-ffa9-4ee9-bf4a-ec80058473dd}",
+        "lora": "",
+        "nom": "Pau",
+        "numero": "34689352645"
+    },
+    {
+        "emergencia": false,
+        "id": "{d4f8d86d-d1dc-4962-941d-49d6a483d820}",
+        "lora": "",
+        "nom": "David Andreu",
+        "numero": "34619764799"
+    },
+    {
+        "emergencia": false,
+        "id": "{e41bcf6b-e84b-4e5c-8115-90e2913bf6af}",
+        "lora": "",
+        "nom": "Jordi Muñoz",
+        "numero": "34611410927"
+    },
+    {
+        "emergencia": false,
+        "id": "{9499daae-f423-46a1-bfa4-b2f521127157}",
+        "lora": "",
+        "nom": "Reque",
+        "numero": "34653575057"
+    },
+    {
+        "emergencia": false,
+        "id": "{637a74da-ed96-417d-b56a-ea241ef20bb6}",
+        "lora": "",
+        "nom": "roger",
+        "numero": "34686348694"
+    },
+    {
+        "emergencia": false,
+        "id": "{93e0e916-0885-4c0f-8060-e7223929c995}",
+        "lora": "",
+        "nom": "David Todopoderoso",
+        "numero": "34667383683"
+    },
+    {
+        "emergencia": false,
+        "id": "{c5b03663-9cc6-449e-8045-f5184aefbb44}",
+        "lora": "",
+        "nom": "marionaa",
+        "numero": "34689942997"
+    },
+    {
+        "emergencia": false,
+        "id": "{ee9c38c3-7eda-42a4-8ec1-fb2913fb19f0}",
+        "lora": "",
+        "nom": "Gerry",
+        "numero": "34644975206"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a11ea3a-452f-49ba-b3f4-ad8ced531028}",
+        "lora": "",
+        "nom": "Enric Sirera",
+        "numero": "34648037823"
+    },
+    {
+        "emergencia": false,
+        "id": "{ec7c0f33-32fc-4ecf-9e69-74e907d5deee}",
+        "lora": "",
+        "nom": "Carlos🕸️",
+        "numero": "34640608732"
+    },
+    {
+        "emergencia": false,
+        "id": "{b6b3bb2c-5de3-4754-94d1-7aaaa8dc5556}",
+        "lora": "",
+        "nom": "Jero",
+        "numero": "34722138869"
+    },
+    {
+        "emergencia": false,
+        "id": "{db8a3f2c-35a8-4a21-8fc2-b8389345ffc2}",
+        "lora": "",
+        "nom": "🐏",
+        "numero": "34680771421"
+    },
+    {
+        "emergencia": false,
+        "id": "{f5e8878e-95c9-4a8d-b903-92ee16366152}",
+        "lora": "",
+        "nom": "unai",
+        "numero": "34631925525"
+    },
+    {
+        "emergencia": false,
+        "id": "{af773e2b-dcb1-4232-90b1-61a4e1f8a41a}",
+        "lora": "",
+        "nom": "Binu",
+        "numero": "34684144141"
+    },
+    {
+        "emergencia": false,
+        "id": "{011e6127-3429-4980-bb2e-c16f560dd5c8}",
+        "lora": "",
+        "nom": "Pol Quel",
+        "numero": "34635849107"
+    },
+    {
+        "emergencia": false,
+        "id": "{253ba56c-a57f-4f19-9da0-b5c9f6f1dabe}",
+        "lora": "",
+        "nom": "Alberto Perelo",
+        "numero": "34656440446"
+    },
+    {
+        "emergencia": false,
+        "id": "{599394fb-2fe5-44de-b872-000e70001891}",
+        "lora": "",
+        "nom": "Jordi Fortes",
+        "numero": "34690325343"
+    },
+    {
+        "emergencia": false,
+        "id": "{af4cd179-a1e8-42b0-b5aa-2fef0bd986c8}",
+        "lora": "",
+        "nom": "Luis",
+        "numero": "34616603686"
+    },
+    {
+        "emergencia": false,
+        "id": "{99cc847c-f75a-4001-9cdf-415f8b3fedc2}",
+        "lora": "",
+        "nom": "Marcelí Corominas",
+        "numero": "34640601564"
+    },
+    {
+        "emergencia": false,
+        "id": "{9a59b345-a756-46a9-b099-b2c7086c46ee}",
+        "lora": "",
+        "nom": "Aran",
+        "numero": "34674823850"
+    },
+    {
+        "emergencia": false,
+        "id": "{bf436ecf-5a9a-46f7-aac1-70b9f311c70b}",
+        "lora": "",
+        "nom": "Brián",
+        "numero": "34691740842"
+    },
+    {
+        "emergencia": false,
+        "id": "{8f705fae-f3fc-4f60-bbd8-920721aeb4fb}",
+        "lora": "",
+        "nom": "Alejandro",
+        "numero": "34654217834"
+    },
+    {
+        "emergencia": false,
+        "id": "{21d1c99f-1d9e-45d4-a4e1-4d42bc0abf99}",
+        "lora": "",
+        "nom": "Anna🍊",
+        "numero": "34617879096"
+    },
+    {
+        "emergencia": false,
+        "id": "{b33753fd-ff5b-47b3-acf3-b97e88e7e8ca}",
+        "lora": "",
+        "nom": "Markkk✋",
+        "numero": "34652696952"
+    },
+    {
+        "emergencia": false,
+        "id": "{6f5c6d09-f977-46ae-b44b-f8ba21b7f510}",
+        "lora": "",
+        "nom": "David",
+        "numero": "34611538774"
+    },
+    {
+        "emergencia": false,
+        "id": "{a5b979f9-496a-43ee-9003-c53b4635129f}",
+        "lora": "",
+        "nom": "Lunayyy",
+        "numero": "34619458184"
+    },
+    {
+        "emergencia": false,
+        "id": "{e0a21fd8-dbf9-436e-aaa6-c0d49d52261f}",
+        "lora": "",
+        "nom": "Anna",
+        "numero": "447441397318"
+    },
+    {
+        "emergencia": false,
+        "id": "{b2544193-2c43-4b22-b8c2-202062c87177}",
+        "lora": "",
+        "nom": "Gerard Germà Pol",
+        "numero": "34656686997"
+    },
+    {
+        "emergencia": false,
+        "id": "{2353da10-f37b-4080-90e2-76e7674a626b}",
+        "lora": "",
+        "nom": "Íñigo",
+        "numero": "34656779409"
+    },
+    {
+        "emergencia": false,
+        "id": "{287b733a-0b57-410f-a04e-fdfca5ec13ba}",
+        "lora": "",
+        "nom": "Clara",
+        "numero": "34681314695"
+    },
+    {
+        "emergencia": false,
+        "id": "{001869c5-b0a3-456f-8565-e985d6049f94}",
+        "lora": "",
+        "nom": "Ramon",
+        "numero": "34671727736"
+    },
+    {
+        "emergencia": false,
+        "id": "{a3da736a-cd66-4c08-b652-d49adfd50f90}",
+        "lora": "",
+        "nom": "Susana Martí",
+        "numero": "34639348862"
+    },
+    {
+        "emergencia": false,
+        "id": "{2466ef06-45f0-4337-a19d-1bf4a19331ca}",
+        "lora": "",
+        "nom": "Pere Uni",
+        "numero": "34665759293"
+    },
+    {
+        "emergencia": false,
+        "id": "{748cca68-b455-4d39-8829-d83d019494e1}",
+        "lora": "",
+        "nom": "V",
+        "numero": "34722836717"
+    },
+    {
+        "emergencia": false,
+        "id": "{3a4dbb41-30b5-4d19-b809-3cc12beb5d0f}",
+        "lora": "",
+        "nom": "Carlesmn23",
+        "numero": "34675308293"
+    },
+    {
+        "emergencia": false,
+        "id": "{06521af2-172c-4209-ba74-bdbfe5f6d438}",
+        "lora": "",
+        "nom": "Tania Cos",
+        "numero": "34687868330"
+    },
+    {
+        "emergencia": false,
+        "id": "{16a527d1-66ca-4b59-840f-f0543d6844d3}",
+        "lora": "",
+        "nom": "Berta Valenti",
+        "numero": "34680773406"
+    },
+    {
+        "emergencia": false,
+        "id": "{3e93655c-ee46-43a1-a667-9c7ff79e6c72}",
+        "lora": "",
+        "nom": "Carla Pot",
+        "numero": "34640344535"
+    },
+    {
+        "emergencia": false,
+        "id": "{c44e681b-7b7a-4db8-b14a-abea9a2954c1}",
+        "lora": "",
+        "nom": "Fill De Puta",
+        "numero": "34645030960"
+    },
+    {
+        "emergencia": false,
+        "id": "{18cae866-78df-4dea-837a-9095b4d65be9}",
+        "lora": "",
+        "nom": "Marta personal",
+        "numero": "34618948055"
+    },
+    {
+        "emergencia": false,
+        "id": "{dea6fbe9-e0d3-4bd0-af5e-0a92d8ecafe2}",
+        "lora": "",
+        "nom": "Joe Jacobi",
+        "numero": "34630548406"
+    },
+    {
+        "emergencia": false,
+        "id": "{17436b1b-6731-41be-946b-00517cc187a4}",
+        "lora": "",
+        "nom": "Jhon",
+        "numero": "34602839575"
+    },
+    {
+        "emergencia": false,
+        "id": "{a8e7bf78-77c8-45d4-8072-b69f3f1813d9}",
+        "lora": "",
+        "nom": "jordina",
+        "numero": "34693058477"
+    },
+    {
+        "emergencia": false,
+        "id": "{4a13bfc3-f518-46d8-9537-4ef5a576e632}",
+        "lora": "",
+        "nom": "Wissam",
+        "numero": "34632741394"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a3d9387-3e53-4f76-9a88-41f937d9bb59}",
+        "lora": "",
+        "nom": "Pablo",
+        "numero": "34640366300"
+    },
+    {
+        "emergencia": false,
+        "id": "{24191019-ecde-4dba-a858-dd53aac8f6c7}",
+        "lora": "",
+        "nom": "Jose Lopez",
+        "numero": "34610441848"
+    },
+    {
+        "emergencia": false,
+        "id": "{b9a54bdb-d755-4ffb-82a7-cc7551c180e2}",
+        "lora": "",
+        "nom": "Ivet",
+        "numero": "34600821647"
+    },
+    {
+        "emergencia": false,
+        "id": "{90a67b98-65f4-438c-956b-4a76b76a426f}",
+        "lora": "",
+        "nom": "Wallapop Iphone",
+        "numero": "34632825000"
+    },
+    {
+        "emergencia": false,
+        "id": "{bc05896f-0e62-45c1-bf60-d98cdcada8ad}",
+        "lora": "",
+        "nom": "Àlex Carrasco",
+        "numero": "34622263570"
+    },
+    {
+        "emergencia": false,
+        "id": "{774881d5-dcec-491b-9a60-1c230dd5a89f}",
+        "lora": "",
+        "nom": "lolo",
+        "numero": "34644076399"
+    },
+    {
+        "emergencia": false,
+        "id": "{bb648366-f3a2-4cd8-b173-b7e7ee0fd410}",
+        "lora": "",
+        "nom": "Sara Márquez⚡️",
+        "numero": "34644023204"
+    },
+    {
+        "emergencia": false,
+        "id": "{befbee4a-d8ef-4f49-b5ff-9b017a11b6b8}",
+        "lora": "",
+        "nom": "Laia Alesanco",
+        "numero": "34628096564"
+    },
+    {
+        "emergencia": false,
+        "id": "{b590081e-cbce-40f6-8bfb-2f998cc78fed}",
+        "lora": "",
+        "nom": "Jaume",
+        "numero": "34617376639"
+    },
+    {
+        "emergencia": false,
+        "id": "{d59301a6-f4b4-4dc7-a6b9-00baa243b8d2}",
+        "lora": "",
+        "nom": "Daniel Pérez Girona🫵🏻",
+        "numero": "34644215778"
+    },
+    {
+        "emergencia": false,
+        "id": "{0bbc7285-71dd-4194-a7f6-02999dd355ee}",
+        "lora": "",
+        "nom": "Elna",
+        "numero": "34646742697"
+    },
+    {
+        "emergencia": false,
+        "id": "{1669cd13-661d-4d7c-9008-ab6aa71a215c}",
+        "lora": "",
+        "nom": "Natalia PB",
+        "numero": "34676788228"
+    },
+    {
+        "emergencia": false,
+        "id": "{4a59cf13-1e89-42e8-8a46-2958b979dad9}",
+        "lora": "",
+        "nom": "Franceac Gorina",
+        "numero": "34619790158"
+    },
+    {
+        "emergencia": false,
+        "id": "{7d20cf45-5c89-4742-ac3f-c4131d1bdedd}",
+        "lora": "",
+        "nom": "Marina Casal",
+        "numero": "34651082021"
+    },
+    {
+        "emergencia": false,
+        "id": "{8adf87c6-0342-46c8-984d-33542d9f0ba9}",
+        "lora": "",
+        "nom": "Kaka❤️",
+        "numero": "34643236205"
+    },
+    {
+        "emergencia": false,
+        "id": "{81c1ba7e-5b04-4dcb-80f9-f56792b2d940}",
+        "lora": "",
+        "nom": "Espejo",
+        "numero": "34619338526"
+    },
+    {
+        "emergencia": false,
+        "id": "{4e66f0d8-2229-4380-a67d-3f8cfe448913}",
+        "lora": "",
+        "nom": "Nour Boudad",
+        "numero": "34643666741"
+    },
+    {
+        "emergencia": false,
+        "id": "{0b9c2cf7-e8a9-4c69-88a5-70ada0dfe654}",
+        "lora": "",
+        "nom": "ADRI SÁNCHEZ.",
+        "numero": "34626196217"
+    },
+    {
+        "emergencia": false,
+        "id": "{d476901b-e336-459b-9255-a472391b8d5c}",
+        "lora": "",
+        "nom": "Gessy",
+        "numero": "34654390188"
+    },
+    {
+        "emergencia": false,
+        "id": "{b858b2e3-2b61-466f-a9fe-7b9cc53b17f5}",
+        "lora": "",
+        "nom": "Maria",
+        "numero": "34677777948"
+    },
+    {
+        "emergencia": false,
+        "id": "{c2de271a-1dc7-4398-bb37-e46150ceab4f}",
+        "lora": "",
+        "nom": "Jana",
+        "numero": "34649067032"
+    },
+    {
+        "emergencia": false,
+        "id": "{31db07ed-9849-4c0f-8c62-2cffaa8dc2d6}",
+        "lora": "",
+        "nom": "Gabriel FDEZ",
+        "numero": "34635831148"
+    },
+    {
+        "emergencia": false,
+        "id": "{bf3ee7d2-1ddf-43c5-b743-e9dcc5d0a130}",
+        "lora": "",
+        "nom": "Albert Alex",
+        "numero": "34669068726"
+    },
+    {
+        "emergencia": false,
+        "id": "{3b46216f-a522-482c-9fd6-fc03ea12e48b}",
+        "lora": "",
+        "nom": "bfitfigueres",
+        "numero": "34640153228"
+    },
+    {
+        "emergencia": false,
+        "id": "{0d3a3410-3df1-4e01-9b36-05eee3d7b0da}",
+        "lora": "",
+        "nom": "Daviid Uni",
+        "numero": "34640834689"
+    },
+    {
+        "emergencia": false,
+        "id": "{1e9caa16-1658-48d0-9a9e-a039a6d1c28e}",
+        "lora": "",
+        "nom": "Anna Ros Profe",
+        "numero": "34638245010"
+    },
+    {
+        "emergencia": false,
+        "id": "{8be3f9fe-bded-495c-8d48-15ce2adae356}",
+        "lora": "",
+        "nom": "Marina PB",
+        "numero": "34644351587"
+    },
+    {
+        "emergencia": false,
+        "id": "{e179e704-7fb9-4088-9c27-0d93f6c300fe}",
+        "lora": "",
+        "nom": "Borja",
+        "numero": "34628775234"
+    },
+    {
+        "emergencia": false,
+        "id": "{8edea31e-aaf0-43ea-a817-ed9c68239924}",
+        "lora": "",
+        "nom": "Pau Giró",
+        "numero": "34684338745"
+    },
+    {
+        "emergencia": false,
+        "id": "{56ccd4bf-394a-4f23-bb94-5bc4cefef740}",
+        "lora": "",
+        "nom": "Adrià Lloveras",
+        "numero": "34639786128"
+    },
+    {
+        "emergencia": false,
+        "id": "{9f8890f6-ad13-42db-8eea-c94c3f363985}",
+        "lora": "",
+        "nom": "Joel Portbou",
+        "numero": "34644833594"
+    },
+    {
+        "emergencia": false,
+        "id": "{f8299120-3b49-4be5-a003-44d777716632}",
+        "lora": "",
+        "nom": "Jon",
+        "numero": "34627311586"
+    },
+    {
+        "emergencia": false,
+        "id": "{62e1acd7-bb21-49c4-911f-616d43a34091}",
+        "lora": "",
+        "nom": "Anna",
+        "numero": "34627044805"
+    },
+    {
+        "emergencia": false,
+        "id": "{46c3b769-c243-46d9-b7ee-36599299679e}",
+        "lora": "",
+        "nom": "pabloo",
+        "numero": "34652630049"
+    },
+    {
+        "emergencia": false,
+        "id": "{e0f79c49-e814-4bde-b107-2fdbd8c09442}",
+        "lora": "",
+        "nom": "JF 🐉",
+        "numero": "34722810222"
+    },
+    {
+        "emergencia": false,
+        "id": "{da90f1e6-48c5-42f3-a3d1-dc1a94fcd99e}",
+        "lora": "",
+        "nom": "Ruizquin",
+        "numero": "34646487808"
+    },
+    {
+        "emergencia": false,
+        "id": "{fe64a23d-d656-448b-9d25-3a2526604902}",
+        "lora": "",
+        "nom": "Anèlia",
+        "numero": "34664892018"
+    },
+    {
+        "emergencia": false,
+        "id": "{f0919de6-6d37-4bd0-a2a0-3ad0b279be04}",
+        "lora": "",
+        "nom": "Gus",
+        "numero": "34664886338"
+    },
+    {
+        "emergencia": false,
+        "id": "{973b1fce-d805-4b7c-afa6-5c081f3948ba}",
+        "lora": "",
+        "nom": "Nadia",
+        "numero": "34647887520"
+    },
+    {
+        "emergencia": false,
+        "id": "{86ada671-1ae3-4dcf-a63b-8d2f6a01bde8}",
+        "lora": "",
+        "nom": "Andy Clase",
+        "numero": "34615673296"
+    },
+    {
+        "emergencia": false,
+        "id": "{9e55d3ce-3440-4b16-a41b-46ef9ebc282e}",
+        "lora": "",
+        "nom": "Pau Genís",
+        "numero": "34662241357"
+    },
+    {
+        "emergencia": false,
+        "id": "{4f06459c-224d-42db-9b36-f8fd4d29bca7}",
+        "lora": "",
+        "nom": "Abdel",
+        "numero": "34640559299"
+    },
+    {
+        "emergencia": false,
+        "id": "{526a5fa9-c2b0-4765-b059-017a95c3de24}",
+        "lora": "",
+        "nom": "David Carbonell",
+        "numero": "34601162850"
+    },
+    {
+        "emergencia": false,
+        "id": "{23a16cef-27ab-49f2-be31-7cbd578632f5}",
+        "lora": "",
+        "nom": "Mireia Urios",
+        "numero": "34610290994"
+    },
+    {
+        "emergencia": false,
+        "id": "{6559b941-3912-4129-a044-e5369b1eb385}",
+        "lora": "",
+        "nom": "Akram",
+        "numero": "34689082702"
+    },
+    {
+        "emergencia": false,
+        "id": "{3de69d32-e289-44b0-a420-45b5115019f5}",
+        "lora": "",
+        "nom": "I",
+        "numero": "34693908189"
+    },
+    {
+        "emergencia": false,
+        "id": "{db306f75-2a3a-40cc-a750-4ac3a7fbdbfb}",
+        "lora": "",
+        "nom": "El Gilipollas",
+        "numero": "34667881663"
+    },
+    {
+        "emergencia": false,
+        "id": "{d1560bfa-ac76-436f-9623-3a10a93d6b49}",
+        "lora": "",
+        "nom": "Jordi",
+        "numero": "34699417806"
+    },
+    {
+        "emergencia": false,
+        "id": "{87175339-07e4-4c17-8001-8d674f208573}",
+        "lora": "",
+        "nom": "Albert",
+        "numero": "34662194949"
+    },
+    {
+        "emergencia": false,
+        "id": "{3c431d1c-398c-4f8c-b33d-a6c8eb436e0f}",
+        "lora": "",
+        "nom": "Sergi Pili",
+        "numero": "34682646786"
+    },
+    {
+        "emergencia": false,
+        "id": "{15775110-0858-4d79-a156-612082750e07}",
+        "lora": "",
+        "nom": "Jaime :)",
+        "numero": "34601126414"
+    },
+    {
+        "emergencia": false,
+        "id": "{db1979f5-9a40-48a3-9e5b-13864c0056ea}",
+        "lora": "",
+        "nom": "Eloy 4t",
+        "numero": "34606202091"
+    },
+    {
+        "emergencia": false,
+        "id": "{d357f165-1696-4947-ae41-b6a07bddbafa}",
+        "lora": "",
+        "nom": "Claudia Portus",
+        "numero": "34671525803"
+    },
+    {
+        "emergencia": false,
+        "id": "{fcec5cc5-d70d-4a59-982b-82eaf50f1159}",
+        "lora": "",
+        "nom": "Mituuus❤️",
+        "numero": "34632538587"
+    },
+    {
+        "emergencia": false,
+        "id": "{5f491c5a-37ad-451f-9b22-dde09479dc86}",
+        "lora": "",
+        "nom": "Blanca",
+        "numero": "34635064055"
+    },
+    {
+        "emergencia": false,
+        "id": "{ef5c9bf9-b473-4364-90e0-da5f5e2a5044}",
+        "lora": "",
+        "nom": "Pavelló Riudellots",
+        "numero": "34621227944"
+    },
+    {
+        "emergencia": false,
+        "id": "{20033285-cf7f-40e6-9a63-dceddb9493c8}",
+        "lora": "",
+        "nom": "ROSA🩷",
+        "numero": "34605220079"
+    },
+    {
+        "emergencia": false,
+        "id": "{6a5add46-87a6-4d01-b2c3-e522d6d722f2}",
+        "lora": "",
+        "nom": "Anouar",
+        "numero": "34631145257"
+    },
+    {
+        "emergencia": false,
+        "id": "{b8042e2e-90d2-4533-941c-2b57aa583d3f}",
+        "lora": "",
+        "nom": "helen!🕺🏼",
+        "numero": "34631536058"
+    },
+    {
+        "emergencia": false,
+        "id": "{c34a81d3-a776-4ac0-8bb6-6dec3f992fa2}",
+        "lora": "",
+        "nom": "Harjot",
+        "numero": "34612505236"
+    },
+    {
+        "emergencia": false,
+        "id": "{24faa85e-0647-471e-a1f5-0c968e5f9a9e}",
+        "lora": "",
+        "nom": "Berta Arquitecta",
+        "numero": "34681196900"
+    },
+    {
+        "emergencia": false,
+        "id": "{cd1c6b3e-09f3-4b69-845f-a796d4fc6bc7}",
+        "lora": "",
+        "nom": "Irene Corpas",
+        "numero": "34674673341"
+    },
+    {
+        "emergencia": false,
+        "id": "{087ebde7-2071-4cd2-b5d7-92dd5bda0d40}",
+        "lora": "",
+        "nom": "varonaa",
+        "numero": "34648849328"
+    },
+    {
+        "emergencia": false,
+        "id": "{5868d5e1-d692-46c6-a3f1-654acc450a87}",
+        "lora": "",
+        "nom": "Marta Martí 🍃",
+        "numero": "34722272823"
+    },
+    {
+        "emergencia": false,
+        "id": "{9a1367b2-ec91-47e7-a583-338268e9f0b4}",
+        "lora": "",
+        "nom": "Emma Salamí",
+        "numero": "34649093536"
+    },
+    {
+        "emergencia": false,
+        "id": "{dd407a08-e199-4a7d-a820-51ce53030d41}",
+        "lora": "",
+        "nom": "Walid 😶‍🌫️🧠",
+        "numero": "34623340120"
+    },
+    {
+        "emergencia": false,
+        "id": "{ea132f15-a129-43d9-8c5a-d39ff7afc952}",
+        "lora": "",
+        "nom": "Albert Amic Pol",
+        "numero": "34663903559"
+    },
+    {
+        "emergencia": false,
+        "id": "{e529a23a-26fe-4b1a-9f42-51756f924cb7}",
+        "lora": "",
+        "nom": "Núria",
+        "numero": "34676681804"
+    },
+    {
+        "emergencia": false,
+        "id": "{469d7c3b-1777-4945-ace1-ddbf8d9b092e}",
+        "lora": "",
+        "nom": "Hector",
+        "numero": "34662469022"
+    },
+    {
+        "emergencia": false,
+        "id": "{04ded718-200b-4ea4-9e35-bc2c5412afb7}",
+        "lora": "",
+        "nom": "Cris",
+        "numero": "34690959399"
+    },
+    {
+        "emergencia": false,
+        "id": "{3e762395-5193-422a-9538-d211447b9ed7}",
+        "lora": "",
+        "nom": "Abril Arquitecta",
+        "numero": "34638244373"
+    },
+    {
+        "emergencia": false,
+        "id": "{a61fa399-5e97-462e-931e-053688c245b5}",
+        "lora": "",
+        "nom": "Jordi Roura",
+        "numero": "34617389649"
+    },
+    {
+        "emergencia": false,
+        "id": "{3d7b2047-9839-4342-941c-4c829599bc9a}",
+        "lora": "",
+        "nom": "Herrera",
+        "numero": "34606076631"
+    },
+    {
+        "emergencia": false,
+        "id": "{aa28338c-e1f4-454b-bb30-0f866704a4fc}",
+        "lora": "",
+        "nom": "Bleda",
+        "numero": "34633979645"
+    },
+    {
+        "emergencia": false,
+        "id": "{57ec4ec8-0343-466b-9fbf-25348286494d}",
+        "lora": "",
+        "nom": "Baeza",
+        "numero": "34633395911"
+    },
+    {
+        "emergencia": false,
+        "id": "{55ed94ee-2902-419f-ad2c-f7484637260b}",
+        "lora": "",
+        "nom": "Pedro",
+        "numero": "34672112582"
+    },
+    {
+        "emergencia": false,
+        "id": "{08d0953e-7853-4e80-9b40-352f2b4e600b}",
+        "lora": "",
+        "nom": "angello",
+        "numero": "34668509001"
+    },
+    {
+        "emergencia": false,
+        "id": "{c5c4a501-c70c-4407-9705-d2dde703ff58}",
+        "lora": "",
+        "nom": "Faliha",
+        "numero": "923471824512"
+    },
+    {
+        "emergencia": false,
+        "id": "{e6496750-683f-476d-a771-feb2d69ec039}",
+        "lora": "",
+        "nom": "Adria Vilagran",
+        "numero": "34616417475"
+    },
+    {
+        "emergencia": false,
+        "id": "{a2b97bc4-b4a8-4a13-924d-240b79d50173}",
+        "lora": "",
+        "nom": "Lopezz",
+        "numero": "34744664998"
+    },
+    {
+        "emergencia": false,
+        "id": "{e409f5ab-84b2-4ca9-8d1e-8dea18a82345}",
+        "lora": "",
+        "nom": "Mitu",
+        "numero": "34655280695"
+    },
+    {
+        "emergencia": false,
+        "id": "{3a0909c6-100e-4c43-98d3-fa74eac46846}",
+        "lora": "",
+        "nom": "Milanuncios",
+        "numero": "34643056267"
+    },
+    {
+        "emergencia": false,
+        "id": "{db648a29-c846-4241-b615-555dd6d55ba1}",
+        "lora": "",
+        "nom": "Pivon, Number One, Mastodonte, Titan",
+        "numero": "34622191205"
+    },
+    {
+        "emergencia": false,
+        "id": "{6c65c7e1-82d0-4de8-95be-4a902f851a0d}",
+        "lora": "",
+        "nom": "Marc",
+        "numero": "34636786030"
+    },
+    {
+        "emergencia": false,
+        "id": "{78cb6ad5-7239-47a2-8d70-6448f4ce1548}",
+        "lora": "",
+        "nom": "Arnau",
+        "numero": "34623105865"
+    },
+    {
+        "emergencia": false,
+        "id": "{a0b27bce-a7b7-4ab2-810e-5a2b9db993ce}",
+        "lora": "",
+        "nom": "parralo",
+        "numero": "34661275175"
+    },
+    {
+        "emergencia": false,
+        "id": "{e5cefb82-8bb9-4dc7-b850-ed596f9d030c}",
+        "lora": "",
+        "nom": "Fontiii💚",
+        "numero": "34640208243"
+    },
+    {
+        "emergencia": false,
+        "id": "{7f6f7142-8fc4-4cdb-bec1-32612b6c5889}",
+        "lora": "",
+        "nom": "Nyly",
+        "numero": "34618119572"
+    },
+    {
+        "emergencia": false,
+        "id": "{934432be-7979-4453-b30c-185a77a84385}",
+        "lora": "",
+        "nom": "Damia",
+        "numero": "34635233993"
+    },
+    {
+        "emergencia": false,
+        "id": "{87f05f68-db62-4805-8690-8b96b7b42bf6}",
+        "lora": "",
+        "nom": "Robert Mundet",
+        "numero": "34600849432"
+    },
+    {
+        "emergencia": false,
+        "id": "{bb19f698-efb1-43e2-ba1c-8d9b288c55f7}",
+        "lora": "",
+        "nom": "Laura Amiga Nerea",
+        "numero": "34606588402"
+    },
+    {
+        "emergencia": false,
+        "id": "{b499bfd1-1317-43b0-b481-852e5e854118}",
+        "lora": "",
+        "nom": "Ale",
+        "numero": "34651102417"
+    },
+    {
+        "emergencia": false,
+        "id": "{e8e50e50-b707-4787-bf8d-da4f4d926187}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34602098872"
+    },
+    {
+        "emergencia": false,
+        "id": "{fd04be55-b2b3-4831-b8c9-218b71d3569f}",
+        "lora": "",
+        "nom": "Claudiaa",
+        "numero": "34669155614"
+    },
+    {
+        "emergencia": false,
+        "id": "{8ac0695f-8f0d-4ecb-b386-8f93400df5d2}",
+        "lora": "",
+        "nom": "Guillem",
+        "numero": "34686056140"
+    },
+    {
+        "emergencia": false,
+        "id": "{eac55bbe-b81c-49d4-8952-a8c0968154d4}",
+        "lora": "",
+        "nom": "Tsetsi",
+        "numero": "34647595144"
+    },
+    {
+        "emergencia": false,
+        "id": "{2add1e6a-d087-4ae5-a0b7-be15d68d1f72}",
+        "lora": "",
+        "nom": "Asier Goenaga",
+        "numero": "34611675585"
+    },
+    {
+        "emergencia": false,
+        "id": "{1a4cd50a-3181-40ec-b129-9ac784211853}",
+        "lora": "",
+        "nom": "Ayman",
+        "numero": "34698547192"
+    },
+    {
+        "emergencia": false,
+        "id": "{53e75028-22fa-467e-a20c-8138ef2647aa}",
+        "lora": "",
+        "nom": "Josep Transportista",
+        "numero": "34620350848"
+    },
+    {
+        "emergencia": false,
+        "id": "{e466a8e6-9e82-42e6-8ed3-306a73e775f0}",
+        "lora": "",
+        "nom": "Cristina",
+        "numero": "34692036195"
+    },
+    {
+        "emergencia": false,
+        "id": "{d5568b5e-bcf3-4cdc-a98b-11c2439f8ed3}",
+        "lora": "",
+        "nom": "Monte",
+        "numero": "34657708189"
+    },
+    {
+        "emergencia": false,
+        "id": "{318d85a3-e991-400a-9da7-c2631dbc9dc6}",
+        "lora": "",
+        "nom": "Cristian",
+        "numero": "34603443271"
+    },
+    {
+        "emergencia": false,
+        "id": "{4389f809-2ab3-48b3-891f-f55d2c578ebb}",
+        "lora": "",
+        "nom": "Óscar",
+        "numero": "34646377788"
+    },
+    {
+        "emergencia": false,
+        "id": "{cec86cf8-e63e-499f-bf45-ed2d7cdbfc84}",
+        "lora": "",
+        "nom": "EGurau",
+        "numero": "34678628910"
+    },
+    {
+        "emergencia": false,
+        "id": "{a64f84bb-c0f0-4e34-9195-81491f82d1fb}",
+        "lora": "",
+        "nom": "Daniel",
+        "numero": "34672732822"
+    },
+    {
+        "emergencia": false,
+        "id": "{0206a75c-c939-442c-afa9-d1651b270578}",
+        "lora": "",
+        "nom": "David",
+        "numero": "34682482755"
+    },
+    {
+        "emergencia": false,
+        "id": "{dee02a47-e737-4097-ab22-49898f58739f}",
+        "lora": "",
+        "nom": "Aina Urizal🌻",
+        "numero": "34687729953"
+    },
+    {
+        "emergencia": false,
+        "id": "{c5ddff6f-0805-47c5-b6b6-1f4dc9bd52b8}",
+        "lora": "",
+        "nom": "📯⚽️",
+        "numero": "34643211005"
+    },
+    {
+        "emergencia": false,
+        "id": "{7a324fc4-1c7f-472d-a2cb-7f01433cb87b}",
+        "lora": "",
+        "nom": "Gabi",
+        "numero": "34625302120"
+    },
+    {
+        "emergencia": false,
+        "id": "{6e6d14dd-8bfb-4a11-b5e6-d3901cb649fc}",
+        "lora": "",
+        "nom": "Toni Díaz López",
+        "numero": "34607689470"
+    },
+    {
+        "emergencia": false,
+        "id": "{4f2bc8aa-8260-4325-b919-b9871746aaee}",
+        "lora": "",
+        "nom": "David Giró",
+        "numero": "34600051661"
+    },
+    {
+        "emergencia": false,
+        "id": "{1437942e-725b-441e-a3a2-4d9b02abdc92}",
+        "lora": "",
+        "nom": "younes ~",
+        "numero": "34631653828"
+    },
+    {
+        "emergencia": false,
+        "id": "{bc0e085c-6136-4810-8618-27ffa447fcd3}",
+        "lora": "",
+        "nom": "Óscar",
+        "numero": "34634621144"
+    },
+    {
+        "emergencia": false,
+        "id": "{e04daa7e-331e-4bd5-bb8c-3ecd036ab9be}",
+        "lora": "",
+        "nom": "Marta Lladó",
+        "numero": "34609049437"
+    },
+    {
+        "emergencia": false,
+        "id": "{16110182-f67b-4e3a-b932-fe68988faa05}",
+        "lora": "",
+        "nom": "Hector",
+        "numero": "34687638920"
+    },
+    {
+        "emergencia": false,
+        "id": "{461fb9cd-1d32-4c52-a9df-c1ef514acedc}",
+        "lora": "",
+        "nom": "rafamunozfdz",
+        "numero": "34678126741"
+    },
+    {
+        "emergencia": false,
+        "id": "{de211c57-8bbd-43d4-98b7-9c39f6d60e3c}",
+        "lora": "",
+        "nom": "mario",
+        "numero": "34654687175"
+    },
+    {
+        "emergencia": false,
+        "id": "{1f3b77bf-9662-46d5-a9f8-e8b4bc712b1f}",
+        "lora": "",
+        "nom": "Jordi Escarrà",
+        "numero": "34615447444"
+    },
+    {
+        "emergencia": false,
+        "id": "{ba57e818-3eee-46a1-88ac-1b7c160627ed}",
+        "lora": "",
+        "nom": "Roger Amic Pol",
+        "numero": "34652294994"
+    },
+    {
+        "emergencia": false,
+        "id": "{86c14c50-7e64-412e-883a-417ef31e875f}",
+        "lora": "",
+        "nom": "ferran",
+        "numero": "34637415185"
+    },
+    {
+        "emergencia": false,
+        "id": "{47dd57b3-516d-4c6d-b0a3-2c1058dc3470}",
+        "lora": "",
+        "nom": "Cloe castilla",
+        "numero": "34684190384"
+    },
+    {
+        "emergencia": false,
+        "id": "{b2ea3814-2739-43da-8a54-e002289c7b9f}",
+        "lora": "",
+        "nom": "Marc Espuña",
+        "numero": "34689184361"
+    },
+    {
+        "emergencia": false,
+        "id": "{3ce02c9f-4cd4-4746-812c-6e5c8fdad168}",
+        "lora": "",
+        "nom": "Stefano",
+        "numero": "34626334927"
+    },
+    {
+        "emergencia": false,
+        "id": "{ff6c587b-22de-43c0-ae91-0a9f6a20ec2a}",
+        "lora": "",
+        "nom": "Ocheee",
+        "numero": "34608774900"
+    },
+    {
+        "emergencia": false,
+        "id": "{dc46a62a-1af6-4c65-9fcb-c336ed455fb8}",
+        "lora": "",
+        "nom": "Merii Soto",
+        "numero": "34647465844"
+    },
+    {
+        "emergencia": false,
+        "id": "{2c6c3044-e68f-49cc-814d-8512f947ce77}",
+        "lora": "",
+        "nom": "Samuel",
+        "numero": "34655731456"
+    },
+    {
+        "emergencia": false,
+        "id": "{c8a052d2-72ae-408c-aa6b-33d9e7248e2f}",
+        "lora": "",
+        "nom": "Mir",
+        "numero": "34652280222"
+    },
+    {
+        "emergencia": false,
+        "id": "{16c0d63c-1bad-41c9-b13f-3590ee15fd06}",
+        "lora": "",
+        "nom": "ivonneeee",
+        "numero": "34634545690"
+    },
+    {
+        "emergencia": false,
+        "id": "{fd1389f3-dc76-4bce-b73c-233c9ab1d7da}",
+        "lora": "",
+        "nom": "Padi",
+        "numero": "34639433301"
+    },
+    {
+        "emergencia": false,
+        "id": "{827aef07-947c-4bc3-a27a-6961e0a302fc}",
+        "lora": "",
+        "nom": "LR",
+        "numero": "34658677201"
+    },
+    {
+        "emergencia": false,
+        "id": "{aa352a92-efc2-4adb-9d97-22a9fd71a676}",
+        "lora": "",
+        "nom": "Ricard",
+        "numero": "34663626564"
+    },
+    {
+        "emergencia": false,
+        "id": "{1dfaba88-6b2b-4da4-965a-84db96971889}",
+        "lora": "",
+        "nom": "Roger de Tuero",
+        "numero": "34638916864"
+    },
+    {
+        "emergencia": false,
+        "id": "{63f28190-f3aa-4f96-85d5-1911b1d40b01}",
+        "lora": "",
+        "nom": "🥱",
+        "numero": "34628601658"
+    },
+    {
+        "emergencia": false,
+        "id": "{907136c5-6f41-4759-aa3e-49d2aa0883b0}",
+        "lora": "",
+        "nom": "iPhone Girona",
+        "numero": "34657103227"
+    },
+    {
+        "emergencia": false,
+        "id": "{c92a347e-f618-4c5c-937c-3957535dc6ac}",
+        "lora": "",
+        "nom": "J. Smit-van Deventer",
+        "numero": "31640798281"
+    },
+    {
+        "emergencia": false,
+        "id": "{15d101d1-df51-4f9d-b98a-b41085c75156}",
+        "lora": "",
+        "nom": "Joaquim",
+        "numero": "34669346498"
+    },
+    {
+        "emergencia": false,
+        "id": "{0882da88-50a4-4d91-b9ac-342c144845f0}",
+        "lora": "",
+        "nom": "Tiet Jordi",
+        "numero": "34625439022"
+    },
+    {
+        "emergencia": false,
+        "id": "{4e2c77e8-76cf-433d-9cab-09a28218018b}",
+        "lora": "",
+        "nom": "Jaume",
+        "numero": "34646881063"
+    },
+    {
+        "emergencia": false,
+        "id": "{de890b6a-2562-46da-9cd1-a90d468afb41}",
+        "lora": "",
+        "nom": "Elvira",
+        "numero": "34665978343"
+    },
+    {
+        "emergencia": false,
+        "id": "{a4fa7e49-cb03-4271-9da8-e7be3be1f747}",
+        "lora": "",
+        "nom": "ㅤ",
+        "numero": "34643195849"
+    },
+    {
+        "emergencia": false,
+        "id": "{e08e0dfb-409e-48e5-b746-9e459d748ab5}",
+        "lora": "",
+        "nom": "Xavi",
+        "numero": "34605593359"
+    },
+    {
+        "emergencia": false,
+        "id": "{901db58a-d2ee-4f92-ad6f-b15bef1c25a1}",
+        "lora": "",
+        "nom": "Raamonsiu",
+        "numero": "34605765117"
+    },
+    {
+        "emergencia": false,
+        "id": "{fd2380fe-3f0e-492a-8877-f18b9082e9ee}",
+        "lora": "",
+        "nom": "crespo🫗",
+        "numero": "34648273843"
+    },
+    {
+        "emergencia": false,
+        "id": "{b5cc2fd7-0b5e-4f4c-be08-2c2a2fa9ffa9}",
+        "lora": "",
+        "nom": "Eli",
+        "numero": "34618091296"
+    },
+    {
+        "emergencia": false,
+        "id": "{e44e0e4f-f445-422d-858a-6f9249b9ec12}",
+        "lora": "",
+        "nom": "Jonny Kevin",
+        "numero": "34639249045"
+    },
+    {
+        "emergencia": false,
+        "id": "{9402178f-8cca-436d-812b-e33f9a265d7e}",
+        "lora": "",
+        "nom": "Mario",
+        "numero": "34658409306"
+    },
+    {
+        "emergencia": false,
+        "id": "{6edee6ff-276d-4a2b-941f-ca98a6075d53}",
+        "lora": "",
+        "nom": "Cristian🤍⚽",
+        "numero": "34643329343"
+    },
+    {
+        "emergencia": false,
+        "id": "{92c5afd4-815c-4b48-b2e6-e725471f3e06}",
+        "lora": "",
+        "nom": "Laiaa Cuñi",
+        "numero": "34638437688"
+    },
+    {
+        "emergencia": false,
+        "id": "{349ade77-f072-4bee-a795-3c45adbf42e1}",
+        "lora": "",
+        "nom": "David",
+        "numero": "34722823391"
+    },
+    {
+        "emergencia": false,
+        "id": "{9293b6a6-9a0a-4ed0-a1d9-e54d576eb9d8}",
+        "lora": "",
+        "nom": "Gemma Dog's life",
+        "numero": "34678560317"
+    },
+    {
+        "emergencia": false,
+        "id": "{58760d5a-699a-4aad-9908-14e9f7396ae7}",
+        "lora": "",
+        "nom": "Andrea",
+        "numero": "34628741321"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ed3c981-f5a7-47da-b498-a834c6f65caa}",
+        "lora": "",
+        "nom": "Alex Barranco Portbou",
+        "numero": "34628810512"
+    },
+    {
+        "emergencia": false,
+        "id": "{75075e64-6b74-4546-a56a-33ee354988fd}",
+        "lora": "",
+        "nom": "Nerea Portbou",
+        "numero": "34606014058"
+    },
+    {
+        "emergencia": false,
+        "id": "{1de5609c-90ea-493e-8c89-3bc0fb5f4bf9}",
+        "lora": "",
+        "nom": "Ivan G",
+        "numero": "34652318760"
+    },
+    {
+        "emergencia": false,
+        "id": "{23e70558-7416-461d-8c34-e91ddaed49ae}",
+        "lora": "",
+        "nom": "Jan",
+        "numero": "34686950807"
+    },
+    {
+        "emergencia": false,
+        "id": "{7dcd8c24-8cde-42f7-b9e0-4d490be8dad1}",
+        "lora": "",
+        "nom": "Cindy",
+        "numero": "34625066560"
+    },
+    {
+        "emergencia": false,
+        "id": "{f5fa3a2e-337e-43b0-8b5f-4899cd5e3b32}",
+        "lora": "",
+        "nom": "R",
+        "numero": "34696618583"
+    },
+    {
+        "emergencia": false,
+        "id": "{db514659-9a57-4468-ad0d-6ab22e470216}",
+        "lora": "",
+        "nom": "Miquel",
+        "numero": "34633254275"
+    },
+    {
+        "emergencia": false,
+        "id": "{44a682f9-e1f6-419d-99cf-a734c07d7c0e}",
+        "lora": "",
+        "nom": "Carla",
+        "numero": "34646569575"
+    },
+    {
+        "emergencia": false,
+        "id": "{a88f5d4e-71fa-45ce-8bc9-20d8ab991125}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34722325936"
+    },
+    {
+        "emergencia": false,
+        "id": "{84450438-96bf-44e1-8e6c-aeb2a93e693f}",
+        "lora": "",
+        "nom": "John",
+        "numero": "34622342553"
+    },
+    {
+        "emergencia": false,
+        "id": "{ee46d58a-443b-4cbd-8a30-42ed1739c874}",
+        "lora": "",
+        "nom": "crtransport",
+        "numero": "50662022226"
+    },
+    {
+        "emergencia": false,
+        "id": "{2424243c-d3de-4650-9198-6eb0ffab3b37}",
+        "lora": "",
+        "nom": "Laia Bedós Bonaterra",
+        "numero": "34655318795"
+    },
+    {
+        "emergencia": false,
+        "id": "{0a7aa786-cc39-499e-bb71-a5bceed420e0}",
+        "lora": "",
+        "nom": "Maria Insti",
+        "numero": "34615947166"
+    },
+    {
+        "emergencia": false,
+        "id": "{b06ca2e9-15b7-41f8-a90b-f1548a22c1be}",
+        "lora": "",
+        "nom": "Erik",
+        "numero": "34634747849"
+    },
+    {
+        "emergencia": false,
+        "id": "{169791d1-4564-4cbc-a8b6-3d6a8f1e88bb}",
+        "lora": "",
+        "nom": "Albert RP",
+        "numero": "34611738278"
+    },
+    {
+        "emergencia": false,
+        "id": "{56b75ce7-eef0-4156-8f99-0e7ca11e7665}",
+        "lora": "",
+        "nom": "Broma",
+        "numero": "34605627459"
+    },
+    {
+        "emergencia": false,
+        "id": "{81f7c3d7-551d-4ff8-b06f-fc7a6e7d6465}",
+        "lora": "",
+        "nom": "Guillem Pallarès",
+        "numero": "34609285591"
+    },
+    {
+        "emergencia": false,
+        "id": "{ce67d9c6-de32-4414-a9af-06e73d2d1439}",
+        "lora": "",
+        "nom": "CasaDeSeguidores",
+        "numero": "447404736833"
+    },
+    {
+        "emergencia": false,
+        "id": "{ae3e5019-b744-4aaf-a454-7326eebc39f8}",
+        "lora": "",
+        "nom": "Iker",
+        "numero": "34603288775"
+    },
+    {
+        "emergencia": false,
+        "id": "{88ced227-4e51-4da7-8638-b96f2b6d18d1}",
+        "lora": "",
+        "nom": "Chourouk",
+        "numero": "34632378296"
+    },
+    {
+        "emergencia": false,
+        "id": "{bda45741-fc67-441d-ab25-6ed830100b3e}",
+        "lora": "",
+        "nom": "María García",
+        "numero": "34692194123"
+    },
+    {
+        "emergencia": false,
+        "id": "{9a10f924-315a-44c4-b72d-f14d3c874aa0}",
+        "lora": "",
+        "nom": "acinas",
+        "numero": "34618680793"
+    },
+    {
+        "emergencia": false,
+        "id": "{d3a36029-2c4b-45e1-98a1-b3e9ecea41cf}",
+        "lora": "",
+        "nom": "Marta Arnau RRHH _ Acebsa",
+        "numero": "34672621061"
+    },
+    {
+        "emergencia": false,
+        "id": "{40677c82-5495-4e0e-9f90-a092dc1c7102}",
+        "lora": "",
+        "nom": "Rafel Tiet",
+        "numero": "34640704014"
+    },
+    {
+        "emergencia": false,
+        "id": "{97b023eb-0d5f-4239-a149-b0b9a1c9c326}",
+        "lora": "",
+        "nom": "Safae",
+        "numero": "34602062423"
+    },
+    {
+        "emergencia": false,
+        "id": "{ee3edf33-b91d-403b-a3c0-55a7035349fa}",
+        "lora": "",
+        "nom": "Mireia Carbó",
+        "numero": "34612476766"
+    },
+    {
+        "emergencia": false,
+        "id": "{edb5396e-91ca-4718-a00c-6fc10509465e}",
+        "lora": "",
+        "nom": "judith",
+        "numero": "34649050056"
+    },
+    {
+        "emergencia": false,
+        "id": "{50332969-42b5-4fd0-9176-fd3f2bd0dc86}",
+        "lora": "",
+        "nom": "Aitor",
+        "numero": "34640941845"
+    },
+    {
+        "emergencia": false,
+        "id": "{97a4d62e-2837-41e2-ae5f-eacf03c58fd9}",
+        "lora": "",
+        "nom": "Joel R",
+        "numero": "34681342389"
+    },
+    {
+        "emergencia": false,
+        "id": "{d7a76b43-9b96-4e16-929a-406982581663}",
+        "lora": "",
+        "nom": "Jan Gamero",
+        "numero": "34655728308"
+    },
+    {
+        "emergencia": false,
+        "id": "{0633d914-5f90-4151-85fe-53afc3ccaa4a}",
+        "lora": "",
+        "nom": "𝕵𝖔𝖘𝖊𝕸𝖆𝖓𝖚𝖊𝖑✞",
+        "numero": "34689627636"
+    },
+    {
+        "emergencia": false,
+        "id": "{9ca4bb1d-fd16-4cae-a8c3-96ce9c08571a}",
+        "lora": "",
+        "nom": "Jordi Premià",
+        "numero": "34640935149"
+    },
+    {
+        "emergencia": false,
+        "id": "{410b447d-030c-40e2-95e5-4f18721955bf}",
+        "lora": "",
+        "nom": "Susana😹☺🐣🌙",
+        "numero": "34693565775"
+    },
+    {
+        "emergencia": false,
+        "id": "{4697af30-b98a-4821-b294-0fe2f7e755d0}",
+        "lora": "",
+        "nom": "Ada Rigall",
+        "numero": "34699536058"
+    },
+    {
+        "emergencia": false,
+        "id": "{ca517bd6-31d8-41eb-b97d-5c8333174366}",
+        "lora": "",
+        "nom": "Raimon",
+        "numero": "34670031914"
+    },
+    {
+        "emergencia": false,
+        "id": "{e73404ad-64c6-44b6-a6bc-fab766cb1e18}",
+        "lora": "",
+        "nom": "Pablo🐯",
+        "numero": "34678812706"
+    },
+    {
+        "emergencia": false,
+        "id": "{47f5070e-f90a-40d1-8530-63de1799f2bd}",
+        "lora": "",
+        "nom": "Berta",
+        "numero": "34611438308"
+    },
+    {
+        "emergencia": false,
+        "id": "{8ca96b02-f5b5-4146-88b9-73f77fc29946}",
+        "lora": "",
+        "nom": "Alba Ns",
+        "numero": "34664567430"
+    },
+    {
+        "emergencia": false,
+        "id": "{66b20d21-68e8-472d-8840-5d69916be336}",
+        "lora": "",
+        "nom": "Mariam",
+        "numero": "34650683545"
+    },
+    {
+        "emergencia": false,
+        "id": "{4e0a073e-7c5d-4897-945d-0b6bf43ff04f}",
+        "lora": "",
+        "nom": "Jordi",
+        "numero": "34690651806"
+    },
+    {
+        "emergencia": false,
+        "id": "{57b252e7-68fe-42d0-a699-0ef8934e0b85}",
+        "lora": "",
+        "nom": "El Segundo Que Mas Manda",
+        "numero": "34618164790"
+    },
+    {
+        "emergencia": false,
+        "id": "{ea759455-9804-4acb-b085-d3a81f20b874}",
+        "lora": "",
+        "nom": "ferran",
+        "numero": "34632728658"
+    },
+    {
+        "emergencia": false,
+        "id": "{26b66501-ecc2-4a13-9ae2-3f2086c0b36b}",
+        "lora": "",
+        "nom": "karla",
+        "numero": "34696887031"
+    },
+    {
+        "emergencia": false,
+        "id": "{89058c5c-43f8-4602-b792-582e56fe990b}",
+        "lora": "",
+        "nom": "Nilson",
+        "numero": "34640300811"
+    },
+    {
+        "emergencia": false,
+        "id": "{ccf14c1b-a0bc-4000-93a4-8b897433b700}",
+        "lora": "",
+        "nom": "Anna Spigol",
+        "numero": "34689769064"
+    },
+    {
+        "emergencia": false,
+        "id": "{af1bbf16-7619-4257-885c-24d1be39521f}",
+        "lora": "",
+        "nom": "Arnau Feo",
+        "numero": "34684257859"
+    },
+    {
+        "emergencia": false,
+        "id": "{54902276-ce62-474f-97b4-a190ea2f9bb7}",
+        "lora": "",
+        "nom": "Jordi Y Nuri",
+        "numero": "34609812743"
+    },
+    {
+        "emergencia": false,
+        "id": "{19d3513f-d982-47df-bf5f-470f4763abf2}",
+        "lora": "",
+        "nom": "Marta Peña",
+        "numero": "34631339896"
+    },
+    {
+        "emergencia": false,
+        "id": "{f8ffa14a-3ddf-4678-aecd-48c05c36c519}",
+        "lora": "",
+        "nom": "Aina Rodríguez 🪷🤍",
+        "numero": "34622520152"
+    },
+    {
+        "emergencia": false,
+        "id": "{2266bb28-d277-41b9-aa5e-9ad45a18d16d}",
+        "lora": "",
+        "nom": "Jose Manuel",
+        "numero": "34628678539"
+    },
+    {
+        "emergencia": false,
+        "id": "{9ab80c74-84b9-4daa-856d-9aa819a6d99c}",
+        "lora": "",
+        "nom": "Gelchhen",
+        "numero": "34621243154"
+    },
+    {
+        "emergencia": false,
+        "id": "{278ebcea-f619-4b8f-8cdd-e8970ee4ff86}",
+        "lora": "",
+        "nom": "Pol Uni Física",
+        "numero": "34625946566"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c3b75ce-6e4a-4ca8-8764-07b99273ca2f}",
+        "lora": "",
+        "nom": "Alejandro Morán",
+        "numero": "34634478076"
+    },
+    {
+        "emergencia": false,
+        "id": "{b5f56d51-ef56-433c-947f-80e4201afb29}",
+        "lora": "",
+        "nom": "Soso Tv",
+        "numero": "212603789706"
+    },
+    {
+        "emergencia": false,
+        "id": "{28ef8fec-6bb9-481c-ad88-f3324dbb92f7}",
+        "lora": "",
+        "nom": "J",
+        "numero": "34678218034"
+    },
+    {
+        "emergencia": false,
+        "id": "{3ae8b3b4-b104-4915-b4c0-87213875159c}",
+        "lora": "",
+        "nom": "ACEBSA-Marc",
+        "numero": "34607508540"
+    },
+    {
+        "emergencia": false,
+        "id": "{87f4cae4-dd89-4686-bf73-97db95f3b5f2}",
+        "lora": "",
+        "nom": "Laia Portbou",
+        "numero": "34698900802"
+    },
+    {
+        "emergencia": false,
+        "id": "{88cd77c2-3e65-41f5-8ec8-e890f13bfcbe}",
+        "lora": "",
+        "nom": "Arroyo",
+        "numero": "34640099847"
+    },
+    {
+        "emergencia": false,
+        "id": "{3f668c4e-e40c-4732-b237-d8b31c86fd4d}",
+        "lora": "",
+        "nom": "Eros",
+        "numero": "34675533916"
+    },
+    {
+        "emergencia": false,
+        "id": "{6e78a493-b3ae-46be-a0ee-6aecdb8c26be}",
+        "lora": "",
+        "nom": "Irene Márquez",
+        "numero": "34671588641"
+    },
+    {
+        "emergencia": false,
+        "id": "{beb33a06-cdfe-4ae0-a267-87e18efb622e}",
+        "lora": "",
+        "nom": "Eduard Jordan",
+        "numero": "34663024796"
+    },
+    {
+        "emergencia": false,
+        "id": "{f77c3a55-245f-47fa-bf94-88c5670fecd5}",
+        "lora": "",
+        "nom": "Sergi Dalmau",
+        "numero": "34693721660"
+    },
+    {
+        "emergencia": false,
+        "id": "{cf431a6d-8979-4705-b676-4e7cb780c5da}",
+        "lora": "",
+        "nom": "Pilar",
+        "numero": "34676042660"
+    },
+    {
+        "emergencia": false,
+        "id": "{e4716364-2f68-4f5d-a12b-c2addaaf55dd}",
+        "lora": "",
+        "nom": "Georgina",
+        "numero": "34682020080"
+    },
+    {
+        "emergencia": false,
+        "id": "{1f4e58d2-e919-4f5a-8d21-1f21decffc12}",
+        "lora": "",
+        "nom": "Aaron",
+        "numero": "34658247317"
+    },
+    {
+        "emergencia": false,
+        "id": "{83239d72-1541-475f-9c83-bb2be1e40936}",
+        "lora": "",
+        "nom": "🔥KRIKI🔥",
+        "numero": "34722390808"
+    },
+    {
+        "emergencia": false,
+        "id": "{8d999ff8-b663-42dc-b593-36957cd5677d}",
+        "lora": "",
+        "nom": "Alejandro",
+        "numero": "34669753079"
+    },
+    {
+        "emergencia": false,
+        "id": "{78778619-4ac6-43b9-9451-0b6e16ed4624}",
+        "lora": "",
+        "nom": "Alejandro",
+        "numero": "34615856254"
+    },
+    {
+        "emergencia": false,
+        "id": "{554cfce5-afda-4ca4-abaf-e0553c981de0}",
+        "lora": "",
+        "nom": "Ángel🐆⚡",
+        "numero": "34640344027"
+    },
+    {
+        "emergencia": false,
+        "id": "{3692ec6c-6e09-418b-bd47-7aaebfbc7ee2}",
+        "lora": "",
+        "nom": "Carlaaa",
+        "numero": "34640848792"
+    },
+    {
+        "emergencia": false,
+        "id": "{f15bd2f3-dcb3-44cc-b99d-78bd7c899612}",
+        "lora": "",
+        "nom": "Zidruh",
+        "numero": "34681390291"
+    },
+    {
+        "emergencia": false,
+        "id": "{3d21ef36-2f32-4109-802d-3b5358db812f}",
+        "lora": "",
+        "nom": "Alba Valls",
+        "numero": "34633165952"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a7c8092-ed8c-45b1-9dea-39839483247d}",
+        "lora": "",
+        "nom": "Albert Cuadrado",
+        "numero": "34684241519"
+    },
+    {
+        "emergencia": false,
+        "id": "{f5e62bc4-f1b7-4a58-a477-b04729b4b18d}",
+        "lora": "",
+        "nom": "Miquel G",
+        "numero": "34650505864"
+    },
+    {
+        "emergencia": false,
+        "id": "{04bc12e9-1053-4488-9add-21d8a8a5ec25}",
+        "lora": "",
+        "nom": "Vidal",
+        "numero": "34691132894"
+    },
+    {
+        "emergencia": false,
+        "id": "{6514ff4c-c0f5-4efb-be33-9a15374234b2}",
+        "lora": "",
+        "nom": "eloiaro5",
+        "numero": "34692725474"
+    },
+    {
+        "emergencia": false,
+        "id": "{94f4033c-3ded-49f0-9bfd-e438541daa3c}",
+        "lora": "",
+        "nom": "Jordi SKKayak",
+        "numero": "34649680022"
+    },
+    {
+        "emergencia": false,
+        "id": "{fd4112cf-d603-457c-ba02-351f1acb6136}",
+        "lora": "",
+        "nom": "Chris",
+        "numero": "34632897291"
+    },
+    {
+        "emergencia": false,
+        "id": "{8ed390f8-e650-44f3-b6f6-de99e60c0328}",
+        "lora": "",
+        "nom": "Gilipollas Num 2",
+        "numero": "34643206495"
+    },
+    {
+        "emergencia": false,
+        "id": "{948bd69b-50ea-40bf-bfdd-419581c7b685}",
+        "lora": "",
+        "nom": "Èlia",
+        "numero": "34654162968"
+    },
+    {
+        "emergencia": false,
+        "id": "{34558379-c0c9-4332-b9a3-ba0eedb5701e}",
+        "lora": "",
+        "nom": "Marina",
+        "numero": "34691826780"
+    },
+    {
+        "emergencia": false,
+        "id": "{fff6787b-869e-4137-8c4a-2305f80075b0}",
+        "lora": "",
+        "nom": "ane",
+        "numero": "34648736593"
+    },
+    {
+        "emergencia": false,
+        "id": "{e500b503-5a0c-4fc8-9e90-675efcc64826}",
+        "lora": "",
+        "nom": "Daniela🫶🏼",
+        "numero": "34615521740"
+    },
+    {
+        "emergencia": false,
+        "id": "{f51e1d62-c68c-4440-acc3-5afc5b880ef7}",
+        "lora": "",
+        "nom": "Laura Darné Segura",
+        "numero": "34680750780"
+    },
+    {
+        "emergencia": false,
+        "id": "{78bb931e-ce6a-407a-b2ec-6215a8a44cc0}",
+        "lora": "",
+        "nom": "paauuhg",
+        "numero": "34695645080"
+    },
+    {
+        "emergencia": false,
+        "id": "{c7b5fe55-83df-4c7c-a880-acfacf4c0ab5}",
+        "lora": "",
+        "nom": "Julietts",
+        "numero": "34644244941"
+    },
+    {
+        "emergencia": false,
+        "id": "{c90e4634-0708-488d-85c2-71af14484b83}",
+        "lora": "",
+        "nom": "Rober",
+        "numero": "34608413300"
+    },
+    {
+        "emergencia": false,
+        "id": "{b8273241-ef85-4cd9-85b4-636e5f2a41ad}",
+        "lora": "",
+        "nom": "Naty",
+        "numero": "34642146353"
+    },
+    {
+        "emergencia": false,
+        "id": "{bc27716d-9e23-4506-9e9c-6b47e3108ccb}",
+        "lora": "",
+        "nom": "🥰",
+        "numero": "34619255224"
+    },
+    {
+        "emergencia": false,
+        "id": "{0d4a39ef-b98e-4f56-bc9d-dbd4dfad837c}",
+        "lora": "",
+        "nom": "Júlia Sagué",
+        "numero": "34611438328"
+    },
+    {
+        "emergencia": false,
+        "id": "{dc412157-f20c-444a-96f5-adc6d53963d1}",
+        "lora": "",
+        "nom": "Victor",
+        "numero": "34643467687"
+    },
+    {
+        "emergencia": false,
+        "id": "{8d37b997-c3b3-470b-9e55-9a7eb1cb1dd6}",
+        "lora": "",
+        "nom": "Tanit Iribarne",
+        "numero": "34675899066"
+    },
+    {
+        "emergencia": false,
+        "id": "{fec3817f-adb0-4632-9290-977501b26992}",
+        "lora": "",
+        "nom": "Henry Carrefour",
+        "numero": "34645850914"
+    },
+    {
+        "emergencia": false,
+        "id": "{d5567ddd-8705-4bc5-abab-f9b81d53dedd}",
+        "lora": "",
+        "nom": "Dídac💫",
+        "numero": "34618175971"
+    },
+    {
+        "emergencia": false,
+        "id": "{1d9822d9-f174-4623-bbfd-e90ede77f481}",
+        "lora": "",
+        "nom": "Fael Faray",
+        "numero": "559884092560"
+    },
+    {
+        "emergencia": false,
+        "id": "{ced08498-2cd3-42b0-bcea-d5efedfc4796}",
+        "lora": "",
+        "nom": "Pisos Estudiants",
+        "numero": "34675025911"
+    },
+    {
+        "emergencia": false,
+        "id": "{ec12a11c-309a-46ac-9c14-529d1af90c76}",
+        "lora": "",
+        "nom": "Oficina Syteco",
+        "numero": "34633590792"
+    },
+    {
+        "emergencia": false,
+        "id": "{6e1e07e1-cc10-4041-81d5-c784a533d765}",
+        "lora": "",
+        "nom": "Yo Antiguo Movil",
+        "numero": "34622131392"
+    },
+    {
+        "emergencia": false,
+        "id": "{68f26ac9-72ca-4930-94c4-3faa1a7ed07c}",
+        "lora": "",
+        "nom": "Noelia G.🐰",
+        "numero": "34637610846"
+    },
+    {
+        "emergencia": false,
+        "id": "{55569ff5-d0bd-4b2c-859a-7ec6c67bb3f0}",
+        "lora": "",
+        "nom": "Nicolas",
+        "numero": "33786488760"
+    },
+    {
+        "emergencia": false,
+        "id": "{791e0ecb-a006-4e85-8b27-8bdc370265a2}",
+        "lora": "",
+        "nom": "Javi",
+        "numero": "34633273816"
+    },
+    {
+        "emergencia": false,
+        "id": "{a82d8dee-6a67-4f9a-a0e2-81cdc11e3690}",
+        "lora": "",
+        "nom": "Marta Cosina",
+        "numero": "34722718819"
+    },
+    {
+        "emergencia": false,
+        "id": "{55fbe9ee-75ed-4335-9502-747f1d659818}",
+        "lora": "",
+        "nom": "Pat",
+        "numero": "34635583824"
+    },
+    {
+        "emergencia": false,
+        "id": "{96ffeaf5-01c1-492a-912d-e2d561a30260}",
+        "lora": "",
+        "nom": "Andreu Duran Dumitrescu",
+        "numero": "34644970676"
+    },
+    {
+        "emergencia": false,
+        "id": "{5e136e69-f311-4515-b52a-ba70db1c7030}",
+        "lora": "",
+        "nom": "Mare Jordi",
+        "numero": "34636936074"
+    },
+    {
+        "emergencia": false,
+        "id": "{32d4a962-e15c-40fa-8419-3933ed82b01e}",
+        "lora": "",
+        "nom": "Oriol B",
+        "numero": "34635213789"
+    },
+    {
+        "emergencia": false,
+        "id": "{aded87a0-3c64-4b51-8707-6afa1caf9dcc}",
+        "lora": "",
+        "nom": "Martina Balot",
+        "numero": "34619657455"
+    },
+    {
+        "emergencia": false,
+        "id": "{d144f741-35f8-4ccb-92ce-0f9410484a9c}",
+        "lora": "",
+        "nom": "@davidgl01",
+        "numero": "34620995955"
+    },
+    {
+        "emergencia": false,
+        "id": "{1e722ecb-eff5-4c33-867d-a878f2be016a}",
+        "lora": "",
+        "nom": "H",
+        "numero": "34657248629"
+    },
+    {
+        "emergencia": false,
+        "id": "{07200620-1f92-4dab-9d92-9b17381f9045}",
+        "lora": "",
+        "nom": "Pere González",
+        "numero": "34691020701"
+    },
+    {
+        "emergencia": false,
+        "id": "{89e750b2-34cb-4f55-a942-ce2df6d4539d}",
+        "lora": "",
+        "nom": "Anthony",
+        "numero": "34667842190"
+    },
+    {
+        "emergencia": false,
+        "id": "{e86e1af8-60ac-4fc0-8ee9-6d2212fb6432}",
+        "lora": "",
+        "nom": "Laia Guillaumes",
+        "numero": "34691476703"
+    },
+    {
+        "emergencia": false,
+        "id": "{97b2b2f8-f31e-45c0-885f-ba02451ff7be}",
+        "lora": "",
+        "nom": "Jose Fita",
+        "numero": "34628926078"
+    },
+    {
+        "emergencia": false,
+        "id": "{ae13e57a-6645-4c3d-aaac-c8fc29e36b6b}",
+        "lora": "",
+        "nom": "martina vers",
+        "numero": "34634540022"
+    },
+    {
+        "emergencia": false,
+        "id": "{14c493c5-8c4f-467c-8841-ae648b6faf7c}",
+        "lora": "",
+        "nom": "Clasd",
+        "numero": "34644887873"
+    },
+    {
+        "emergencia": false,
+        "id": "{2eea667c-662a-4758-97c2-b64d269089a6}",
+        "lora": "",
+        "nom": "Asbel",
+        "numero": "34633356016"
+    },
+    {
+        "emergencia": false,
+        "id": "{61f6e785-b8f8-419a-b725-d0030fe6404e}",
+        "lora": "",
+        "nom": "Rosa",
+        "numero": "34685010340"
+    },
+    {
+        "emergencia": false,
+        "id": "{83380138-5230-416e-9adb-722c916e00e3}",
+        "lora": "",
+        "nom": "El Nene De Mitu",
+        "numero": "34653509764"
+    },
+    {
+        "emergencia": false,
+        "id": "{33fab283-2282-4734-905f-36730fe6e15c}",
+        "lora": "",
+        "nom": "🙏🏼🤍",
+        "numero": "34632985221"
+    },
+    {
+        "emergencia": false,
+        "id": "{051ed1bb-8ac1-444a-8a3d-c74861317076}",
+        "lora": "",
+        "nom": "Eduardo 🥶",
+        "numero": "34641892266"
+    },
+    {
+        "emergencia": false,
+        "id": "{d872224d-4143-426e-ae41-d1366b7a9166}",
+        "lora": "",
+        "nom": "Aniol Buxeda",
+        "numero": "34646433326"
+    },
+    {
+        "emergencia": false,
+        "id": "{d9000d0d-d639-4b7f-b104-cd15c4dce09d}",
+        "lora": "",
+        "nom": "Carla",
+        "numero": "34635017819"
+    },
+    {
+        "emergencia": false,
+        "id": "{bbb22c65-ef2c-43a8-9928-84dc2de0c99c}",
+        "lora": "",
+        "nom": "Yasupiste",
+        "numero": "34640659364"
+    },
+    {
+        "emergencia": false,
+        "id": "{04134c4b-d32a-4a6a-9e36-2facb2e3770d}",
+        "lora": "",
+        "nom": "Hamzaa",
+        "numero": "34653027980"
+    },
+    {
+        "emergencia": false,
+        "id": "{8ab80d5d-0ce1-4618-86c9-2d06cae17f45}",
+        "lora": "",
+        "nom": "Daniel",
+        "numero": "34674289427"
+    },
+    {
+        "emergencia": false,
+        "id": "{82363051-7076-4efa-a269-1bcf921cc947}",
+        "lora": "",
+        "nom": "Alba",
+        "numero": "34695528341"
+    },
+    {
+        "emergencia": false,
+        "id": "{51c7b646-b7b2-43c8-b000-187de14fc52f}",
+        "lora": "",
+        "nom": "A-Mateu",
+        "numero": "34607570060"
+    },
+    {
+        "emergencia": false,
+        "id": "{d237860c-e8cf-4c6d-998f-ec79b8dbab92}",
+        "lora": "",
+        "nom": "Chloe Amiga Ari",
+        "numero": "34655182066"
+    },
+    {
+        "emergencia": false,
+        "id": "{31b2d695-0410-4dfa-9466-fb5d7986c078}",
+        "lora": "",
+        "nom": "Stéphane Desnoyers",
+        "numero": "34621190234"
+    },
+    {
+        "emergencia": false,
+        "id": "{8204c4df-179f-42d2-8e06-8f5c36bda1b0}",
+        "lora": "",
+        "nom": "JoanRS",
+        "numero": "34672309286"
+    },
+    {
+        "emergencia": false,
+        "id": "{e533bb06-7fed-4760-949a-15a7899fdbfd}",
+        "lora": "",
+        "nom": "Ian Pb",
+        "numero": "34620178007"
+    },
+    {
+        "emergencia": false,
+        "id": "{3380084f-e585-4a09-bcf8-e6556fdf3e37}",
+        "lora": "",
+        "nom": "FM",
+        "numero": "59898248062"
+    },
+    {
+        "emergencia": false,
+        "id": "{deb63f11-6e81-4209-b8fa-7f1a9d918b05}",
+        "lora": "",
+        "nom": "Arnau Estartus",
+        "numero": "34674590237"
+    },
+    {
+        "emergencia": false,
+        "id": "{07449ce7-1dc0-4152-8e26-f784e2b305f0}",
+        "lora": "",
+        "nom": "Mathias",
+        "numero": "34697968729"
+    },
+    {
+        "emergencia": false,
+        "id": "{39413d74-9901-490c-899d-e29af81eff98}",
+        "lora": "",
+        "nom": "Pau Sais",
+        "numero": "34692045623"
+    },
+    {
+        "emergencia": false,
+        "id": "{d993235d-8af5-446c-9bfc-4d137ab33e86}",
+        "lora": "",
+        "nom": "Sirgiux99 | 🇪🇸",
+        "numero": "34666969309"
+    },
+    {
+        "emergencia": false,
+        "id": "{7cd22d77-e1b2-4ffb-a0e5-8a0bbbd3a20f}",
+        "lora": "",
+        "nom": "Info ACEBSA - SUELCO",
+        "numero": "34607111610"
+    },
+    {
+        "emergencia": false,
+        "id": "{f8af7ad8-ee2a-4b03-9206-e20174851d08}",
+        "lora": "",
+        "nom": "LP",
+        "numero": "34644093193"
+    },
+    {
+        "emergencia": false,
+        "id": "{eeafc12b-5205-4578-b388-886501337ac4}",
+        "lora": "",
+        "nom": "Victo Roselló Serrasolsas",
+        "numero": "34679653833"
+    },
+    {
+        "emergencia": false,
+        "id": "{849fe00e-f9cb-419b-b9d4-1d2fca58910e}",
+        "lora": "",
+        "nom": "Leoo🆎",
+        "numero": "34650982849"
+    },
+    {
+        "emergencia": false,
+        "id": "{52cbe7d7-87be-46aa-93a1-d9ac714b6ae5}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34677617075"
+    },
+    {
+        "emergencia": false,
+        "id": "{8996af66-88fb-4db6-983c-3c13a963ceba}",
+        "lora": "",
+        "nom": "Mk🌪️🦈",
+        "numero": "34639040133"
+    },
+    {
+        "emergencia": false,
+        "id": "{545610ab-90cc-400e-bf6c-0af7831e8731}",
+        "lora": "",
+        "nom": "Amic Pol",
+        "numero": "34644758130"
+    },
+    {
+        "emergencia": false,
+        "id": "{beea5e99-50f0-4c14-8d1c-399d8ff9aaea}",
+        "lora": "",
+        "nom": "mont3dstudio",
+        "numero": "34624134869"
+    },
+    {
+        "emergencia": false,
+        "id": "{d4780d7a-22bb-47fb-9c19-bbfc84a987bd}",
+        "lora": "",
+        "nom": "Laura García",
+        "numero": "34622133046"
+    },
+    {
+        "emergencia": false,
+        "id": "{8d348a5f-dceb-450c-97df-8f3fb3d88116}",
+        "lora": "",
+        "nom": "Adria Gimeno",
+        "numero": "34644244746"
+    },
+    {
+        "emergencia": false,
+        "id": "{3a157f99-8317-4c46-ad98-ffc5dcd9a7f9}",
+        "lora": "",
+        "nom": "joana_curos",
+        "numero": "34646646760"
+    },
+    {
+        "emergencia": false,
+        "id": "{505a118f-5d00-4c2f-a43c-05989578b14f}",
+        "lora": "",
+        "nom": "Carmen Mel🐐",
+        "numero": "34676566679"
+    },
+    {
+        "emergencia": false,
+        "id": "{6500b118-8154-469a-8e37-9a7906c4a196}",
+        "lora": "",
+        "nom": "Anna ✨",
+        "numero": "34616605526"
+    },
+    {
+        "emergencia": false,
+        "id": "{7b0ce10b-3680-467c-a2c3-fa8e5936e436}",
+        "lora": "",
+        "nom": "Adri",
+        "numero": "330729295913"
+    },
+    {
+        "emergencia": false,
+        "id": "{f0b17145-8192-467b-8c0c-3be830e16d09}",
+        "lora": "",
+        "nom": "Adri",
+        "numero": "34644889502"
+    },
+    {
+        "emergencia": false,
+        "id": "{33baace2-93ca-4ad7-9d13-41b7cb52a211}",
+        "lora": "",
+        "nom": "@teialagos 🐍",
+        "numero": "34610045875"
+    },
+    {
+        "emergencia": false,
+        "id": "{119c956e-f728-41c9-ac03-3bf0a2bcf929}",
+        "lora": "",
+        "nom": "Federico",
+        "numero": "34671289934"
+    },
+    {
+        "emergencia": false,
+        "id": "{c827ed9e-b2a7-41b6-a81f-c632ac9564a9}",
+        "lora": "",
+        "nom": "Vincent",
+        "numero": "32496577276"
+    },
+    {
+        "emergencia": false,
+        "id": "{85c5dd58-866c-44b1-b708-78353f276a89}",
+        "lora": "",
+        "nom": "Tom",
+        "numero": "356515889368"
+    },
+    {
+        "emergencia": false,
+        "id": "{28a10139-2622-43b3-997f-500d6bdcf4f9}",
+        "lora": "",
+        "nom": "Tom",
+        "numero": "34623133483"
+    },
+    {
+        "emergencia": false,
+        "id": "{afbca999-8323-4e27-9408-3aa2abc75931}",
+        "lora": "",
+        "nom": "Glòria",
+        "numero": "34659381777"
+    },
+    {
+        "emergencia": false,
+        "id": "{3e91fad7-723f-4a47-bd2c-e1da04528a1b}",
+        "lora": "",
+        "nom": "Client SK",
+        "numero": "34611692040"
+    },
+    {
+        "emergencia": false,
+        "id": "{d28a6c4d-a267-4e27-bd19-cf74f2a9ee28}",
+        "lora": "",
+        "nom": "Anna Iñigo",
+        "numero": "34647203077"
+    },
+    {
+        "emergencia": false,
+        "id": "{d8240749-a6c9-409b-bac4-51a168149424}",
+        "lora": "",
+        "nom": "Sandra",
+        "numero": "34606345851"
+    },
+    {
+        "emergencia": false,
+        "id": "{0418cfd6-86c9-44a4-a1b5-9ae494fc6eb8}",
+        "lora": "",
+        "nom": "ona cadafalch",
+        "numero": "34680393176"
+    },
+    {
+        "emergencia": false,
+        "id": "{ad79d517-2d89-4b52-b90b-ed443efd0019}",
+        "lora": "",
+        "nom": "~",
+        "numero": "34639098735"
+    },
+    {
+        "emergencia": false,
+        "id": "{f51c7576-a673-4f00-8f9b-62ca74523db2}",
+        "lora": "",
+        "nom": "Cristh",
+        "numero": "34618015228"
+    },
+    {
+        "emergencia": false,
+        "id": "{848f8054-92cf-41ca-80d9-e22e9a0c1a80}",
+        "lora": "",
+        "nom": "adri",
+        "numero": "34619184076"
+    },
+    {
+        "emergencia": false,
+        "id": "{fef48cc3-eae8-4528-954c-2221910100f7}",
+        "lora": "",
+        "nom": "Pol",
+        "numero": "34658366100"
+    },
+    {
+        "emergencia": false,
+        "id": "{34b8ee0c-ab32-486f-aaa2-96d7e945a112}",
+        "lora": "",
+        "nom": "DarioJ",
+        "numero": "34627751264"
+    },
+    {
+        "emergencia": false,
+        "id": "{d0882c1d-b7e9-4935-b6a6-1c91b153e0e6}",
+        "lora": "",
+        "nom": "Joana 2n Bat B",
+        "numero": "34695501801"
+    },
+    {
+        "emergencia": false,
+        "id": "{44545a6e-4c00-4470-b02a-565bf11176a7}",
+        "lora": "",
+        "nom": "Pol Puig",
+        "numero": "34640242846"
+    },
+    {
+        "emergencia": false,
+        "id": "{3bfe4c1a-ca3a-4ef7-a1d8-f4758f90536e}",
+        "lora": "",
+        "nom": "Guiem Fiol",
+        "numero": "34657229481"
+    },
+    {
+        "emergencia": false,
+        "id": "{b1d91d49-1d1e-4d8e-9cf2-40c9799b32d5}",
+        "lora": "",
+        "nom": "Rubens",
+        "numero": "34648855266"
+    },
+    {
+        "emergencia": false,
+        "id": "{1f31b038-10de-4057-9682-ba5cff4026b4}",
+        "lora": "",
+        "nom": "BANKNIFTY TRADING",
+        "numero": "916376531778"
+    },
+    {
+        "emergencia": false,
+        "id": "{61f63894-acd7-4628-8d8c-371ce57aca30}",
+        "lora": "",
+        "nom": "Asiercasti",
+        "numero": "34688633555"
+    },
+    {
+        "emergencia": false,
+        "id": "{8d9f8640-d8ad-4570-93e8-4da8c2f31d04}",
+        "lora": "",
+        "nom": "Paco",
+        "numero": "34652458030"
+    },
+    {
+        "emergencia": false,
+        "id": "{6901501d-4dac-4340-99de-678aace0d3a6}",
+        "lora": "",
+        "nom": "Judit",
+        "numero": "34633977581"
+    },
+    {
+        "emergencia": false,
+        "id": "{8bb66d4f-6cf2-432c-ba50-49152f04237a}",
+        "lora": "",
+        "nom": "Encarna",
+        "numero": "34639420299"
+    },
+    {
+        "emergencia": false,
+        "id": "{2b36adff-70f4-4cee-be36-93a6df34f946}",
+        "lora": "",
+        "nom": "Pol Torrent",
+        "numero": "34653847034"
+    },
+    {
+        "emergencia": false,
+        "id": "{92a3a197-1ca5-4979-a000-6299e15c621f}",
+        "lora": "",
+        "nom": "Alexandra",
+        "numero": "34643559954"
+    },
+    {
+        "emergencia": false,
+        "id": "{923a7ed9-3fe4-4348-acf1-e12408465032}",
+        "lora": "",
+        "nom": "Carla Arquitecta",
+        "numero": "34682059110"
+    },
+    {
+        "emergencia": false,
+        "id": "{cc1ef810-7249-4129-a27b-6819263fd3a6}",
+        "lora": "",
+        "nom": "Christian",
+        "numero": "34660750443"
+    },
+    {
+        "emergencia": false,
+        "id": "{e4665d67-cb32-4cf6-9d48-13207bfde6cd}",
+        "lora": "",
+        "nom": "Marcel",
+        "numero": "34634276385"
+    },
+    {
+        "emergencia": false,
+        "id": "{17ddf734-53a5-4139-a66c-0af5c5966aac}",
+        "lora": "",
+        "nom": "Fanny",
+        "numero": "34672010671"
+    },
+    {
+        "emergencia": false,
+        "id": "{700560c6-6472-4338-b7b4-6bc07fd58c01}",
+        "lora": "",
+        "nom": "martins🏝",
+        "numero": "34682286421"
+    },
+    {
+        "emergencia": false,
+        "id": "{a3e28ff5-0499-477b-aee3-11d209572a15}",
+        "lora": "",
+        "nom": "~ Eduard Pons ~",
+        "numero": "34611410431"
+    },
+    {
+        "emergencia": false,
+        "id": "{889b8a22-82f4-42be-ac59-c25fa05de630}",
+        "lora": "",
+        "nom": "Ignasius",
+        "numero": "34684206083"
+    },
+    {
+        "emergencia": false,
+        "id": "{d42db138-6df0-4cc5-aad7-27a0760957be}",
+        "lora": "",
+        "nom": "Nil",
+        "numero": "34685984780"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c762d58-4ec5-4250-9f04-2affde2e3a75}",
+        "lora": "",
+        "nom": "Eudald Ibiza",
+        "numero": "34621046284"
+    },
+    {
+        "emergencia": false,
+        "id": "{00c38302-0aa6-48a3-8fa1-423ab365e960}",
+        "lora": "",
+        "nom": "Joan Kegebein",
+        "numero": "34676995599"
+    },
+    {
+        "emergencia": false,
+        "id": "{feeb838a-09a7-4803-a5ac-70cf08886d6b}",
+        "lora": "",
+        "nom": "Joel Velasco",
+        "numero": "34664631522"
+    },
+    {
+        "emergencia": false,
+        "id": "{bd431c57-5292-4204-a21c-6ad206564b05}",
+        "lora": "",
+        "nom": "Lauu",
+        "numero": "34682428266"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a31ad44-364b-4c39-a43f-ac1c8b703eeb}",
+        "lora": "",
+        "nom": "Marc Pujol",
+        "numero": "34634541037"
+    },
+    {
+        "emergencia": false,
+        "id": "{4d70bcb4-375e-44f9-b110-13a3363b0f92}",
+        "lora": "",
+        "nom": "Marc Basi",
+        "numero": "34671592249"
+    },
+    {
+        "emergencia": false,
+        "id": "{f2f41eed-0cf7-4159-94e3-8d52f7d6f5d2}",
+        "lora": "",
+        "nom": "gerard",
+        "numero": "34650868921"
+    },
+    {
+        "emergencia": false,
+        "id": "{4172814f-704f-4f09-9ac4-b6b3604e02b3}",
+        "lora": "",
+        "nom": "Ester Guiu",
+        "numero": "34679620346"
+    },
+    {
+        "emergencia": false,
+        "id": "{e164b8c0-3acb-4ea1-82c6-95e8d4415d03}",
+        "lora": "",
+        "nom": "ACTIC",
+        "numero": "34622683728"
+    },
+    {
+        "emergencia": false,
+        "id": "{b81b3b97-b57f-46b2-82ff-0b84b0676e76}",
+        "lora": "",
+        "nom": "Laurence",
+        "numero": "33651487991"
+    },
+    {
+        "emergencia": false,
+        "id": "{702bf427-5b1d-440c-895f-861e4fa02c25}",
+        "lora": "",
+        "nom": "Nacho Cáceres",
+        "numero": "34622679793"
+    },
+    {
+        "emergencia": false,
+        "id": "{d21154c2-5755-4ce2-b877-c37b168a8ea7}",
+        "lora": "",
+        "nom": "Arnau",
+        "numero": "34615870747"
+    },
+    {
+        "emergencia": false,
+        "id": "{8dc9ea71-d922-4f52-b8b1-ddee9deeebb7}",
+        "lora": "",
+        "nom": "Kristiyan",
+        "numero": "34633634955"
+    },
+    {
+        "emergencia": false,
+        "id": "{73ebccd8-821e-4c2f-9b58-ce5b9d14e945}",
+        "lora": "",
+        "nom": "Xeeniaa",
+        "numero": "34654852697"
+    },
+    {
+        "emergencia": false,
+        "id": "{b94406fe-4ed5-48f1-891d-86ee2f09cf7e}",
+        "lora": "",
+        "nom": "Visi",
+        "numero": "34647725590"
+    },
+    {
+        "emergencia": false,
+        "id": "{c6114a5e-2d04-4dfb-a3ec-fa7c995ba5b2}",
+        "lora": "",
+        "nom": "Sonia",
+        "numero": "34644055998"
+    },
+    {
+        "emergencia": false,
+        "id": "{8b3a799c-609e-4416-8cee-fbc9e3ec6c0c}",
+        "lora": "",
+        "nom": "Sergio",
+        "numero": "34675028162"
+    },
+    {
+        "emergencia": false,
+        "id": "{b869670b-aacf-473b-87f7-35259126c582}",
+        "lora": "",
+        "nom": "Charly",
+        "numero": "34638887844"
+    },
+    {
+        "emergencia": false,
+        "id": "{9bf21974-a72a-44d7-8a60-6a52d7399003}",
+        "lora": "",
+        "nom": "Chh",
+        "numero": "34680106480"
+    },
+    {
+        "emergencia": false,
+        "id": "{24be14b1-83d5-470b-9249-ab51214199f9}",
+        "lora": "",
+        "nom": "Claudia Arrillaga",
+        "numero": "34634444831"
+    },
+    {
+        "emergencia": false,
+        "id": "{6e7fe7b5-211c-4b17-9eb7-414514aa0be7}",
+        "lora": "",
+        "nom": "Pablo Portbou Kayak",
+        "numero": "34608826550"
+    },
+    {
+        "emergencia": false,
+        "id": "{c53280dc-5c07-469b-8d19-bcf92f3b5db7}",
+        "lora": "",
+        "nom": "Iván",
+        "numero": "34644758373"
+    },
+    {
+        "emergencia": false,
+        "id": "{d69d0b4d-c059-4383-b7a7-f20eb37e3566}",
+        "lora": "",
+        "nom": "Martina (Gisela)",
+        "numero": "34638322024"
+    },
+    {
+        "emergencia": false,
+        "id": "{f1fef803-2e19-4e68-914f-4b23221c1d57}",
+        "lora": "",
+        "nom": "Biel Llagostera",
+        "numero": "34680330079"
+    },
+    {
+        "emergencia": false,
+        "id": "{5e240c96-b383-405e-97da-90b6bfdebc86}",
+        "lora": "",
+        "nom": "Mariona SKKayak",
+        "numero": "34617725908"
+    },
+    {
+        "emergencia": false,
+        "id": "{f0757441-2849-4389-8d68-aabaabc8cb0e}",
+        "lora": "",
+        "nom": "Victor DLX",
+        "numero": "34634569781"
+    },
+    {
+        "emergencia": false,
+        "id": "{8fec9109-4b18-46bf-a436-af02b40aa951}",
+        "lora": "",
+        "nom": "Oskar",
+        "numero": "34657283800"
+    },
+    {
+        "emergencia": false,
+        "id": "{effd4819-2171-467a-8d72-1b2d457de410}",
+        "lora": "",
+        "nom": "Samy",
+        "numero": "34664196442"
+    },
+    {
+        "emergencia": false,
+        "id": "{f8dc8c2e-5106-48b0-80bd-fdadc4c89840}",
+        "lora": "",
+        "nom": "Pere Rius",
+        "numero": "34690873760"
+    },
+    {
+        "emergencia": false,
+        "id": "{d754f7e5-c3aa-4f75-8149-3115c2b57860}",
+        "lora": "",
+        "nom": "rafa ulacia",
+        "numero": "34650951929"
+    },
+    {
+        "emergencia": false,
+        "id": "{55f4b854-fdf5-46ca-87df-a63746725e2c}",
+        "lora": "",
+        "nom": "Jan Saura",
+        "numero": "34699637316"
+    },
+    {
+        "emergencia": false,
+        "id": "{69c54c30-2265-42bf-ab2e-59c72652121f}",
+        "lora": "",
+        "nom": "Brooks",
+        "numero": "34603604419"
+    },
+    {
+        "emergencia": false,
+        "id": "{1faa105e-aa0c-40f0-87ef-ae20c468fcbe}",
+        "lora": "",
+        "nom": "alexcimbron",
+        "numero": "34609601349"
+    },
+    {
+        "emergencia": false,
+        "id": "{90b3640b-d85f-4a99-8cd4-1f7a44661837}",
+        "lora": "",
+        "nom": "Ramon Fortnite",
+        "numero": "34665165726"
+    },
+    {
+        "emergencia": false,
+        "id": "{5468aad2-5414-4401-a8cf-105a80b00e85}",
+        "lora": "",
+        "nom": "Bonachee",
+        "numero": "34644707688"
+    },
+    {
+        "emergencia": false,
+        "id": "{f4de31b6-aabe-4484-9c94-15675a25606b}",
+        "lora": "",
+        "nom": "Guille Rocas🏀",
+        "numero": "34603339813"
+    },
+    {
+        "emergencia": false,
+        "id": "{74139a4b-8ff8-4444-90ba-892e19b91b94}",
+        "lora": "",
+        "nom": "tulsa",
+        "numero": "34699923121"
+    },
+    {
+        "emergencia": false,
+        "id": "{564d6676-c114-4a82-88a5-f93b923023d1}",
+        "lora": "",
+        "nom": "Pau 📞",
+        "numero": "34664511080"
+    },
+    {
+        "emergencia": false,
+        "id": "{a2d3aed7-0df6-41b5-9fed-0d3413b4d04b}",
+        "lora": "",
+        "nom": "Marta Dote",
+        "numero": "34644126542"
+    },
+    {
+        "emergencia": false,
+        "id": "{ef29b1d6-9f37-4258-ab56-a8799b94c40d}",
+        "lora": "",
+        "nom": "Paula Guardiola Bestard",
+        "numero": "34669152438"
+    },
+    {
+        "emergencia": false,
+        "id": "{10493631-21c8-44ec-9aef-52d31549855f}",
+        "lora": "",
+        "nom": "Marti Portbou",
+        "numero": "34693789217"
+    },
+    {
+        "emergencia": false,
+        "id": "{a3e1bfa9-72f9-4bd2-80fa-819793e1a230}",
+        "lora": "",
+        "nom": "Biel",
+        "numero": "34644431721"
+    },
+    {
+        "emergencia": false,
+        "id": "{e530eb2b-b929-43ee-839b-f462c877d95f}",
+        "lora": "",
+        "nom": "Madre David",
+        "numero": "34679148174"
+    },
+    {
+        "emergencia": false,
+        "id": "{bb02c82a-0c69-4ee4-96b6-4229316cb26f}",
+        "lora": "",
+        "nom": "Eloy Coche Ford",
+        "numero": "34633579383"
+    },
+    {
+        "emergencia": false,
+        "id": "{d9cb39b0-2789-449f-8083-92a030227603}",
+        "lora": "",
+        "nom": "rogers",
+        "numero": "34682016819"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c44a7f5-31d4-4677-ab5c-bbb16bcfa45b}",
+        "lora": "",
+        "nom": "TU TV - Televisión Sin Límites",
+        "numero": "573184374850"
+    },
+    {
+        "emergencia": false,
+        "id": "{4fe2e26b-7aeb-4c80-85a6-0bae86bff436}",
+        "lora": "",
+        "nom": "Pau 4t Eso",
+        "numero": "34695815320"
+    },
+    {
+        "emergencia": false,
+        "id": "{26a4cca4-15bb-443d-8c02-51efe3c4323e}",
+        "lora": "",
+        "nom": "Wallapop iPhone Barato",
+        "numero": "34622722286"
+    },
+    {
+        "emergencia": false,
+        "id": "{2762d61a-cf37-4783-8d06-9fb3106db0ce}",
+        "lora": "",
+        "nom": "Miguel Fuente García",
+        "numero": "34693340665"
+    },
+    {
+        "emergencia": false,
+        "id": "{1c066071-2dfa-4444-adfa-b4bca73dcc4b}",
+        "lora": "",
+        "nom": "Maite",
+        "numero": "34629930273"
+    },
+    {
+        "emergencia": false,
+        "id": "{438a331f-9345-4939-9797-89e4b4e51061}",
+        "lora": "",
+        "nom": "Adrian",
+        "numero": "34622870092"
+    },
+    {
+        "emergencia": false,
+        "id": "{666e0883-4c74-4995-9ba7-2fb001aa5ead}",
+        "lora": "",
+        "nom": "Simon😈⚽",
+        "numero": "34688778571"
+    },
+    {
+        "emergencia": false,
+        "id": "{de8fc84e-37a1-4cf3-a2fa-6298d423709b}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34688643060"
+    },
+    {
+        "emergencia": false,
+        "id": "{22bd2cc3-3728-4020-a177-77d149ace079}",
+        "lora": "",
+        "nom": "T",
+        "numero": "34615493490"
+    },
+    {
+        "emergencia": false,
+        "id": "{0a21bb5e-07df-4dd5-a752-19744ab27b9f}",
+        "lora": "",
+        "nom": "Johan",
+        "numero": "34722637995"
+    },
+    {
+        "emergencia": false,
+        "id": "{1d538db3-b7fb-4c76-b253-9cc7766926ac}",
+        "lora": "",
+        "nom": "Peresss.wav🙋🏻‍♂️",
+        "numero": "34673585593"
+    },
+    {
+        "emergencia": false,
+        "id": "{0e9814f1-9794-4e0e-9482-d7af4ffe191c}",
+        "lora": "",
+        "nom": "Pedrajaaas Amic Ari",
+        "numero": "34638767610"
+    },
+    {
+        "emergencia": false,
+        "id": "{41745c51-03f6-49a4-8dfb-5dcfc31331e4}",
+        "lora": "",
+        "nom": "Natalia",
+        "numero": "34640062115"
+    },
+    {
+        "emergencia": false,
+        "id": "{5f922bb7-fcaa-450d-ade1-abace22466c7}",
+        "lora": "",
+        "nom": "Alex Siller Pérez",
+        "numero": "34634274571"
+    },
+    {
+        "emergencia": false,
+        "id": "{2f7c0235-2e8a-46d7-981f-24770c7c9fa2}",
+        "lora": "",
+        "nom": "Marta Francisco",
+        "numero": "34675080456"
+    },
+    {
+        "emergencia": false,
+        "id": "{ed23a104-eb78-4d02-9e1c-aecbfed43873}",
+        "lora": "",
+        "nom": "Sprimpol",
+        "numero": "34646573779"
+    },
+    {
+        "emergencia": false,
+        "id": "{4aa2a5f6-808a-4812-a9c0-c4c3b824be75}",
+        "lora": "",
+        "nom": "Didac Uni",
+        "numero": "34679371608"
+    },
+    {
+        "emergencia": false,
+        "id": "{67980d2d-36ee-42e1-a12a-d15af3806044}",
+        "lora": "",
+        "nom": "Ferri",
+        "numero": "34620559603"
+    },
+    {
+        "emergencia": false,
+        "id": "{3083e13a-8527-4832-9044-33814acaa7c4}",
+        "lora": "",
+        "nom": "alessio",
+        "numero": "393703697645"
+    },
+    {
+        "emergencia": false,
+        "id": "{d03ec073-bf50-43da-9cee-8b81f664d295}",
+        "lora": "",
+        "nom": "david.anton",
+        "numero": "34695674925"
+    },
+    {
+        "emergencia": false,
+        "id": "{047630e4-6fcf-44c1-9e3c-13ab679c79ac}",
+        "lora": "",
+        "nom": "🦇",
+        "numero": "34652932712"
+    },
+    {
+        "emergencia": false,
+        "id": "{df7ce83c-102b-4e6b-b962-6dc8cafaf64c}",
+        "lora": "",
+        "nom": "Madre Brian",
+        "numero": "34669569720"
+    },
+    {
+        "emergencia": false,
+        "id": "{3c4b4307-2e08-47be-a3d8-79579960decb}",
+        "lora": "",
+        "nom": "Pau Riera",
+        "numero": "34683139691"
+    },
+    {
+        "emergencia": false,
+        "id": "{2e6419be-d4d0-42e2-b4f5-0be52955fc57}",
+        "lora": "",
+        "nom": "Franklin",
+        "numero": "34634249918"
+    },
+    {
+        "emergencia": false,
+        "id": "{41fbdb59-33e1-4701-a204-c349b908367c}",
+        "lora": "",
+        "nom": "Jordi",
+        "numero": "34652776591"
+    },
+    {
+        "emergencia": false,
+        "id": "{3ae74c69-6511-45c8-8bf9-b40e12c74ac3}",
+        "lora": "",
+        "nom": "Srto.ace",
+        "numero": "34684109705"
+    },
+    {
+        "emergencia": false,
+        "id": "{d4c1b16a-80f3-440e-a0c2-9429f074c216}",
+        "lora": "",
+        "nom": "Mare Roger",
+        "numero": "34626794323"
+    },
+    {
+        "emergencia": false,
+        "id": "{7728c785-d85a-421f-a8bd-a90c77750b0d}",
+        "lora": "",
+        "nom": "Jordi",
+        "numero": "34677025984"
+    },
+    {
+        "emergencia": false,
+        "id": "{d80340cc-5bdb-437d-9583-ae28b14bf18d}",
+        "lora": "",
+        "nom": "Roger Solé Guixeres",
+        "numero": "34673708504"
+    },
+    {
+        "emergencia": false,
+        "id": "{e25309c1-2ee7-432a-ba0a-6f1a0eacacd1}",
+        "lora": "",
+        "nom": "Roro",
+        "numero": "34602349170"
+    },
+    {
+        "emergencia": false,
+        "id": "{4b3df6f7-4cdc-4e6b-8d1e-3b9c65b18863}",
+        "lora": "",
+        "nom": "César",
+        "numero": "34622675442"
+    },
+    {
+        "emergencia": false,
+        "id": "{ce4eb3ef-9c7d-431a-880b-a412c6c2ae3a}",
+        "lora": "",
+        "nom": "Guillermo",
+        "numero": "34722693050"
+    },
+    {
+        "emergencia": false,
+        "id": "{de6671b1-b8c5-4451-bb91-38e3c86ea629}",
+        "lora": "",
+        "nom": "Leidys",
+        "numero": "34638764352"
+    },
+    {
+        "emergencia": false,
+        "id": "{24f1bd88-311f-47ec-9918-7c298867c5cd}",
+        "lora": "",
+        "nom": "Leire Amiga Marti",
+        "numero": "34722614820"
+    },
+    {
+        "emergencia": false,
+        "id": "{50494857-890f-46de-8486-15527e4be55e}",
+        "lora": "",
+        "nom": "Stephane Desnoyers",
+        "numero": "33616250542"
+    },
+    {
+        "emergencia": false,
+        "id": "{c1cfdbae-07b7-44ab-a4f3-30e3499b2a24}",
+        "lora": "",
+        "nom": "Toni García BAT",
+        "numero": "34638864208"
+    },
+    {
+        "emergencia": false,
+        "id": "{48c87617-1b23-48e4-8b7a-290e5213af2e}",
+        "lora": "",
+        "nom": "Gaël Argerich Masafrets🎲",
+        "numero": "34622667715"
+    },
+    {
+        "emergencia": false,
+        "id": "{7c3249cd-8bd8-40ca-8edd-690aced89cae}",
+        "lora": "",
+        "nom": "Fina Vila",
+        "numero": "34606958428"
+    },
+    {
+        "emergencia": false,
+        "id": "{bec9712f-6ec9-40bc-bf97-05c306aa22bb}",
+        "lora": "",
+        "nom": "Aurèlie",
+        "numero": "34622004822"
+    },
+    {
+        "emergencia": false,
+        "id": "{95cbce27-4c6d-495f-8a1d-06be14a0ae8d}",
+        "lora": "",
+        "nom": "Foix Ferrera",
+        "numero": "34673571557"
+    },
+    {
+        "emergencia": false,
+        "id": "{df1fb99e-be2b-4b8e-bb9b-6c76e3c0480b}",
+        "lora": "",
+        "nom": "jcabanas30@gmail.com",
+        "numero": "34679492740"
+    },
+    {
+        "emergencia": false,
+        "id": "{aa030441-4d40-4489-8da7-e304b84d2622}",
+        "lora": "",
+        "nom": "Iker Ruiz",
+        "numero": "34606930551"
+    },
+    {
+        "emergencia": false,
+        "id": "{e93d03fc-eeaf-4e10-b184-fb32f8f6e515}",
+        "lora": "",
+        "nom": "Carla",
+        "numero": "34629356230"
+    },
+    {
+        "emergencia": false,
+        "id": "{201df599-879c-4151-9f5d-59cb706786c8}",
+        "lora": "",
+        "nom": "👍",
+        "numero": "34603529755"
+    },
+    {
+        "emergencia": false,
+        "id": "{3eba79af-f907-410c-938b-6f611848a5de}",
+        "lora": "",
+        "nom": "Fran Portbou",
+        "numero": "34657137288"
+    },
+    {
+        "emergencia": false,
+        "id": "{3dee752d-ccf3-4fbe-b637-f67fd7fecdd5}",
+        "lora": "",
+        "nom": "Claudia Amiga Marti",
+        "numero": "34615309807"
+    },
+    {
+        "emergencia": false,
+        "id": "{75e4ea0a-14fc-42bf-8c29-92ce1c1e70e3}",
+        "lora": "",
+        "nom": "Hugo",
+        "numero": "34649484126"
+    },
+    {
+        "emergencia": false,
+        "id": "{fcd3f568-53e8-4ef2-b452-fb2bd7910032}",
+        "lora": "",
+        "nom": "Crec Que Karim",
+        "numero": "34643538168"
+    },
+    {
+        "emergencia": false,
+        "id": "{d0f8db2d-36af-4f6a-916f-d4433f25b3ff}",
+        "lora": "",
+        "nom": "Tiziano Sebastianelli",
+        "numero": "393348234673"
+    },
+    {
+        "emergencia": false,
+        "id": "{1a7fa278-a1ac-493f-9460-aeaa177690fe}",
+        "lora": "",
+        "nom": "Mare Aleix",
+        "numero": "34620868545"
+    },
+    {
+        "emergencia": false,
+        "id": "{6eab629d-2905-41c0-9496-002d8ef86176}",
+        "lora": "",
+        "nom": "Ferran Tiet",
+        "numero": "34663249224"
+    },
+    {
+        "emergencia": false,
+        "id": "{bd08c7f2-06bf-4ebe-90c8-6e9632e0df39}",
+        "lora": "",
+        "nom": "Pere suñer",
+        "numero": "34648500112"
+    },
+    {
+        "emergencia": false,
+        "id": "{69726ba9-71e6-4a1a-b910-c00136dd1c50}",
+        "lora": "",
+        "nom": "Cuca Mundet Benosa",
+        "numero": "695835078693"
+    },
+    {
+        "emergencia": false,
+        "id": "{66207af2-ae58-46de-a221-7642b847fa86}",
+        "lora": "",
+        "nom": "Anna☀️🏹",
+        "numero": "34636857514"
+    },
+    {
+        "emergencia": false,
+        "id": "{c97a0fb9-c27a-43e6-b2be-3c297448866d}",
+        "lora": "",
+        "nom": "Rihab 🍄",
+        "numero": "34640095885"
+    },
+    {
+        "emergencia": false,
+        "id": "{ec413c65-867b-4859-a1dc-468c635c6b93}",
+        "lora": "",
+        "nom": "Jordina",
+        "numero": "34638067319"
+    },
+    {
+        "emergencia": false,
+        "id": "{c51374d2-0033-4dd9-b992-a32e77019034}",
+        "lora": "",
+        "nom": "Maarc",
+        "numero": "34680677157"
+    },
+    {
+        "emergencia": false,
+        "id": "{5e7df5e3-eca9-448e-b637-8c2ccff70f7e}",
+        "lora": "",
+        "nom": "Genís 😼",
+        "numero": "34653288866"
+    },
+    {
+        "emergencia": false,
+        "id": "{79700041-a808-40e2-a30b-f1f121631889}",
+        "lora": "",
+        "nom": "Daffe",
+        "numero": "34669566017"
+    },
+    {
+        "emergencia": false,
+        "id": "{8a927205-2465-498b-8cbd-9c30117667cf}",
+        "lora": "",
+        "nom": "sebasriascos",
+        "numero": "34695642875"
+    },
+    {
+        "emergencia": false,
+        "id": "{b21eac69-dbbb-4c04-b74e-229819aa10e3}",
+        "lora": "",
+        "nom": "Hugo",
+        "numero": "34692639608"
+    },
+    {
+        "emergencia": false,
+        "id": "{3b9dc787-e7cd-4408-9a9d-4997d97882a7}",
+        "lora": "",
+        "nom": "Carlos",
+        "numero": "34638961123"
+    },
+    {
+        "emergencia": false,
+        "id": "{78bccfa2-4cc6-4cd4-9a92-45a98c27e81f}",
+        "lora": "",
+        "nom": "~Dario",
+        "numero": "34685959990"
+    },
+    {
+        "emergencia": false,
+        "id": "{63b9e4e7-2c09-4ab9-a4c6-d2ecf5f857d1}",
+        "lora": "",
+        "nom": "Adrià🌊",
+        "numero": "34677444162"
+    },
+    {
+        "emergencia": false,
+        "id": "{9f091b2c-3988-41fb-a2f7-0c1d9f4a9a46}",
+        "lora": "",
+        "nom": "Tiet Pep",
+        "numero": "34622075718"
+    },
+    {
+        "emergencia": false,
+        "id": "{6362aed6-27e2-4303-83c3-d3bf26855dc6}",
+        "lora": "",
+        "nom": "Gisela",
+        "numero": "34685499797"
+    },
+    {
+        "emergencia": false,
+        "id": "{aeb1b530-b9ca-430b-9663-bf73171ddb11}",
+        "lora": "",
+        "nom": "SjGL",
+        "numero": "34655611973"
+    },
+    {
+        "emergencia": false,
+        "id": "{850f195d-64ed-4346-b629-a1efef7ecee4}",
+        "lora": "",
+        "nom": "Noa",
+        "numero": "34696775909"
+    },
+    {
+        "emergencia": false,
+        "id": "{08178a88-a024-4d24-916f-734363c98178}",
+        "lora": "",
+        "nom": "Ariii❤️👻",
+        "numero": "34674072379"
+    },
+    {
+        "emergencia": false,
+        "id": "{c098258c-1f8b-4fc5-8d63-b8689027d43e}",
+        "lora": "",
+        "nom": "Fer",
+        "numero": "34671987960"
+    },
+    {
+        "emergencia": false,
+        "id": "{6d2cadb8-b484-4219-9509-52faa4888f3c}",
+        "lora": "",
+        "nom": "Gol",
+        "numero": "34617525801"
+    },
+    {
+        "emergencia": false,
+        "id": "{c189c893-8b15-4950-8a72-193888a56896}",
+        "lora": "",
+        "nom": "Laura",
+        "numero": "34658501238"
+    },
+    {
+        "emergencia": false,
+        "id": "{4fbb17b2-97be-41dd-bc66-3ad03df00eef}",
+        "lora": "",
+        "nom": "Nora❤",
+        "numero": "34633962480"
+    },
+    {
+        "emergencia": false,
+        "id": "{a2112df9-3c2c-4490-87af-a17cc29c5e52}",
+        "lora": "",
+        "nom": "Marc Sala",
+        "numero": "34650181649"
+    },
+    {
+        "emergencia": false,
+        "id": "{a93995cc-fd14-41e6-b3ef-f36c9814ee1d}",
+        "lora": "",
+        "nom": "Brandon",
+        "numero": "35699042549"
+    },
+    {
+        "emergencia": false,
+        "id": "{a0495aae-1ffd-4306-85a6-50c43079f9c6}",
+        "lora": "",
+        "nom": "Monica Sk Kayak",
+        "numero": "34686446419"
+    },
+    {
+        "emergencia": false,
+        "id": "{808c6b5e-245f-4c67-b737-8aaf9f438f49}",
+        "lora": "",
+        "nom": "Aina Lopez🌻",
+        "numero": "34605804892"
+    },
+    {
+        "emergencia": false,
+        "id": "{19649c9a-12a2-4ed8-9180-da12888bdc4e}",
+        "lora": "",
+        "nom": "Marc Trèmols",
+        "numero": "34606690515"
+    },
+    {
+        "emergencia": false,
+        "id": "{105c0024-0729-415a-97ac-27d5b43acc30}",
+        "lora": "",
+        "nom": "Quim",
+        "numero": "34639956194"
+    },
+    {
+        "emergencia": false,
+        "id": "{31018a4a-269d-4f9e-b0e8-f21cdca50fb6}",
+        "lora": "",
+        "nom": "Iker",
+        "numero": "34674956846"
+    },
+    {
+        "emergencia": false,
+        "id": "{69c08bb0-bdc3-4b83-9d38-1b98c48280e1}",
+        "lora": "",
+        "nom": "Isaac",
+        "numero": "34657162357"
+    },
+    {
+        "emergencia": false,
+        "id": "{59eeaba0-d134-4c02-8515-c14721b4ce79}",
+        "lora": "",
+        "nom": "Papa",
+        "numero": "34620898559"
+    },
+    {
+        "emergencia": false,
+        "id": "{22a324a5-f33a-4a9e-bdfd-c807f1d44d56}",
+        "lora": "",
+        "nom": "Salma El",
+        "numero": "34631557381"
+    },
+    {
+        "emergencia": false,
+        "id": "{e54e4bc5-66b4-4e28-a8b5-6b750d054bc5}",
+        "lora": "",
+        "nom": "ari",
+        "numero": "34689579250"
+    },
+    {
+        "emergencia": false,
+        "id": "{d3792bbc-6af8-43fc-a065-82cf2b3d436c}",
+        "lora": "",
+        "nom": "Ale-Hop F.Llopis",
+        "numero": "34630461486"
+    },
+    {
+        "emergencia": false,
+        "id": "{d5c4c10a-36cb-4ae0-b09a-a00279854156}",
+        "lora": "",
+        "nom": "Hugo",
+        "numero": "34611599737"
+    },
+    {
+        "emergencia": false,
+        "id": "{5af3cfaa-17b4-4323-a1de-efba98bb16da}",
+        "lora": "",
+        "nom": "😢😢",
+        "numero": "34622524991"
+    },
+    {
+        "emergencia": false,
+        "id": "{be6e2dc6-7f42-4362-b6b3-5d971e603a6b}",
+        "lora": "",
+        "nom": "Marc Ari",
+        "numero": "34671193003"
+    },
+    {
+        "emergencia": false,
+        "id": "{6f9bebe3-4119-4ebe-ae83-366adecbd5c2}",
+        "lora": "",
+        "nom": "Joel",
+        "numero": "34656462333"
+    },
+    {
+        "emergencia": false,
+        "id": "{5290fe22-96fe-4af5-973e-774439bd59c3}",
+        "lora": "",
+        "nom": "Lauritaaa",
+        "numero": "34641223747"
+    },
+    {
+        "emergencia": false,
+        "id": "{b9731073-f7e1-4595-84a9-519452821650}",
+        "lora": "",
+        "nom": "Raulito",
+        "numero": "34601072318"
+    },
+    {
+        "emergencia": false,
+        "id": "{e8c1ca73-f1ce-44d3-9de3-30fbd35649de}",
+        "lora": "",
+        "nom": "👀",
+        "numero": "34610332425"
+    },
+    {
+        "emergencia": false,
+        "id": "{c754cb66-83f4-4a29-a081-2b9f28609275}",
+        "lora": "",
+        "nom": "Marco",
+        "numero": "34699299545"
+    },
+    {
+        "emergencia": false,
+        "id": "{56950d6b-a55a-45a9-a068-57712ec65b8c}",
+        "lora": "",
+        "nom": "Carmen",
+        "numero": "34634663990"
+    },
+    {
+        "emergencia": false,
+        "id": "{83530bdd-b73f-42d8-b6c8-c236fded5e64}",
+        "lora": "",
+        "nom": "Ballu",
+        "numero": "34622545050"
+    },
+    {
+        "emergencia": false,
+        "id": "{282d26ff-4f53-416f-b2b2-d33e6d435a68}",
+        "lora": "",
+        "nom": "Lia Portbou",
+        "numero": "34680541790"
+    },
+    {
+        "emergencia": false,
+        "id": "{b3309503-a304-4385-96d6-a3024bf10fd3}",
+        "lora": "",
+        "nom": "jevigri@gmail.com",
+        "numero": "34622453267"
+    },
+    {
+        "emergencia": false,
+        "id": "{52dcd15a-dee3-4e13-8787-47df0a5e7b70}",
+        "lora": "",
+        "nom": "Laura Cosina",
+        "numero": "34622232243"
+    },
+    {
+        "emergencia": false,
+        "id": "{dc805aa6-bf99-4a48-88e7-b90be371b14f}",
+        "lora": "",
+        "nom": "You",
+        "numero": "34722727127"
+    },
+    {
+        "emergencia": false,
+        "id": "{a70dec47-4382-48fd-b688-94b2d610787e}",
+        "lora": "",
+        "nom": "Paul",
+        "numero": "34642570020"
+    },
+    {
+        "emergencia": false,
+        "id": "{e45b30ed-c945-430f-9bcf-ca4b0733f422}",
+        "lora": "",
+        "nom": "Mireia Reserva SK",
+        "numero": "34600359252"
+    },
+    {
+        "emergencia": false,
+        "id": "{3922e41a-b4e6-4a07-b3a9-3174274c8124}",
+        "lora": "",
+        "nom": "JT",
+        "numero": "34618076337"
+    },
+    {
+        "emergencia": false,
+        "id": "{0e1bf950-789e-443f-823e-7f8ec4ea967c}",
+        "lora": "",
+        "nom": "Sebas",
+        "numero": "34618143975"
+    },
+    {
+        "emergencia": false,
+        "id": "{a378d3e0-d3e3-4765-a8db-83eea1cca302}",
+        "lora": "",
+        "nom": "Lucaklein00",
+        "numero": "34638676851"
+    },
+    {
+        "emergencia": false,
+        "id": "{52982e53-2be9-4e6d-aafe-8452153055eb}",
+        "lora": "",
+        "nom": "Xènia Amiga Marti",
+        "numero": "34674608848"
+    },
+    {
+        "emergencia": false,
+        "id": "{23b89f65-1dbf-4f66-b7d1-a8948478b6a8}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34689528294"
+    },
+    {
+        "emergencia": false,
+        "id": "{245f32ba-a9cf-43a4-b0d8-0b169ef98eb6}",
+        "lora": "",
+        "nom": "Ferran I Sandra",
+        "numero": "34639684383"
+    },
+    {
+        "emergencia": false,
+        "id": "{ad67b175-285e-4388-a275-b03271f6adf0}",
+        "lora": "",
+        "nom": "Oriol",
+        "numero": "34663938320"
+    },
+    {
+        "emergencia": false,
+        "id": "{95abe5d2-0c82-4455-a561-1b0a85a9e4d8}",
+        "lora": "",
+        "nom": "Belen",
+        "numero": "34675782674"
+    },
+    {
+        "emergencia": false,
+        "id": "{20062093-0d9a-443f-9ce9-e62803bd6b0b}",
+        "lora": "",
+        "nom": "Matias",
+        "numero": "34646787277"
+    },
+    {
+        "emergencia": false,
+        "id": "{6c15f267-b51c-44da-95fe-2eb834d779b4}",
+        "lora": "",
+        "nom": "Dudu",
+        "numero": "34615375119"
+    },
+    {
+        "emergencia": false,
+        "id": "{8be90ac0-4834-4b33-a5e1-37da1f28bef5}",
+        "lora": "",
+        "nom": "Melisa😊",
+        "numero": "820506562790"
+    },
+    {
+        "emergencia": false,
+        "id": "{330660ad-ce59-4a35-8021-aeb79f9ee047}",
+        "lora": "",
+        "nom": "Melisa😊",
+        "numero": "34643275291"
+    },
+    {
+        "emergencia": false,
+        "id": "{827e4fa0-1cd9-4651-869e-292ade49d2c2}",
+        "lora": "",
+        "nom": "Kike",
+        "numero": "34642708066"
+    },
+    {
+        "emergencia": false,
+        "id": "{e91a4322-81b6-4c4d-82bc-ff58c3387fb0}",
+        "lora": "",
+        "nom": "Gabri",
+        "numero": "34684631788"
+    },
+    {
+        "emergencia": false,
+        "id": "{9d871d52-276b-419a-9343-9e2a6a0ffe36}",
+        "lora": "",
+        "nom": "Luisa",
+        "numero": "34648421617"
+    },
+    {
+        "emergencia": false,
+        "id": "{58472874-1020-4ebf-8396-ab193c3efc78}",
+        "lora": "",
+        "nom": "Amigo Mateo Turró",
+        "numero": "34634570045"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a97f23e-c144-41c3-be49-bb34bb7d414e}",
+        "lora": "",
+        "nom": "David",
+        "numero": "34622373632"
+    },
+    {
+        "emergencia": false,
+        "id": "{d18a819c-e6ef-4323-b438-561ae2113145}",
+        "lora": "",
+        "nom": "Dani Insti",
+        "numero": "34635677023"
+    },
+    {
+        "emergencia": false,
+        "id": "{2b69cafd-7e00-42f2-871d-b132c0491840}",
+        "lora": "",
+        "nom": "🧚‍♀️ya Alaah",
+        "numero": "34631466294"
+    },
+    {
+        "emergencia": false,
+        "id": "{36daa8f6-405f-4d07-afab-a3714edf35cc}",
+        "lora": "",
+        "nom": ".",
+        "numero": "34639142636"
+    },
+    {
+        "emergencia": false,
+        "id": "{dcf1df10-2ccb-430f-a2f2-02098c56bd8b}",
+        "lora": "",
+        "nom": "Jose María",
+        "numero": "34684170337"
+    },
+    {
+        "emergencia": false,
+        "id": "{3ab12467-db9b-4ac2-8f1b-d79f12a8e83a}",
+        "lora": "",
+        "nom": "Sohaib",
+        "numero": "34632919535"
+    },
+    {
+        "emergencia": false,
+        "id": "{3e6e4803-054e-4406-ab6f-d2cbb0244a9b}",
+        "lora": "",
+        "nom": "Jatino💥",
+        "numero": "34661129386"
+    },
+    {
+        "emergencia": false,
+        "id": "{ad5e5fe0-53fd-4122-ac25-38df43e631e8}",
+        "lora": "",
+        "nom": "Dani",
+        "numero": "34615664642"
+    },
+    {
+        "emergencia": false,
+        "id": "{85577f61-f23b-433f-9d2a-69191a95c420}",
+        "lora": "",
+        "nom": "Joel",
+        "numero": "34611425064"
+    },
+    {
+        "emergencia": false,
+        "id": "{2a7f08ad-4eb0-4f32-8a05-7fe0715721b3}",
+        "lora": "",
+        "nom": "☟☆  𝕂𝓻ᵃşρƗŤ𝓸σσ",
+        "numero": "34624962418"
+    },
+    {
+        "emergencia": false,
+        "id": "{d082374b-4c5c-4f78-ade5-451da8c4a830}",
+        "lora": "",
+        "nom": "Iñaki Reig",
+        "numero": "34722414778"
+    },
+    {
+        "emergencia": false,
+        "id": "{66656cb9-f83c-4306-855d-9afd6ae1991e}",
+        "lora": "",
+        "nom": "Molii",
+        "numero": "34601461135"
+    },
+    {
+        "emergencia": false,
+        "id": "{a338da2d-cc85-4167-8af4-6c25890819ec}",
+        "lora": "",
+        "nom": "Nelly",
+        "numero": "34617983288"
+    },
+    {
+        "emergencia": false,
+        "id": "{a85d559a-532d-4d1c-82f6-da41ea89e80b}",
+        "lora": "",
+        "nom": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Manchester🇾🇪14/10/2",
+        "numero": "34692646987"
+    },
+    {
+        "emergencia": false,
+        "id": "{9031b6c3-d363-457e-8ba3-9bbb76a35004}",
+        "lora": "",
+        "nom": "+34 648 53 95 80",
+        "numero": "34648539580"
+    },
+    {
+        "emergencia": false,
+        "id": "{c4860e75-86e3-4a66-8bc3-ce17f1779ab8}",
+        "lora": "",
+        "nom": "Andrea",
+        "numero": "34696090066"
+    },
+    {
+        "emergencia": false,
+        "id": "{ac4af274-6fd2-4b32-82d0-14acaaadec5e}",
+        "lora": "",
+        "nom": "Alex Casado",
+        "numero": "34658817858"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a2a1f71-83b6-4654-8d67-59477669832c}",
+        "lora": "",
+        "nom": "bloste",
+        "numero": "34644089507"
+    },
+    {
+        "emergencia": false,
+        "id": "{eb11a09f-a5d8-4781-a7f7-fe592bfeb529}",
+        "lora": "",
+        "nom": "Albert",
+        "numero": "34645893269"
+    },
+    {
+        "emergencia": false,
+        "id": "{3bfd101e-f67a-4e5a-8568-d4e302137ff6}",
+        "lora": "",
+        "nom": "Ruri",
+        "numero": "34661652427"
+    },
+    {
+        "emergencia": false,
+        "id": "{a088421c-d26b-48ff-a5dc-5070c2b58b9c}",
+        "lora": "",
+        "nom": "Clan",
+        "numero": "34679654464"
+    },
+    {
+        "emergencia": false,
+        "id": "{796fba22-2f98-41dc-8177-071c9f11029a}",
+        "lora": "",
+        "nom": "Adrián",
+        "numero": "34646581685"
+    },
+    {
+        "emergencia": false,
+        "id": "{4580a612-1178-409d-a09b-7e628ce50031}",
+        "lora": "",
+        "nom": "Elias",
+        "numero": "34695716399"
+    },
+    {
+        "emergencia": false,
+        "id": "{a1658b4e-10f8-4b74-aa76-125b075d3a3e}",
+        "lora": "",
+        "nom": "Xavier Masvidal",
+        "numero": "33640561614"
+    },
+    {
+        "emergencia": false,
+        "id": "{6a1e53c0-d4cd-4441-a8ee-759108b27fef}",
+        "lora": "",
+        "nom": "Cantero~",
+        "numero": "34675832825"
+    },
+    {
+        "emergencia": false,
+        "id": "{58289417-3aeb-4f56-9c16-9a0b947a2862}",
+        "lora": "",
+        "nom": "Xavi Guardia",
+        "numero": "34649898248"
+    },
+    {
+        "emergencia": false,
+        "id": "{f5e372b5-ef7d-4d41-9b22-fd18a8da2648}",
+        "lora": "",
+        "nom": "Ximena",
+        "numero": "34641878418"
+    },
+    {
+        "emergencia": false,
+        "id": "{5789b09d-a263-4ce3-8bbd-dac529291ba5}",
+        "lora": "",
+        "nom": "erik",
+        "numero": "34682380562"
+    },
+    {
+        "emergencia": false,
+        "id": "{bdb8497a-f7dc-4824-a3df-0e40976eab6d}",
+        "lora": "",
+        "nom": "Marc",
+        "numero": "34640716508"
+    },
+    {
+        "emergencia": false,
+        "id": "{32ac3262-95f0-495a-b13c-62f8581af66a}",
+        "lora": "",
+        "nom": "Genis Carre",
+        "numero": "34636702728"
+    },
+    {
+        "emergencia": false,
+        "id": "{19962a0a-6bca-4264-98ec-d4c98cdc69ae}",
+        "lora": "",
+        "nom": "Júlia Arquitecta",
+        "numero": "34609443066"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ee5702e-e811-492a-8d83-14e1eb0a00b5}",
+        "lora": "",
+        "nom": "Jeep",
+        "numero": "34722228431"
+    },
+    {
+        "emergencia": false,
+        "id": "{687d7268-dd8f-4f00-99e9-2f1e2e4e97f0}",
+        "lora": "",
+        "nom": "Actínia",
+        "numero": "34660488014"
+    },
+    {
+        "emergencia": false,
+        "id": "{227c1e3a-75c7-43f1-8797-e8ff51cdd470}",
+        "lora": "",
+        "nom": "E",
+        "numero": "34666256006"
+    },
+    {
+        "emergencia": false,
+        "id": "{f3f2cf9f-f7af-42bd-8ce4-354db0aa75bc}",
+        "lora": "",
+        "nom": "@Ryexus",
+        "numero": "34644494042"
+    },
+    {
+        "emergencia": false,
+        "id": "{ebbea467-1021-47dd-ad39-46803ddea736}",
+        "lora": "",
+        "nom": "héctor",
+        "numero": "34622038450"
+    },
+    {
+        "emergencia": false,
+        "id": "{7024860c-05df-4615-8649-2a84e515fe83}",
+        "lora": "",
+        "nom": "Oscar",
+        "numero": "34671130540"
+    },
+    {
+        "emergencia": false,
+        "id": "{5c0b7c46-17db-41a5-a0e9-f664ebb12775}",
+        "lora": "",
+        "nom": "Andy Cuevaaaa",
+        "numero": "34643435449"
+    },
+    {
+        "emergencia": false,
+        "id": "{fc9104a0-9999-45b8-afd6-2be04c225838}",
+        "lora": "",
+        "nom": "Sabina Salle",
+        "numero": "34676683231"
+    },
+    {
+        "emergencia": false,
+        "id": "{19905762-05ea-4aad-963d-f9d0cc16259c}",
+        "lora": "",
+        "nom": "Sara Gutiérrez",
+        "numero": "34646800176"
+    },
+    {
+        "emergencia": false,
+        "id": "{5e6343b1-18a4-4f4d-b910-8f1484c78741}",
+        "lora": "",
+        "nom": "Luca👍💠",
+        "numero": "34611755542"
+    },
+    {
+        "emergencia": false,
+        "id": "{733de55f-e5f3-40f3-9f2e-cc1b1fa571d4}",
+        "lora": "",
+        "nom": "Sergio Santacana",
+        "numero": "34693777114"
+    },
+    {
+        "emergencia": false,
+        "id": "{32a374b3-e3dc-497f-b296-abd10d4f0bc0}",
+        "lora": "",
+        "nom": "Sara Cumple Alba",
+        "numero": "34622775668"
+    },
+    {
+        "emergencia": false,
+        "id": "{01d566b4-ebfc-4dd0-9b4d-e8dd848f334f}",
+        "lora": "",
+        "nom": "El Nene De Mitu",
+        "numero": "34653409764"
+    },
+    {
+        "emergencia": false,
+        "id": "{bdf6d4ae-2de8-4819-89ee-a790c0bd0745}",
+        "lora": "",
+        "nom": "Mj",
+        "numero": "34744626215"
+    },
+    {
+        "emergencia": false,
+        "id": "{7415d365-ad21-4471-8763-c3eb97903a59}",
+        "lora": "",
+        "nom": "Pau Rodriguez",
+        "numero": "34648539437"
+    },
+    {
+        "emergencia": false,
+        "id": "{b025a129-6b05-4b2c-a5f2-07332b2609ee}",
+        "lora": "",
+        "nom": "Baldiri",
+        "numero": "34646707918"
+    },
+    {
+        "emergencia": false,
+        "id": "{0c809eea-7f07-49ca-ba85-4d3099657eaa}",
+        "lora": "",
+        "nom": "Guillem BAT",
+        "numero": "34686962922"
+    },
+    {
+        "emergencia": false,
+        "id": "{33a6ecba-dae9-4bc3-893d-03579cb0c58a}",
+        "lora": "",
+        "nom": "xyz",
+        "numero": "34671144761"
+    },
+    {
+        "emergencia": false,
+        "id": "{8105a0f0-6266-41f7-a452-3e6a4a502702}",
+        "lora": "",
+        "nom": "Queralt",
+        "numero": "34645505144"
+    },
+    {
+        "emergencia": false,
+        "id": "{5a188960-22a9-4677-9917-d12b87b6fcab}",
+        "lora": "",
+        "nom": "vaanee",
+        "numero": "34672166183"
+    },
+    {
+        "emergencia": false,
+        "id": "{b8353e48-4862-4a25-a40a-5b8470f4c197}",
+        "lora": "",
+        "nom": "Rubén",
+        "numero": "34617641500"
+    },
+    {
+        "emergencia": false,
+        "id": "{672de1f4-32e0-4685-84cb-cde8636b4b2c}",
+        "lora": "",
+        "nom": "Martí",
+        "numero": "34695496130"
+    },
+    {
+        "emergencia": false,
+        "id": "{1975d0f7-246c-4668-95fb-2b2ffc95cb0e}",
+        "lora": "",
+        "nom": "Amin",
+        "numero": "34643479200"
+    },
+    {
+        "emergencia": false,
+        "id": "{2ab589ba-3840-4edc-88c2-c0eb7586d276}",
+        "lora": "",
+        "nom": "Lobo",
+        "numero": "34670466711"
+    },
+    {
+        "emergencia": false,
+        "id": "{82fe3e70-ba19-47ea-ae31-e1363838e043}",
+        "lora": "",
+        "nom": "Natalia",
+        "numero": "34658131415"
+    },
+    {
+        "emergencia": false,
+        "id": "{cfb9ae14-51e0-4449-a8af-f0164a1227cc}",
+        "lora": "",
+        "nom": "Berta Picornell",
+        "numero": "34644766331"
+    },
+    {
+        "emergencia": false,
+        "id": "{d28abc59-77d4-41b1-ab38-753fcf614b73}",
+        "lora": "",
+        "nom": "Wallapop Bizum",
+        "numero": "34686532544"
+    },
+    {
+        "emergencia": false,
+        "id": "{7a5d7032-48be-4ea9-a900-dbcb36d23202}",
+        "lora": "",
+        "nom": "Ignasi Rius",
+        "numero": "34699478554"
+    },
+    {
+        "emergencia": false,
+        "id": "{24350504-f0a6-48be-a5fc-a7c9599fd9a2}",
+        "lora": "",
+        "nom": "Cerri 🫡",
+        "numero": "34656531064"
+    },
+    {
+        "emergencia": false,
+        "id": "{59554be1-5b10-4067-aa94-7ec070f98059}",
+        "lora": "",
+        "nom": "txell",
+        "numero": "34603483740"
+    },
+    {
+        "emergencia": false,
+        "id": "{9f8b6901-6b22-4b48-a5dd-8f62a8704569}",
+        "lora": "",
+        "nom": "Ari",
+        "numero": "34640227389"
+    },
+    {
+        "emergencia": false,
+        "id": "{c14082a3-ef33-4830-bb46-c51ed71ad007}",
+        "lora": "",
+        "nom": "David Caballero",
+        "numero": "34667823894"
+    },
+    {
+        "emergencia": false,
+        "id": "{38e17a4a-4605-4bd2-8911-5d2a7432a550}",
+        "lora": "",
+        "nom": "GisOne's",
+        "numero": "34640153012"
+    },
+    {
+        "emergencia": false,
+        "id": "{d71951d8-df15-4036-939d-68ab12b5ebdd}",
+        "lora": "",
+        "nom": "natàlia",
+        "numero": "34692498534"
+    },
+    {
+        "emergencia": false,
+        "id": "{b02e4e14-01ab-4064-b5a9-ec2d612e92d1}",
+        "lora": "",
+        "nom": "Maria Insta",
+        "numero": "34643160265"
+    },
+    {
+        "emergencia": false,
+        "id": "{3fc12ce4-34f3-4d7d-8f4c-d14e0293a178}",
+        "lora": "",
+        "nom": "Joel.F.Rojas",
+        "numero": "34620671744"
+    },
+    {
+        "emergencia": false,
+        "id": "{9cf49355-d10d-4d15-a4a7-ef5a21be6535}",
+        "lora": "",
+        "nom": "7 Arts ",
+        "numero": "34872501251"
+    },
+    {
+        "emergencia": false,
+        "id": "{42b0b23c-fc24-4489-94de-2086ede5df0f}",
+        "lora": "",
+        "nom": "Jorge",
+        "numero": "34649420960"
+    },
+    {
+        "emergencia": false,
+        "id": "{1e88ce77-838a-4d43-8e01-35be8835d759}",
+        "lora": "",
+        "nom": "Pedroubeda28",
+        "numero": "34640346045"
+    },
+    {
+        "emergencia": false,
+        "id": "{659377a7-2825-4e45-863b-811057b1f1bf}",
+        "lora": "",
+        "nom": "Yang",
+        "numero": "34688141492"
+    },
+    {
+        "emergencia": false,
+        "id": "{e46f8bba-e7c6-4c8e-a5b1-fb22dfd83090}",
+        "lora": "",
+        "nom": "Olga Profe Física",
+        "numero": "34649159568"
+    },
+    {
+        "emergencia": false,
+        "id": "{4f341c2e-d4a4-4bfb-8990-c3e55f1931e4}",
+        "lora": "",
+        "nom": "Meta AI",
+        "numero": "13135550002"
+    },
+    {
+        "emergencia": false,
+        "id": "{a36ee563-09b6-4439-80d3-672adb400331}",
+        "lora": "",
+        "nom": "_",
+        "numero": "34643508016"
+    },
+    {
+        "emergencia": false,
+        "id": "{7d8fc4f3-b2a6-42cd-8fd8-f813aa1cd008}",
+        "lora": "",
+        "nom": "Hicham",
+        "numero": "34662088549"
+    },
+    {
+        "emergencia": false,
+        "id": "{36e7dbc2-3226-483b-a317-6dd7125dbf9c}",
+        "lora": "",
+        "nom": "TRY",
+        "numero": "34693682293"
+    },
+    {
+        "emergencia": false,
+        "id": "{8660d58d-144d-4c96-8cf8-92a82e654285}",
+        "lora": "",
+        "nom": "West Ltd",
+        "numero": "38665824979"
+    },
+    {
+        "emergencia": false,
+        "id": "{525a1321-9192-410c-a22c-27eb9d2cf4ad}",
+        "lora": "",
+        "nom": "Quimet Pares",
+        "numero": "34657860044"
+    },
+    {
+        "emergencia": false,
+        "id": "{84d02524-3024-40a6-9466-4e0680c3fd91}",
+        "lora": "",
+        "nom": "Esther Villahermosa Angles",
+        "numero": "34622820047"
+    },
+    {
+        "emergencia": false,
+        "id": "{00b03b5b-ad53-420c-8234-7f14388dc282}",
+        "lora": "",
+        "nom": "Paquita Pares",
+        "numero": "34626146856"
+    },
+    {
+        "emergencia": false,
+        "id": "{8f0ff023-7a50-486b-af37-b050711d4560}",
+        "lora": "",
+        "nom": "M Angels Gubern",
+        "numero": "34610984622"
+    },
+    {
+        "emergencia": false,
+        "id": "{4b8e81e1-9f99-4964-a01e-af445fe6fa2d}",
+        "lora": "",
+        "nom": "Jalid Reche",
+        "numero": "34666811481"
+    },
+    {
+        "emergencia": false,
+        "id": "{d273ea3c-4027-4853-8c3e-06ea2a13c15f}",
+        "lora": "",
+        "nom": "Viatges Canigó",
+        "numero": "34609419467"
+    },
+    {
+        "emergencia": false,
+        "id": "{123989c4-c1a0-40aa-af21-0f1b64ce80e6}",
+        "lora": "",
+        "nom": "Jose Francisco",
+        "numero": "34629344360"
+    },
+    {
+        "emergencia": false,
+        "id": "{b0cb90ad-b994-45ab-a435-53a0c686a2c6}",
+        "lora": "",
+        "nom": "armaanhussain9384",
+        "numero": "917417548009"
+    },
+    {
+        "emergencia": false,
+        "id": "{89fc9c03-5037-49e1-9686-ef0a1f06eda3}",
+        "lora": "",
+        "nom": "Salome",
+        "numero": "34618308011"
+    },
+    {
+        "emergencia": false,
+        "id": "{cd4323ec-12ab-491b-a82f-6259e3c5e496}",
+        "lora": "",
+        "nom": "Bernat",
+        "numero": "34677989170"
+    },
+    {
+        "emergencia": false,
+        "id": "{7a1041fe-5ff7-4b02-8461-ce5a71a0f0f2}",
+        "lora": "",
+        "nom": "J",
+        "numero": "34681977119"
+    },
+    {
+        "emergencia": false,
+        "id": "{e05f66bd-5ccb-42af-ad8e-ce597436469b}",
+        "lora": "",
+        "nom": "Mireia",
+        "numero": "34686664937"
+    }
+]
